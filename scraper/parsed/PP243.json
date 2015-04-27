@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Christine Allerston", 
+            "name": "Mrs Christine Allerston", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_202.gif", 
+            "description": "Initials SDP in ITC American Typewriter bold condensed with underline", 
             "primary": false, 
-            "id": "202", 
-            "description": "Initials SDP in ITC American Typewriter bold condensed with underline"
+            "id": "202"
         }, 
         {
             "image": "Emblem_203.gif", 
+            "description": "Initials SDP in ITC American Typewriter bold condensed with double underline and tick", 
             "primary": false, 
-            "id": "203", 
-            "description": "Initials SDP in ITC American Typewriter bold condensed with double underline and tick"
+            "id": "203"
         }, 
         {
             "image": "Emblem_204.gif", 
+            "description": "The word The Social Democratic in ITC American Typewriter bold condensed", 
             "primary": false, 
-            "id": "204", 
-            "description": "The word The Social Democratic in ITC American Typewriter bold condensed"
+            "id": "204"
         }
     ], 
     "party_address": "69 Oakdale Road\r\nHodge Hill\r\nBirmingham\r\nWarwickshire\r\nB36 8AU\r\nUnited Kingdom\r\n", 
@@ -47,7 +51,7 @@
     "party_id": "PP243", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

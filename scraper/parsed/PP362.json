@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Ronald McKay", 
+            "name": "Mr Ronald McKay", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_615.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "615", 
-            "description": "Emblem 1"
+            "id": "615"
         }, 
         {
             "image": "Emblem_616.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "616", 
-            "description": "Emblem 2"
+            "id": "616"
         }, 
         {
             "image": "Emblem_617.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "617", 
-            "description": "Emblem 3"
+            "id": "617"
         }
     ], 
     "party_address": "2 Grattan Road\r\nBradford\r\nBD1 2HS\r\nUnited Kingdom\r\n", 
@@ -47,7 +51,7 @@
     "party_id": "PP362", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

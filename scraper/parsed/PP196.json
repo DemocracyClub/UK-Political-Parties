@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-08-16T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_178.gif", 
+            "description": "The name Populist Party in black and white", 
             "primary": false, 
-            "id": "178", 
-            "description": "The name Populist Party in black and white"
+            "id": "178"
         }
     ], 
     "party_address": "4 Huntingdon House\r\nSt Pauls Avenue\r\nWillesden Green\r\nLondon\r\nNW2 5SR\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP196", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

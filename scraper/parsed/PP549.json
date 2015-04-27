@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "The Reverend Ceiteach Michl Marschl", 
     "registered_date": "2006-03-21T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_1126.jpg", 
+            "description": "The Space Navies Flies", 
             "primary": false, 
-            "id": "1126", 
-            "description": "The Space Navies Flies"
+            "id": "1126"
         }, 
         {
             "image": "Emblem_1127.jpg", 
+            "description": "The Space Navies Are GOOD n GAY", 
             "primary": false, 
-            "id": "1127", 
-            "description": "The Space Navies Are GOOD n GAY"
+            "id": "1127"
         }, 
         {
             "image": "Emblem_1128.jpg", 
+            "description": "The Space Navies Reach For The Stars", 
             "primary": false, 
-            "id": "1128", 
-            "description": "The Space Navies Reach For The Stars"
+            "id": "1128"
         }
     ], 
     "party_address": "10 Greenbank\r\nBlaydon\r\nTyne and Wear\r\nNE21 4BN\r\nUnited Kingdom\r\n", 
@@ -38,8 +42,8 @@
     "treasurer": "Professor Dorothy Mitchell", 
     "party_id": "PP549", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

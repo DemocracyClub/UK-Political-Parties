@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Ms Sujata Aurora", 
     "registered_date": "2014-03-12T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_950.jpg", 
+            "description": "MWG", 
             "primary": false, 
-            "id": "950", 
-            "description": "MWG"
+            "id": "950"
         }
     ], 
     "party_address": "9 Osborne Road\r\nLondon\r\nNW2 5DR\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP2264", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

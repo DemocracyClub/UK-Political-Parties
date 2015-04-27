@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Michael Murdoch", 
+            "name": "Mr Michael Murdoch", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_43.gif", 
+            "description": "St George and the dragon on St Georges hill", 
             "primary": false, 
-            "id": "43", 
-            "description": "St George and the dragon on St Georges hill"
+            "id": "43"
         }
     ], 
     "party_address": "3 Flockton House\r\nWhittets Ait\r\nWeybridge\r\nSurrey\r\nKT13 8BJ\r\nUnited Kingdom\r\n", 
@@ -35,7 +37,7 @@
     "party_id": "PP49", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

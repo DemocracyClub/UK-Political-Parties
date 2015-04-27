@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-11-10T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_13.gif", 
+            "description": "MoleWavesMolesey Residents Association", 
             "primary": false, 
-            "id": "13", 
-            "description": "MoleWavesMolesey Residents Association"
+            "id": "13"
         }, 
         {
             "image": "Emblem_14.gif", 
+            "description": "MoleWaves", 
             "primary": false, 
-            "id": "14", 
-            "description": "MoleWaves"
+            "id": "14"
         }, 
         {
             "image": "Emblem_15.gif", 
+            "description": "MRA", 
             "primary": false, 
-            "id": "15", 
-            "description": "MRA"
+            "id": "15"
         }
     ], 
     "party_address": "24 Southfields\r\nEast Molesey\r\nSurrey\r\nKT8 0BP\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP20", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

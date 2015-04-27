@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Ms Elizabeth Snape", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-02-28T00:00:00", 
+    "postcode": "NW1 2AY", 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
+    "emblems": [], 
+    "party_address": "UNISON Centre\r\n130 Euston Road\r\nLondon\r\nNW1 2AY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Lapsed", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "TP910", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": null, 
+    "party_name": "UNISON - The Public Service Union", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

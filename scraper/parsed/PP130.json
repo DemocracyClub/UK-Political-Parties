@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Ms Barbara Watt", 
     "registered_date": "2001-04-04T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_145.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "145", 
-            "description": "Emblem 1"
+            "id": "145"
         }
     ], 
     "party_address": "Bonnington Mill\r\n72 Newhaven Road\r\nEdinburgh\r\nEH6 5QG\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP130", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {

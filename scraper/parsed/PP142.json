@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Philip Andrews", 
     "registered_date": "2000-08-23T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_154.gif", 
+            "description": "Oak tree emerging from roots", 
             "primary": false, 
-            "id": "154", 
-            "description": "Oak tree emerging from roots"
+            "id": "154"
         }, 
         {
             "image": "Emblem_155.gif", 
+            "description": "\"Tree Roots Community\"", 
             "primary": false, 
-            "id": "155", 
-            "description": "\"Tree Roots Community\""
+            "id": "155"
         }, 
         {
             "image": "Emblem_156.gif", 
+            "description": "\"Tree Roots Community ICG\"", 
             "primary": false, 
-            "id": "156", 
-            "description": "\"Tree Roots Community ICG\""
+            "id": "156"
         }
     ], 
     "party_address": "13 Moreton Avenue\r\nIsleworth\r\nMiddlesex\r\nTW7 4NW\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP142", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

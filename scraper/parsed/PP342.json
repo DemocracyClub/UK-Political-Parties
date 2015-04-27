@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-04-03T00:00:00", 
     "campaigns_officer": "Mr Jonathan Harris", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_256.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "256", 
-            "description": "Emblem 1"
+            "id": "256"
         }
     ], 
     "party_address": "5 Walton Avenue\r\nNew Malden\r\nSurrey\r\nKT3 6DQ\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Alan West", 
-    "party_name": "The Republican Party", 
+    "party_id": "PP342", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP342", 
+    "party_name": "The Republican Party", 
     "alternative_names": [
         ""
     ], 

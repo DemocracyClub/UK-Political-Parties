@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-10-29T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1044.jpg", 
+            "description": "HRL", 
             "primary": false, 
-            "id": "1044", 
-            "description": "HRL"
+            "id": "1044"
         }
     ], 
     "party_address": "15 Bowlalley Lane\r\nHull\r\nHU1 1YT\r\nUnited Kingdom\r\n", 
@@ -26,7 +28,7 @@
     "treasurer": "Mrs Tracey Booth", 
     "party_id": "PP2528", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

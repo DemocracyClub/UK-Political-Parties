@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Andrew Jordan", 
     "registered_date": "1999-02-25T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_79.gif", 
+            "description": "SLP Wales", 
             "primary": false, 
-            "id": "79", 
-            "description": "SLP Wales"
+            "id": "79"
         }, 
         {
             "image": "Emblem_80.gif", 
+            "description": "SLP Scotland", 
             "primary": false, 
-            "id": "80", 
-            "description": "SLP Scotland"
+            "id": "80"
         }, 
         {
             "image": "Emblem_81.gif", 
+            "description": "Globe with map of Earth with wordsletters Socialist Labour PartySLP", 
             "primary": false, 
-            "id": "81", 
-            "description": "Globe with map of Earth with wordsletters Socialist Labour PartySLP"
+            "id": "81"
         }
     ], 
     "party_address": "11 North Dunes\r\nHightown\r\nMerseyside\r\nL38 0BS\r\nUnited Kingdom\r\n", 
@@ -38,8 +42,8 @@
     "treasurer": "Mr William Kenneth Capstick", 
     "party_id": "PP73", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

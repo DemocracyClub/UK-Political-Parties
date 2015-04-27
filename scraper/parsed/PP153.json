@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-07-09T00:00:00", 
     "campaigns_officer": "Mr Terry Galloway", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_161.gif", 
+            "description": "The Community Alliance emblem comprises the capital letters C superimposed upon the letter A with the letter C positioned so as to cover the bar at the centre of the letter A", 
             "primary": false, 
-            "id": "161", 
-            "description": "The Community Alliance emblem comprises the capital letters C superimposed upon the letter A with the letter C positioned so as to cover the bar at the centre of the letter A"
+            "id": "161"
         }
     ], 
     "party_address": "6 Queen Street\r\nBideford\r\nDevon\r\nEX39 2JG\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Bernard Koorlander", 
-    "party_name": "Community Alliance", 
+    "party_id": "PP153", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP153", 
+    "party_name": "Community Alliance", 
     "alternative_names": [
         "Cymuned Cyfathrach"
     ], 

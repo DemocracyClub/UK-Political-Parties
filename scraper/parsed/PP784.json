@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Brian Eagling", 
     "registered_date": "2009-11-09T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_461.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "461", 
-            "description": "Emblem 1"
+            "id": "461"
         }, 
         {
             "image": "Emblem_845.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "845", 
-            "description": "Emblem 2"
+            "id": "845"
         }
     ], 
     "party_address": "20 Tindall Close\r\nRomford\r\nEssex\r\nRM3 0PB\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP784", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

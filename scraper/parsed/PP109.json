@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Melinda Nettleton", 
+            "name": "Mrs Melinda Nettleton", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -26,7 +28,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Nettleton", 
-    "party_name": "The Local Party Bury St Edmunds", 
+    "party_id": "PP109", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -40,7 +42,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP109", 
+    "party_name": "The Local Party Bury St Edmunds", 
     "alternative_names": [
         ""
     ], 

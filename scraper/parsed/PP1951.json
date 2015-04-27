@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Jamie Hodgkinson", 
+            "name": "Cllr Jamie Hodgkinson", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_875.jpg", 
+            "description": "WIN", 
             "primary": false, 
-            "id": "875", 
-            "description": "WIN"
+            "id": "875"
         }
     ], 
     "party_address": "20 Hillside Avenue\r\nAtherton\r\nManchester\r\nLancashire\r\nM46 9LX\r\nUnited Kingdom\r\n", 
@@ -35,7 +37,7 @@
     "party_id": "PP1951", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

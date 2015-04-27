@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "Mrs Wendy Hansell", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_402.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "402", 
-            "description": "Emblem 1"
+            "id": "402"
         }
     ], 
     "party_address": "Upton House\r\nMill Lane\r\nDover\r\nKent\r\nCT15 7LJ\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Reginald Victor Hansell", 
-    "party_name": "Independents Party of Dover District", 
+    "party_id": "PP676", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP676", 
+    "party_name": "Independents Party of Dover District", 
     "alternative_names": [
         ""
     ], 

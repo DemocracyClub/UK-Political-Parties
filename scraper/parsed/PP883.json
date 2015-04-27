@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Charles Nicholls", 
     "registered_date": "2010-08-25T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_565.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "565", 
-            "description": "Emblem 1"
+            "id": "565"
         }
     ], 
     "party_address": "38 Middle Way\r\nFayre Oaks Home Park\r\nHereford\r\nHR4 0SU\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP883", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

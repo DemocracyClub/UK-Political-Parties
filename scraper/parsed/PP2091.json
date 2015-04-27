@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "Mr Samrat Bhandari", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_854.jpg", 
+            "description": "BETTER BEDFORD", 
             "primary": false, 
-            "id": "854", 
-            "description": "BETTER BEDFORD"
+            "id": "854"
         }
     ], 
     "party_address": "William Albert House\r\n2 Mill Street\r\nBedford\r\nBedfordshire\r\nMK40 3HD\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Veena Bhandari", 
-    "party_name": "Better Bedford", 
+    "party_id": "PP2091", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP2091", 
+    "party_name": "Better Bedford", 
     "alternative_names": [
         ""
     ], 

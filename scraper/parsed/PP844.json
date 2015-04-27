@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-17T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_527.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "527", 
-            "description": "Emblem 1"
+            "id": "527"
         }, 
         {
             "image": "Emblem_605.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "605", 
-            "description": "Emblem 2"
+            "id": "605"
         }, 
         {
             "image": "Emblem_1051.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "1051", 
-            "description": "Emblem 3"
+            "id": "1051"
         }
     ], 
     "party_address": "521 Romford Road\r\nLondon\r\nE7 8AD\r\nUnited Kingdom\r\n", 
@@ -38,8 +40,8 @@
     "treasurer": "Mrs Humera Kamran", 
     "party_id": "PP844", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-02-01T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_690.png", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "690", 
-            "description": "Emblem 1"
+            "id": "690"
         }, 
         {
             "image": "Emblem_691.png", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "691", 
-            "description": "Emblem 2"
+            "id": "691"
         }, 
         {
             "image": "Emblem_692.png", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "692", 
-            "description": "Emblem 3"
+            "id": "692"
         }
     ], 
     "party_address": "PO Box 280\r\nSidcup\r\nKent\r\nDA15 0FS\r\nUnited Kingdom\r\n", 
@@ -38,9 +42,9 @@
     "treasurer": "None", 
     "party_id": "PPm1859", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -49,7 +53,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "The Homeland Party", 
     "alternative_names": [
         ""

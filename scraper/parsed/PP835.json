@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_512.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "512", 
-            "description": "Emblem 1"
+            "id": "512"
         }, 
         {
             "image": "Emblem_513.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "513", 
-            "description": "Emblem 2"
+            "id": "513"
         }, 
         {
             "image": "Emblem_514.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "514", 
-            "description": "Emblem 3"
+            "id": "514"
         }
     ], 
     "party_address": "14 The Common\r\nCrich\r\nMatlock\r\nDerbyshire\r\nDE4 5BH\r\nUnited Kingdom\r\n", 

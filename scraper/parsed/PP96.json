@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-03-02T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_112.gif", 
+            "description": "8armed star", 
             "primary": false, 
-            "id": "112", 
-            "description": "8armed star"
+            "id": "112"
         }
     ], 
     "party_address": "57 Clay Lane\r\nHandforth\r\nWilmslow\r\nCheshire\r\nSK9 3NP\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP96", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

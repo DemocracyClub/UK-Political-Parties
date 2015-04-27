@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Martin Wright", 
+            "name": "Cllr Martin Wright", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_316.gif", 
+            "description": "Mansfield Independent Forum Logo", 
             "primary": false, 
-            "id": "316", 
-            "description": "Mansfield Independent Forum Logo"
+            "id": "316"
         }
     ], 
     "party_address": "3 Wellcroft Close\r\nMansfield\r\nNottinghamshire\r\nNG18 5GS\r\nUnited Kingdom\r\n", 
@@ -35,7 +37,7 @@
     "party_id": "PP504", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

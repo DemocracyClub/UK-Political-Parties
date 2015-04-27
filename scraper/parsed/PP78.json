@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_91.gif", 
+            "description": "Hammer and sickle", 
             "primary": false, 
-            "id": "91", 
-            "description": "Hammer and sickle"
+            "id": "91"
         }, 
         {
             "image": "Emblem_92.gif", 
+            "description": "Peace dove and hammer", 
             "primary": false, 
-            "id": "92", 
-            "description": "Peace dove and hammer"
+            "id": "92"
         }, 
         {
             "image": "Emblem_93.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "93", 
-            "description": "Emblem 3"
+            "id": "93"
         }
     ], 
     "party_address": "Ruskin House\r\n23 Coombe Road\r\nCroydon\r\nSurrey\r\nCR0 1BD\r\nUnited Kingdom\r\n", 
@@ -38,9 +42,9 @@
     "treasurer": "Dr Martin John Graham", 
     "party_id": "PP78", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": true
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "type": "Point", 

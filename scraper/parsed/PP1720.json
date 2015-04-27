@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Nick Collingridge", 
+            "name": "Mr Nick Collingridge", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -18,9 +20,9 @@
     "emblems": [
         {
             "image": "Emblem_638.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "638", 
-            "description": "Emblem 1"
+            "id": "638"
         }
     ], 
     "party_address": "C/O Scaithcliffe House\r\nOrmrod Street\r\nAccrington\r\nLancashire\r\nBB5 0PF\r\nUnited Kingdom\r\n", 
@@ -33,10 +35,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul F Gott", 
-    "party_name": "Independents in Hyndburn", 
+    "party_id": "PP1720", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -47,7 +49,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1720", 
+    "party_name": "Independents in Hyndburn", 
     "alternative_names": [
         ""
     ], 

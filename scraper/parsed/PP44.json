@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Gerald Gordon Wheeler", 
     "registered_date": "2000-01-27T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_35.gif", 
+            "description": "Heart in hand", 
             "primary": false, 
-            "id": "35", 
-            "description": "Heart in hand"
+            "id": "35"
         }, 
         {
             "image": "Emblem_976.png", 
+            "description": "Heart in hand with text", 
             "primary": false, 
-            "id": "976", 
-            "description": "Heart in hand with text"
+            "id": "976"
         }
     ], 
     "party_address": "Independent Kidderminster Hospital and Health Concern\r\nStation Approach\r\nComberton Hill\r\nKidderminster\r\nWorcestershire\r\nDY10 1QX\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP44", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

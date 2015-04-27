@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Colin Weaving", 
+            "name": "Mr Colin Weaving", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_173.gif", 
+            "description": "Putting Croydon First Your Independent Council", 
             "primary": false, 
-            "id": "173", 
-            "description": "Putting Croydon First Your Independent Council"
+            "id": "173"
         }, 
         {
             "image": "Emblem_174.gif", 
+            "description": "Putting Croydon First", 
             "primary": false, 
-            "id": "174", 
-            "description": "Putting Croydon First"
+            "id": "174"
         }, 
         {
             "image": "Emblem_175.gif", 
+            "description": "Croydon Residents Deserve An Independent Council", 
             "primary": false, 
-            "id": "175", 
-            "description": "Croydon Residents Deserve An Independent Council"
+            "id": "175"
         }
     ], 
     "party_address": "71 Brighton Road\r\nSouth Croydon\r\nSurrey\r\nCR2 6EE\r\nUnited Kingdom\r\n", 
@@ -46,8 +50,8 @@
     "treasurer": "Mr Mark Samuel", 
     "party_id": "PP185", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

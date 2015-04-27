@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-03-12T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1025.jpg", 
+            "description": "Emblem1", 
             "primary": false, 
-            "id": "1025", 
-            "description": "Emblem1"
+            "id": "1025"
         }
     ], 
     "party_address": "61 Vesta House\r\n4 Liberty Bridge Road\r\nLondon\r\nLondon\r\nE20 1AN\r\nUnited Kingdom\r\n", 

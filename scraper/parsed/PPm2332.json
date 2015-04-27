@@ -1,12 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Edith Smith", 
-            "deputy_campaigns_officer": null, 
-            "deputy_treasurer": null
+            "name": "Mrs Edith Smith", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
         }
     ], 
     "campaigns_officer": "Mr Androw Hawke", 
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_988.jpg", 
+            "description": "Celtic Knots, Sword representing King Arthur", 
             "primary": false, 
-            "id": "988", 
-            "description": "Celtic Knots, Sword representing King Arthur"
+            "id": "988"
         }
     ], 
     "party_address": "63\r\nGilbert Road\r\nBodmin\r\nCornwall\r\nPL31 2FF\r\nUnited Kingdom\r\n", 
@@ -34,9 +36,9 @@
     "treasurer": "Mrs Edith Smith", 
     "party_id": "PPm2332", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -45,7 +47,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "The Cornish Nationalist Party", 
     "alternative_names": [
         ""

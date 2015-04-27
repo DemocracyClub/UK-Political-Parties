@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_38.gif", 
+            "description": "Scottish Socialist Party with background star", 
             "primary": false, 
-            "id": "38", 
-            "description": "Scottish Socialist Party with background star"
+            "id": "38"
         }, 
         {
             "image": "Emblem_39.gif", 
+            "description": "Struggle Solidarity Socialism logo", 
             "primary": false, 
-            "id": "39", 
-            "description": "Struggle Solidarity Socialism logo"
+            "id": "39"
         }, 
         {
             "image": "Emblem_40.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "40", 
-            "description": "Emblem 3"
+            "id": "40"
         }
     ], 
     "party_address": "Suite 370\r\n4th Floor\r\nCentral Chambers\r\n93 Hope Street\r\nGlasgow\r\nG2 6LD\r\nUnited Kingdom\r\n", 
@@ -38,8 +40,8 @@
     "treasurer": "Mr James McVicar", 
     "party_id": "PP46", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

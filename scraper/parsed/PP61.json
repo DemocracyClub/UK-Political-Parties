@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Kenneth Robinson", 
     "registered_date": "2000-12-12T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_66.gif", 
+            "description": "Sketch of St Marys Church Cuddington", 
             "primary": false, 
-            "id": "66", 
-            "description": "Sketch of St Marys Church Cuddington"
+            "id": "66"
         }, 
         {
             "image": "Emblem_67.gif", 
+            "description": "The letters RA for Residents Association above the word Cuddington Black on a white background", 
             "primary": false, 
-            "id": "67", 
-            "description": "The letters RA for Residents Association above the word Cuddington Black on a white background"
+            "id": "67"
         }
     ], 
     "party_address": "1 Salisbury Close\r\nWorcester Park\r\nSurrey\r\nKT4 7BY\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP61", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

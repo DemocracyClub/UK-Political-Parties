@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Grant Reid", 
-    "party_name": "1st Action Party", 
+    "party_id": "PP429", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP429", 
+    "party_name": "1st Action Party", 
     "alternative_names": [
         ""
     ], 

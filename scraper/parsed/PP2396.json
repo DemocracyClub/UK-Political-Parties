@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Ben Ma", 
     "registered_date": "2015-02-27T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1139.jpg", 
+            "description": "emblem 1 bw", 
             "primary": false, 
-            "id": "1139", 
-            "description": "emblem 1 bw"
+            "id": "1139"
         }
     ], 
     "party_address": "4TH FLOOR\r\n86-90\r\nPaul Street London\r\nLONDON\r\nLondon\r\nEC2A 4NE\r\nUnited Kingdom\r\n", 

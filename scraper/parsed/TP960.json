@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Martin Mansfield", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-11T00:00:00", 
+    "postcode": "CF11 9SD", 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
+    "emblems": [], 
+    "party_address": "Transport House\r\n1 Cathedral Road\r\nCardiff\r\nCF11 9SD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Lapsed", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "TP960", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": null, 
+    "party_name": "Wales TUC", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

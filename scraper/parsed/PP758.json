@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_437.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "437", 
-            "description": "Emblem 1"
+            "id": "437"
         }
     ], 
     "party_address": "36 Worcester Drive\r\nDidcot\r\nOxon\r\nOX11 8UR\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Patrick S. Kerin", 
-    "party_name": "British Jobs First", 
+    "party_id": "PP758", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP758", 
+    "party_name": "British Jobs First", 
     "alternative_names": [
         ""
     ], 

@@ -4,7 +4,7 @@
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Alan Lewis", 
+            "name": "Mr Alan Lewis", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": true
         }
@@ -17,9 +17,9 @@
     "emblems": [
         {
             "image": "Emblem_100.gif", 
+            "description": "A pound sterling sign with the letters UKIP through the middle", 
             "primary": false, 
-            "id": "100", 
-            "description": "A pound sterling sign with the letters UKIP through the middle"
+            "id": "100"
         }
     ], 
     "party_address": "PO Box 408\r\nNewton Abbot\r\nTG12 9BG\r\nUnited Kingdom\r\n", 

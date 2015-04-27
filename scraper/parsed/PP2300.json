@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Vivian James", 
+            "name": "Mrs Vivian James", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +21,15 @@
     "emblems": [
         {
             "image": "Emblem_953.jpg", 
+            "description": "yourvoice_emblem_001", 
             "primary": false, 
-            "id": "953", 
-            "description": "yourvoice_emblem_001"
+            "id": "953"
         }, 
         {
             "image": "Emblem_954.jpg", 
+            "description": "yourvoice_emblem_002", 
             "primary": false, 
-            "id": "954", 
-            "description": "yourvoice_emblem_002"
+            "id": "954"
         }
     ], 
     "party_address": "Yourvoice\r\n2 Bramble Road\r\nPETERSFIELD\r\nHampshire\r\nGU31 4HL\r\nUnited Kingdom\r\n", 
@@ -40,8 +44,8 @@
     "treasurer": "Mr Julian James", 
     "party_id": "PP2300", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

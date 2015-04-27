@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-09-19T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_574.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "574", 
-            "description": "Emblem 1"
+            "id": "574"
         }
     ], 
     "party_address": "38 Queen Street\r\nGlasgow\r\nG1 3DX\r\nUnited Kingdom\r\n", 
@@ -25,7 +29,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Nadia Rosenberg", 
-    "party_name": "Scottish Homeland Party", 
+    "party_id": "PP888", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -39,7 +43,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP888", 
+    "party_name": "Scottish Homeland Party", 
     "alternative_names": [
         ""
     ], 

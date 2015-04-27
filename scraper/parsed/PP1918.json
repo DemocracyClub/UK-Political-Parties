@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-06-20T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_881.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "881", 
-            "description": "Emblem 1"
+            "id": "881"
         }
     ], 
     "party_address": "First Floor\r\n48 Fentham Road\r\nHampton in Arden\r\nB92 0AY\r\nUnited Kingdom\r\n", 
@@ -26,8 +30,8 @@
     "treasurer": "Mr Christopher Booth", 
     "party_id": "PP1918", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

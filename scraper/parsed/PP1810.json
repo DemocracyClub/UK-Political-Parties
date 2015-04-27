@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Carol Rose Campbell", 
+            "name": "Mrs Carol Rose Campbell", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +19,21 @@
     "emblems": [
         {
             "image": "Emblem_682.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "682", 
-            "description": "Emblem 1"
+            "id": "682"
         }, 
         {
             "image": "Emblem_684.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "684", 
-            "description": "Emblem 2"
+            "id": "684"
         }, 
         {
             "image": "Emblem_685.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "685", 
-            "description": "Emblem 3"
+            "id": "685"
         }
     ], 
     "party_address": "68 Fens Crescent\r\nFens Estate\r\nHartlepool\r\nTS24 2QN\r\nUnited Kingdom\r\n", 
@@ -46,8 +48,8 @@
     "treasurer": "Ms Kathryn Erskine", 
     "party_id": "PP1810", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

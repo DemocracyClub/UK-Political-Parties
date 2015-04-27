@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_604.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "604", 
-            "description": "Emblem 1"
+            "id": "604"
         }
     ], 
     "party_address": "14 Cobbs Lane\r\nHough\r\nCrewe\r\nCW2 5JN\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Brickhill", 
-    "party_name": "Shavington First", 
+    "party_id": "PP1695", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1695", 
+    "party_name": "Shavington First", 
     "alternative_names": [
         ""
     ], 

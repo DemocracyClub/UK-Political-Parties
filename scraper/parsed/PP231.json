@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mrs Janice Jenner", 
     "registered_date": "2002-03-21T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_195.gif", 
+            "description": "Lion logo Independent Group of Councillors", 
             "primary": false, 
-            "id": "195", 
-            "description": "Lion logo Independent Group of Councillors"
+            "id": "195"
         }, 
         {
             "image": "Emblem_196.gif", 
+            "description": "Lion logo Independent", 
             "primary": false, 
-            "id": "196", 
-            "description": "Lion logo Independent"
+            "id": "196"
         }, 
         {
             "image": "Emblem_197.gif", 
+            "description": "Lion logo", 
             "primary": false, 
-            "id": "197", 
-            "description": "Lion logo"
+            "id": "197"
         }
     ], 
     "party_address": "50 The Ridings\r\nSurbiton\r\nSurrey\r\nKT5 8HQ\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP231", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

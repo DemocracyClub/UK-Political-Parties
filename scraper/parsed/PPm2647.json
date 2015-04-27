@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-04-01T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_1113.jpg", 
+            "description": "logo 1", 
             "primary": false, 
-            "id": "1113", 
-            "description": "logo 1"
+            "id": "1113"
         }, 
         {
             "image": "Emblem_1114.jpg", 
+            "description": "logo2", 
             "primary": false, 
-            "id": "1114", 
-            "description": "logo2"
+            "id": "1114"
         }
     ], 
     "party_address": "7 Meaford Avenue\r\nStone\r\nST15 8LT\r\nUnited Kingdom\r\n", 
@@ -32,9 +34,9 @@
     "treasurer": "Mr Tom Kelt", 
     "party_id": "PPm2647", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -43,7 +45,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Stone Independents", 
     "alternative_names": [
         ""

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2003-10-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Alex McPherson", 
-    "party_name": "Lanarkshire Labour Alliance Party", 
+    "party_id": "PP314", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP314", 
+    "party_name": "Lanarkshire Labour Alliance Party", 
     "alternative_names": [
         ""
     ], 

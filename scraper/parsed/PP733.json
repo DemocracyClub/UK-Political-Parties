@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Mark Horn", 
     "registered_date": "2008-12-19T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_420.gif", 
+            "description": "Emblem1", 
             "primary": false, 
-            "id": "420", 
-            "description": "Emblem1"
+            "id": "420"
         }, 
         {
             "image": "Emblem_421.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "421", 
-            "description": "Emblem 2"
+            "id": "421"
         }, 
         {
             "image": "Emblem_422.gif", 
+            "description": "Grantham Stamford and Bourne", 
             "primary": false, 
-            "id": "422", 
-            "description": "Grantham Stamford and Bourne"
+            "id": "422"
         }
     ], 
     "party_address": "Hilltop\r\nWelbourn\r\nLincoln\r\nLincolnshire\r\nLN5 0QH\r\nUnited Kingdom\r\n", 
@@ -38,8 +40,8 @@
     "treasurer": "Mr Brian Burnett", 
     "party_id": "PP733", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

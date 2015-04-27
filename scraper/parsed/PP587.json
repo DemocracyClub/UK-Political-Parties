@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mrs Alison Loydall", 
     "registered_date": "2006-10-06T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_345.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "345", 
-            "description": "Emblem 1"
+            "id": "345"
         }
     ], 
     "party_address": "214 Nottingham Road\r\nSelston\r\nNottinghamshire\r\nNG16 6AB\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP587", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

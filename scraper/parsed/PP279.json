@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Helen Anne Cleaver", 
+            "name": "Ms Helen Anne Cleaver", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_224.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "224", 
-            "description": "Emblem 1"
+            "id": "224"
         }
     ], 
     "party_address": "Shortland Cottage\r\n329 Alcester Road\r\nWythall\r\nWorcestershire\r\nB47 6JG\r\nUnited Kingdom\r\n", 
@@ -35,7 +37,7 @@
     "party_id": "PP279", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

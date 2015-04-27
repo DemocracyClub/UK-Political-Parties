@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2003-11-07T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Leonard Cyril Hughson", 
-    "party_name": "Mid and West Wales Pensioners", 
+    "party_id": "PP271", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP271", 
+    "party_name": "Mid and West Wales Pensioners", 
     "alternative_names": [
         "Pensiynwyr Canolbarth a Gorllewin Cymru"
     ], 

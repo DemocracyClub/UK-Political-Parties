@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-11-12T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1052.jpg", 
+            "description": "Lord Toby Jug", 
             "primary": false, 
-            "id": "1052", 
-            "description": "Lord Toby Jug"
+            "id": "1052"
         }
     ], 
     "party_address": "7, Grove Court\r\nSt Ives\r\nCambridgeshire\r\nPE27 5QU\r\nUnited Kingdom\r\n", 

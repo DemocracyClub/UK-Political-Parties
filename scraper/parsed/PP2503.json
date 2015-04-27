@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Geoffrey Cooper", 
     "registered_date": "2014-12-15T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1074.jpg", 
+            "description": "BIA_Black", 
             "primary": false, 
-            "id": "1074", 
-            "description": "BIA_Black"
+            "id": "1074"
         }
     ], 
     "party_address": "3 Wood Row\r\nThroop Road\r\nBournemouth\r\nBH8 0DN\r\nUnited Kingdom\r\n", 

@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_612.gif", 
+            "description": "IRSP logo 01", 
             "primary": false, 
-            "id": "612", 
-            "description": "IRSP logo 01"
+            "id": "612"
         }, 
         {
             "image": "Emblem_613.gif", 
+            "description": "IRSP logo 02", 
             "primary": false, 
-            "id": "613", 
-            "description": "IRSP logo 02"
+            "id": "613"
         }, 
         {
             "image": "Emblem_614.gif", 
+            "description": "IRSP logo 03", 
             "primary": false, 
-            "id": "614", 
-            "description": "IRSP logo 03"
+            "id": "614"
         }
     ], 
     "party_address": "Costello House\r\n392b Falls Road\r\nBelfast\r\nBT12 6DH\r\nUnited Kingdom\r\n", 
@@ -38,7 +38,7 @@
     "treasurer": "Mr Fra Halligan", 
     "party_id": "PP1705", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
@@ -52,7 +52,7 @@
     "register": "Northern Ireland", 
     "party_name": "Irish Republican Socialist Party", 
     "alternative_names": [
-        "P\u00e1irt\u00ed Poblachtach S\u00f3isialach na h\u00c9ireann"
+        ""
     ], 
     "descriptions": [
         {

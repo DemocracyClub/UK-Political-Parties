@@ -1,5 +1,8 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2015-03-31T00:00:00", 
     "campaigns_officer": "Mr Iain Hunter", 
@@ -10,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_293.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "293", 
-            "description": "Emblem 1"
+            "id": "293"
         }
     ], 
     "party_address": "Beehive Works\r\nPO Box 68056\r\nLondon\r\nN22 9GW\r\nUnited Kingdom\r\n", 
@@ -25,10 +28,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Peter Anthony Windeler", 
-    "party_name": "TUSP", 
+    "party_id": "PP421", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +42,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP421", 
+    "party_name": "TUSP", 
     "alternative_names": [
         ""
     ], 

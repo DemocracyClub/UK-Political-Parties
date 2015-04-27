@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-02-22T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1105.png", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1105", 
-            "description": "Emblem 1"
+            "id": "1105"
         }
     ], 
     "party_address": "40 Northborough Road\r\nNorbury\r\nLondon Borough of Croydon\r\nLondon\r\nSW16 4AX\r\nUnited Kingdom\r\n", 

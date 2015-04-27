@@ -1,5 +1,8 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-10-10T00:00:00", 
@@ -9,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_764.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "764", 
-            "description": "Emblem 1"
+            "id": "764"
         }, 
         {
             "image": "Emblem_766.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "766", 
-            "description": "Emblem 2"
+            "id": "766"
         }, 
         {
             "image": "Emblem_767.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "767", 
-            "description": "Emblem 3"
+            "id": "767"
         }
     ], 
     "party_address": "Kemp House\r\n152 City Road\r\nLondon\r\nEC1V 2NX\r\nUnited Kingdom\r\n", 
@@ -39,7 +42,7 @@
     "party_id": "PP1963", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

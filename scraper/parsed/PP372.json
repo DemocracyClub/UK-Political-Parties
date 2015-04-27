@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2015-03-25T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_272.gif", 
+            "description": "Saltire flag of St Andrew flag of Scotland", 
             "primary": false, 
-            "id": "272", 
-            "description": "Saltire flag of St Andrew flag of Scotland"
+            "id": "272"
         }, 
         {
             "image": "Emblem_273.gif", 
+            "description": "Cross with text FREE above and SCOTLAND below", 
             "primary": false, 
-            "id": "273", 
-            "description": "Cross with text FREE above and SCOTLAND below"
+            "id": "273"
         }, 
         {
             "image": "Emblem_274.gif", 
+            "description": "No symbol over and round EU flag which is in the background", 
             "primary": false, 
-            "id": "274", 
-            "description": "No symbol over and round EU flag which is in the background"
+            "id": "274"
         }
     ], 
     "party_address": "Schoolhouse\r\nHamnavoe\r\nBurra\r\nShetland\r\nZE2 9LA\r\nUnited Kingdom\r\n", 
@@ -37,10 +39,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Brian Nugent", 
-    "party_name": "Free Scotland Party [FSP]", 
+    "party_id": "PP372", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -51,7 +53,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP372", 
+    "party_name": "Free Scotland Party [FSP]", 
     "alternative_names": [
         "Freiceadan Saor Alba [FSA]"
     ], 

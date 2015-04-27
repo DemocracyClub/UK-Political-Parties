@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-12-04T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_891.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "891", 
-            "description": "Emblem 1"
+            "id": "891"
         }
     ], 
     "party_address": "The Reading Room\r\nWinding Wood\r\nKintbury, Hungerford\r\nWest Berkshire\r\nRG17 9RN\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP2187", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

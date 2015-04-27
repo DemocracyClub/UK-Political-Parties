@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-02-14T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_327.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "327", 
-            "description": "Emblem 1"
+            "id": "327"
         }
     ], 
     "party_address": "37 Broadway\r\nBarnsley\r\nSouth Yorkshire\r\nS70 6QL\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP530", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

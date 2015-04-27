@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Evelyn Wallis", 
+            "name": "Mrs Evelyn Wallis", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +21,9 @@
     "emblems": [
         {
             "image": "Emblem_740.png", 
+            "description": "Fulham Group Emblem", 
             "primary": false, 
-            "id": "740", 
-            "description": "Fulham Group Emblem"
+            "id": "740"
         }
     ], 
     "party_address": "PO Box 63754\r\nFulham\r\nLondon\r\nSW6 3RW\r\nUnited Kingdom\r\n", 
@@ -34,8 +38,8 @@
     "treasurer": "Mr Matthew Wallis", 
     "party_id": "PP1920", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

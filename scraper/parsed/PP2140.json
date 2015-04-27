@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-08-21T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_867.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "867", 
-            "description": "Emblem 1"
+            "id": "867"
         }
     ], 
     "party_address": "Hall Cottage\r\nHemingstone\r\nSuffolk\r\nIP6 9RE\r\nUnited Kingdom\r\n", 
@@ -26,8 +28,8 @@
     "treasurer": "Mr Christopher Povey", 
     "party_id": "PP2140", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

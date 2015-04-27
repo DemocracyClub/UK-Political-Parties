@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2003-10-22T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Mavis Deakin", 
-    "party_name": "Mayor 4 Stoke", 
+    "party_id": "PP260", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP260", 
+    "party_name": "Mayor 4 Stoke", 
     "alternative_names": [
         ""
     ], 

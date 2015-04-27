@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Lionel Martin Lee", 
+            "name": "Mr Lionel Martin Lee", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_797.png", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "797", 
-            "description": "Emblem 1"
+            "id": "797"
         }
     ], 
     "party_address": "33 Tower Hill\r\nBrentwood\r\nEssex\r\nCM14 4TA\r\nUnited Kingdom\r\n", 
@@ -34,8 +36,8 @@
     "treasurer": "Mrs Joan Edith Holmes", 
     "party_id": "PP2013", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

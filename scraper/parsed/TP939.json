@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr John Alan Duckworth", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-04-18T00:00:00", 
+    "postcode": "GU7 1QZ", 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
+    "emblems": [], 
+    "party_address": "New Sparling House\r\nHolloway Hill\r\nGodalming\r\nSurrey\r\nGU7 1QZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Lapsed", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "TP939", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": null, 
+    "party_name": "The League Against Cruel Sports", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

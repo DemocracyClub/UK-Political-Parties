@@ -9,15 +9,15 @@
     "emblems": [
         {
             "image": "Emblem_278.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "278", 
-            "description": "Emblem 1"
+            "id": "278"
         }, 
         {
             "image": "Emblem_279.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "279", 
-            "description": "Emblem 2"
+            "id": "279"
         }
     ], 
     "party_address": "63 Meadow Brook Road\r\nBirmingham\r\nWest Midlands\r\nB31 1ND\r\nUnited Kingdom\r\n", 
@@ -46,7 +46,7 @@
     "register": "Northern Ireland", 
     "party_name": "Common Good", 
     "alternative_names": [
-        "An Leas Coiteann"
+        ""
     ], 
     "descriptions": []
 }

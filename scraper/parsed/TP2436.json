@@ -1,11 +1,26 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
-    "campaigns_officer": null, 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Damian Lyons-Lowe", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Damian Lyons-Lowe", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
     "registered_date": "2014-07-02T00:00:00", 
     "postcode": "E1 7NZ", 
-    "party_leader": null, 
-    "nominating_officer": null, 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
     "emblems": [], 
     "party_address": "9 Old Soup Kitchen\r\n17-19 Brune Street\r\nLondon\r\nE1 7NZ\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -16,12 +31,12 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": null, 
+    "treasurer": "None", 
     "party_id": "TP2436", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -32,6 +47,8 @@
     }, 
     "register": null, 
     "party_name": "100% Registration Campaign", 
-    "alternative_names": [], 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": []
 }

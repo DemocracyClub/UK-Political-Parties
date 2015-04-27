@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Andrea Diana Tyce", 
+            "name": "Mrs Andrea Diana Tyce", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +21,15 @@
     "emblems": [
         {
             "image": "Emblem_308.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "308", 
-            "description": "Emblem 1"
+            "id": "308"
         }, 
         {
             "image": "Emblem_309.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "309", 
-            "description": "Emblem 2"
+            "id": "309"
         }
     ], 
     "party_address": "7 The Hollies\r\nNewbury\r\nBerkshire\r\nRG14 6NF\r\nUnited Kingdom\r\n", 
@@ -40,8 +44,8 @@
     "treasurer": "Mr Christopher John Tyce", 
     "party_id": "PP478", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

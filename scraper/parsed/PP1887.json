@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Mark Beech", 
+            "name": "Dr Mark Beech", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_714.jpg", 
+            "description": "English-French Emblem", 
             "primary": false, 
-            "id": "714", 
-            "description": "English-French Emblem"
+            "id": "714"
         }, 
         {
             "image": "Emblem_715.jpg", 
+            "description": "Welsh-English Emblem", 
             "primary": false, 
-            "id": "715", 
-            "description": "Welsh-English Emblem"
+            "id": "715"
         }, 
         {
             "image": "Emblem_716.jpg", 
+            "description": "Welsh-French Emblem", 
             "primary": false, 
-            "id": "716", 
-            "description": "Welsh-French Emblem"
+            "id": "716"
         }
     ], 
     "party_address": "Ty Morgannwg\r\nPO Box 674\r\nSwansea\r\nWest Glamorgan\r\nSA1 9NN\r\nUnited Kingdom\r\n", 

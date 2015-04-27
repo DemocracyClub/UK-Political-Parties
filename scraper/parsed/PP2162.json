@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-10-10T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_877.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "877", 
-            "description": "Emblem 1"
+            "id": "877"
         }
     ], 
     "party_address": "122 Mount Street\r\nLansdown\r\nSheffield\r\nSouth Yorkshire\r\nS11 8DH\r\nUnited Kingdom\r\n", 

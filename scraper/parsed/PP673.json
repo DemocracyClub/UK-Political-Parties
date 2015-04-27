@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Jill McMullon", 
+            "name": "Mrs Jill McMullon", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_400.gif", 
+            "description": "White rose of Yorkshire", 
             "primary": false, 
-            "id": "400", 
-            "description": "White rose of Yorkshire"
+            "id": "400"
         }
     ], 
     "party_address": "Dryden House\r\nMarket Place\r\nHawes\r\nNorth Yorkshire\r\nDL8 3RA\r\nUnited Kingdom\r\n", 
@@ -34,8 +36,8 @@
     "treasurer": "Mr John Blackie", 
     "party_id": "PP673", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-12-01T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_583.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "583", 
-            "description": "Emblem 1"
+            "id": "583"
         }, 
         {
             "image": "Emblem_584.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "584", 
-            "description": "Emblem 2"
+            "id": "584"
         }
     ], 
     "party_address": "The Oaks\r\n2 Anchor Reach\r\nSouth Woodham Ferrers\r\nEssex\r\nCM3 5GS\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP896", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

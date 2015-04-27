@@ -1,12 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Rebecca McCafferty", 
-            "deputy_campaigns_officer": null, 
-            "deputy_treasurer": null
+            "name": "Mrs Rebecca McCafferty", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
         }
     ], 
     "campaigns_officer": "None", 
@@ -17,21 +19,21 @@
     "emblems": [
         {
             "image": "Emblem_737.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "737", 
-            "description": "Emblem 1"
+            "id": "737"
         }, 
         {
             "image": "Emblem_738.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "738", 
-            "description": "Emblem 2"
+            "id": "738"
         }, 
         {
             "image": "Emblem_739.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "739", 
-            "description": "Emblem 3"
+            "id": "739"
         }
     ], 
     "party_address": "34 Church Road\r\nPeasedown St John\r\nBath\r\nBA2 8AF\r\nUnited Kingdom\r\n", 
@@ -46,9 +48,9 @@
     "treasurer": "None", 
     "party_id": "PPm1919", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "type": "Point", 
@@ -57,7 +59,7 @@
             51.317202573156585
         ]
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Peasedown 1st", 
     "alternative_names": [
         ""

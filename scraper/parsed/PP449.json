@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Saeed Ashiq", 
     "registered_date": "2005-03-17T00:00:00", 
@@ -9,15 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_303.gif", 
+            "description": "Guiding principles for a nation", 
             "primary": false, 
-            "id": "303", 
-            "description": "Guiding principles for a nation"
+            "id": "303"
         }, 
         {
             "image": "Emblem_304.gif", 
+            "description": "Kalma statement of faith", 
             "primary": false, 
-            "id": "304", 
-            "description": "Kalma statement of faith"
+            "id": "304"
+        }, 
+        {
+            "image": "Emblem_1222.jpg", 
+            "description": "Emblem 3", 
+            "primary": false, 
+            "id": "1222"
         }
     ], 
     "party_address": "Ya Khawaja Garib Nawaz House\r\n34 King Street South\r\nRochdale\r\nLancashire\r\nOL11 3TR\r\nUnited Kingdom\r\n", 
@@ -32,8 +42,8 @@
     "treasurer": "Mrs Noreen Salim", 
     "party_id": "PP449", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -46,7 +56,7 @@
     "register": "Great Britain", 
     "party_name": "Islam Zinda Baad Platform", 
     "alternative_names": [
-        "Long Live Islam Platform"
+        ""
     ], 
     "descriptions": []
 }

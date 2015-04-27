@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-09-04T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_995.png", 
+            "description": "Emblem 1BW", 
             "primary": false, 
-            "id": "995", 
-            "description": "Emblem 1BW"
+            "id": "995"
         }
     ], 
     "party_address": "95 Burwell Rd\r\nExning\r\nSuffolk\r\nCB8 7DU\r\nUnited Kingdom\r\n", 
@@ -26,7 +28,7 @@
     "treasurer": "Mr Simon Cole", 
     "party_id": "PP2353", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

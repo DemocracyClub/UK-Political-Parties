@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": true, 
-            "name": "James Jackman", 
+            "name": "Mr James Jackman", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +21,9 @@
     "emblems": [
         {
             "image": "Emblem_957.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "957", 
-            "description": "Emblem 1"
+            "id": "957"
         }
     ], 
     "party_address": "The Technology Centre\r\nVictoria Road\r\nEarby\r\nLancashire\r\nBB18 6US\r\nUnited Kingdom\r\n", 
@@ -34,7 +38,7 @@
     "treasurer": "Ms Natasha Harris", 
     "party_id": "PP2233", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

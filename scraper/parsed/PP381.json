@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr John Marshall Anderson", 
     "registered_date": "2004-04-22T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_282.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "282", 
-            "description": "Emblem 1"
+            "id": "282"
         }
     ], 
     "party_address": "71 Waarden Road\r\nCanvey Island\r\nEssex\r\nSS8 9AB\r\nUnited Kingdom\r\n", 
@@ -26,8 +28,8 @@
     "treasurer": "Mrs Janice Payne", 
     "party_id": "PP381", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

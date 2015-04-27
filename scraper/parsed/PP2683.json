@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-03-12T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1146.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1146", 
-            "description": "Emblem 1"
+            "id": "1146"
         }
     ], 
     "party_address": "PO Box 216\r\nSouth Shields\r\nNE33 9EW\r\nUnited Kingdom\r\n", 

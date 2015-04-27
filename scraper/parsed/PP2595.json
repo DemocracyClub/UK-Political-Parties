@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-02-12T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_1188.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1188", 
-            "description": "Emblem 1"
+            "id": "1188"
         }, 
         {
             "image": "Emblem_1189.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "1189", 
-            "description": "Emblem 2"
+            "id": "1189"
         }
     ], 
     "party_address": "7 Bristol Avenue\r\nRossall\r\nFleetwood\r\nLancashire\r\nFY7 8JQ\r\nUnited Kingdom\r\n", 

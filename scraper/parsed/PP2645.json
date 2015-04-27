@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-02-23T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1112.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1112", 
-            "description": "Emblem 1"
+            "id": "1112"
         }
     ], 
     "party_address": "26 Hale Close\r\nIpswich\r\nSuffolk\r\nIP2 9QP\r\nUnited Kingdom\r\n", 

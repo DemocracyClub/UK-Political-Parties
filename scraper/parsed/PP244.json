@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-06-12T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_205.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "205", 
-            "description": "Emblem 1"
+            "id": "205"
         }, 
         {
             "image": "Emblem_206.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "206", 
-            "description": "Emblem 2"
+            "id": "206"
         }, 
         {
             "image": "Emblem_207.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "207", 
-            "description": "Emblem 3"
+            "id": "207"
         }
     ], 
     "party_address": "20 Sladburys Lane\r\nHolland-on-Sea\r\nClacton\r\nEssex\r\nCO15 6NX\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP244", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

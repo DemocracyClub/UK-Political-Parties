@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_837.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "837", 
-            "description": "Emblem 1"
+            "id": "837"
         }
     ], 
     "party_address": "24 The Pleydells\r\nAmpney Crucis\r\nCirencester\r\nGloucestershire\r\nGL7 5TE\r\nUnited Kingdom\r\n", 
@@ -25,7 +29,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Elspeth Parris", 
-    "party_name": "The People's Unity Party", 
+    "party_id": "PP2057", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -39,7 +43,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP2057", 
+    "party_name": "The People's Unity Party", 
     "alternative_names": [
         ""
     ], 

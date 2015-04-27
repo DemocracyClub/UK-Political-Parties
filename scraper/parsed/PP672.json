@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Oliver Thomas Hughes", 
-    "party_name": "Independent Republican Party", 
+    "party_id": "PP672", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         "type": "Point"
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP672", 
+    "party_name": "Independent Republican Party", 
     "alternative_names": [
         ""
     ], 

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_292.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "292", 
-            "description": "Emblem 1"
+            "id": "292"
         }
     ], 
     "party_address": "58 Langdale Road\r\nVictoria Park\r\nManchester\r\nM14 5PN\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr John Nicholson", 
-    "party_name": "Socialist Unity", 
+    "party_id": "PP411", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP411", 
+    "party_name": "Socialist Unity", 
     "alternative_names": [
         ""
     ], 

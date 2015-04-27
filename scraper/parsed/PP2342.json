@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-16T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_982.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "982", 
-            "description": "Emblem 1"
+            "id": "982"
         }
     ], 
     "party_address": "12 Stanley Grove\r\nReading\r\nRG1 7NS\r\nUnited Kingdom\r\n", 

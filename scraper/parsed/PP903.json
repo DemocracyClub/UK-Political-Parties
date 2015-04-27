@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2013-09-20T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_597.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "597", 
-            "description": "Emblem 1"
+            "id": "597"
         }
     ], 
     "party_address": "5 Newton Manor Close\r\nGreat Barr\r\nBirmingham\r\nB43 5JZ\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Valerie J R Ward", 
-    "party_name": "Sandwell Traditional Independent Party", 
+    "party_id": "PP903", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP903", 
+    "party_name": "Sandwell Traditional Independent Party", 
     "alternative_names": [
         ""
     ], 

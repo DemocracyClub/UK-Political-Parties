@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-01-22T00:00:00", 
@@ -9,15 +13,15 @@
     "emblems": [
         {
             "image": "Emblem_362.gif", 
+            "description": "A Political Party to help create a better world for people and animals", 
             "primary": false, 
-            "id": "362", 
-            "description": "A Political Party to help create a better world for people and animals"
+            "id": "362"
         }, 
         {
             "image": "Emblem_911.jpg", 
+            "description": "AWP", 
             "primary": false, 
-            "id": "911", 
-            "description": "AWP"
+            "id": "911"
         }
     ], 
     "party_address": "PO Box 702328\r\nLondon\r\nE2 2DF\r\nUnited Kingdom\r\n", 
@@ -33,7 +37,7 @@
     "party_id": "PP616", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

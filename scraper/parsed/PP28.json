@@ -9,15 +9,15 @@
     "emblems": [
         {
             "image": "Emblem_21.gif", 
+            "description": "Socialist Party on two decks in black On lower deck following y of Party is a red stripe Behind the S and the P is a red half circle star design", 
             "primary": false, 
-            "id": "21", 
-            "description": "Socialist Party on two decks in black On lower deck following y of Party is a red stripe Behind the S and the P is a red half circle star design"
+            "id": "21"
         }, 
         {
             "image": "Emblem_631.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "631", 
-            "description": "Emblem 2"
+            "id": "631"
         }
     ], 
     "party_address": "7 Donegall Quay\r\nBelfast\r\nBT1 3EA\r\nUnited Kingdom\r\n", 

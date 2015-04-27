@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-02-20T00:00:00", 
@@ -8,16 +10,16 @@
     "nominating_officer": "Ms Jane Thompson", 
     "emblems": [
         {
-            "image": "Emblem_1153.jpg", 
+            "image": "Emblem_1107.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1153", 
-            "description": "Emblem 2"
+            "id": "1107"
         }, 
         {
-            "image": "Emblem_1107.jpg", 
+            "image": "Emblem_1153.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "1107", 
-            "description": "Emblem 1"
+            "id": "1153"
         }
     ], 
     "party_address": "9 Greenacre\r\nWesthead\r\nOrmskirk\r\nLancashire\r\nL40 6HR\r\nUnited Kingdom\r\n", 
@@ -32,7 +34,7 @@
     "treasurer": "Mr Ian Davis", 
     "party_id": "PP2642", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

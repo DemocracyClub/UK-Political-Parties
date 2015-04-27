@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Victoria Louise Plantagenet Brown", 
+            "name": "Ms Victoria Louise Plantagenet Brown", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +19,21 @@
     "emblems": [
         {
             "image": "Emblem_264.gif", 
+            "description": "Mainly white emblem", 
             "primary": false, 
-            "id": "264", 
-            "description": "Mainly white emblem"
+            "id": "264"
         }, 
         {
             "image": "Emblem_265.gif", 
+            "description": "Mostly black emblem", 
             "primary": false, 
-            "id": "265", 
-            "description": "Mostly black emblem"
+            "id": "265"
         }, 
         {
             "image": "Emblem_266.gif", 
+            "description": "Mainly black emblem", 
             "primary": false, 
-            "id": "266", 
-            "description": "Mainly black emblem"
+            "id": "266"
         }
     ], 
     "party_address": "167 Corbets Tey Road\r\nUpminster\r\nEssex\r\nRM14 2AX\r\nUnited Kingdom\r\n", 
@@ -47,7 +49,7 @@
     "party_id": "PP361", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

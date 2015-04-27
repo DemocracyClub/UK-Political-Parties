@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Michael Hall", 
-    "party_name": "telepathicpartnership.com", 
+    "party_id": "PP419", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP419", 
+    "party_name": "telepathicpartnership.com", 
     "alternative_names": [
         ""
     ], 

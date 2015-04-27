@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-20T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_931.jpg", 
+            "description": "BW wide", 
             "primary": false, 
-            "id": "931", 
-            "description": "BW wide"
+            "id": "931"
         }, 
         {
             "image": "Emblem_932.jpg", 
+            "description": "BW invert", 
             "primary": false, 
-            "id": "932", 
-            "description": "BW invert"
+            "id": "932"
         }
     ], 
     "party_address": "17 Rideout Street\r\nLondon\r\nLondon\r\nSE18 5HF\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP2216", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Clarence Barrett", 
     "registered_date": "2000-03-16T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_22.gif", 
+            "description": "Windmill", 
             "primary": false, 
-            "id": "22", 
-            "description": "Windmill"
+            "id": "22"
         }
     ], 
     "party_address": "63 Parkland Avenue\r\nUpminster\r\nEssex\r\nRM14 2EU\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP30", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -1,5 +1,8 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-02-22T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,10 +21,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Simon Byron", 
-    "party_name": "Citizens for Undead Rights and Equality", 
+    "party_id": "PP873", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -32,7 +35,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP873", 
+    "party_name": "Citizens for Undead Rights and Equality", 
     "alternative_names": [
         ""
     ], 

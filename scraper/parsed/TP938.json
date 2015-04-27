@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Mushtaq Lasharie", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-04-07T00:00:00", 
+    "postcode": "SE1P 5UX", 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
+    "emblems": [], 
+    "party_address": "PO Box 66971\r\nno town\r\nLondon\r\nSE1P 5UX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Lapsed", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "TP938", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": null, 
+    "party_name": "Muslim Friends Of Labour", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Ruth Margaret Ravalde", 
+            "name": "Ms Ruth Margaret Ravalde", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +19,15 @@
     "emblems": [
         {
             "image": "Emblem_152.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "152", 
-            "description": "Emblem 1"
+            "id": "152"
         }, 
         {
             "image": "Emblem_153.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "153", 
-            "description": "Emblem 2"
+            "id": "153"
         }
     ], 
     "party_address": "122 Great Tattenhams\r\nEpsom Downs\r\nEpsom\r\nSurrey\r\nKT18 5SE\r\nUnited Kingdom\r\n", 
@@ -41,7 +43,7 @@
     "party_id": "PP141", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

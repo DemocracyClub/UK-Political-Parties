@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-02-18T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_1055.jpg", 
+            "description": "Village Voice Logo 1", 
             "primary": false, 
-            "id": "1055", 
-            "description": "Village Voice Logo 1"
+            "id": "1055"
         }, 
         {
             "image": "Emblem_1057.jpg", 
+            "description": "Village Voice Logo 2", 
             "primary": false, 
-            "id": "1057", 
-            "description": "Village Voice Logo 2"
+            "id": "1057"
         }
     ], 
     "party_address": "34 Church Road\r\nPeasedown St John\r\nBath\r\nBA2 8AF\r\nUnited Kingdom\r\n", 

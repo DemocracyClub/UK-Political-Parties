@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Ms June Simpson", 
     "registered_date": "2005-03-23T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_305.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "305", 
-            "description": "Emblem 1"
+            "id": "305"
         }, 
         {
             "image": "Emblem_306.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "306", 
-            "description": "Emblem 2"
+            "id": "306"
         }, 
         {
             "image": "Emblem_307.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "307", 
-            "description": "Emblem 3"
+            "id": "307"
         }
     ], 
     "party_address": "73 Tunstall Avenue\r\nBillingham\r\nStockton-on-Tees\r\nTS23 3PP\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP457", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

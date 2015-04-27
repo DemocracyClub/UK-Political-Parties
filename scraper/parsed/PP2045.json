@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-26T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_949.jpg", 
+            "description": "Left Unity Logo", 
             "primary": false, 
-            "id": "949", 
-            "description": "Left Unity Logo"
+            "id": "949"
         }
     ], 
     "party_address": "5\r\nCaledonian Road\r\nLondon\r\nLondon\r\nN1 9DX\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP2045", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

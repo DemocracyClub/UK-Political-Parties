@@ -1,0 +1,43 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Gary Stevens", 
+    "registered_date": "2015-04-02T00:00:00", 
+    "postcode": "LU1 2QX", 
+    "party_leader": "Mr Neil Hannah", 
+    "nominating_officer": "Mr Neil Hannah", 
+    "emblems": [], 
+    "party_address": "No 3 Upper George Street\r\nLuton\r\nBedfordshire\r\nLU1 2QX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Neil Hannah", 
+    "party_id": "PP2723", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Awakened Nation", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Truth Hurts - The Truth Heals"
+        }
+    ]
+}

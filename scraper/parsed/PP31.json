@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Graham Williamson", 
-    "party_name": "Ulster Third Way", 
+    "party_id": "PP31", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP31", 
+    "party_name": "Ulster Third Way", 
     "alternative_names": [
         ""
     ], 

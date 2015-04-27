@@ -1,17 +1,26 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
-            "deputy_nominating_officer": true, 
-            "name": "Michael Parker", 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Michael Parker", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": true
         }, 
         {
             "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Mr Michael Parker", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Roger Whitfield", 
+            "name": "Mr Roger Whitfield", 
             "deputy_campaigns_officer": true, 
             "deputy_treasurer": false
         }

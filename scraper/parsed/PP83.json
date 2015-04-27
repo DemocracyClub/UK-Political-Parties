@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_807.png", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "807", 
-            "description": "Emblem 1"
+            "id": "807"
         }, 
         {
             "image": "Emblem_808.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "808", 
-            "description": "Emblem 2"
+            "id": "808"
         }, 
         {
             "image": "Emblem_1161.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "1161", 
-            "description": "Emblem 3"
+            "id": "1161"
         }
     ], 
     "party_address": "Strandtown Hall\r\n2-4 Belmont Road\r\nBelfast\r\nBT4 2AN\r\nUnited Kingdom\r\n", 

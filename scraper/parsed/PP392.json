@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-07-26T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,21 +14,21 @@
     "emblems": [
         {
             "image": "Emblem_284.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "284", 
-            "description": "Emblem 1"
+            "id": "284"
         }, 
         {
             "image": "Emblem_285.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "285", 
-            "description": "Emblem 2"
+            "id": "285"
         }, 
         {
             "image": "Emblem_286.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "286", 
-            "description": "Emblem 3"
+            "id": "286"
         }
     ], 
     "party_address": "1188 Eastern Avenue\r\nNewbury Park\r\nIlford\r\nEssex\r\nIG2 7SD\r\nUnited Kingdom\r\n", 
@@ -37,7 +41,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "The Reverend James George Hargreaves", 
-    "party_name": "Christian Party \"Proclaiming Christ's Lordship\"", 
+    "party_id": "PP392", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -51,7 +55,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP392", 
+    "party_name": "Christian Party \"Proclaiming Christ's Lordship\"", 
     "alternative_names": [
         ""
     ], 

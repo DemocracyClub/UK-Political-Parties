@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-25T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_626.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "626", 
-            "description": "Emblem 1"
+            "id": "626"
         }, 
         {
             "image": "Emblem_627.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "627", 
-            "description": "Emblem 2"
+            "id": "627"
         }, 
         {
             "image": "Emblem_628.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "628", 
-            "description": "Emblem 3"
+            "id": "628"
         }
     ], 
     "party_address": "140 Howbury Street\r\nBedford\r\nBedfordshire\r\nMK40 3QS\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP1714", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

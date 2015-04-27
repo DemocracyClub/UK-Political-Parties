@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Gregory Patrick Ivory", 
-    "party_name": "UK Anti Party", 
+    "party_id": "PP262", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP262", 
+    "party_name": "UK Anti Party", 
     "alternative_names": [
         ""
     ], 

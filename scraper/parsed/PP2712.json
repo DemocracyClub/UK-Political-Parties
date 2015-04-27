@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-04-01T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1184.png", 
+            "description": "emblem 1", 
             "primary": false, 
-            "id": "1184", 
-            "description": "emblem 1"
+            "id": "1184"
         }
     ], 
     "party_address": "Laburnum House\r\n8 Coppenhall Lane\r\nCrewe\r\nCheshire\r\nCW2 8TT\r\nUnited Kingdom\r\n", 

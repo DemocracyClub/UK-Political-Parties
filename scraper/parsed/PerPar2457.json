@@ -1,11 +1,33 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
-    "campaigns_officer": null, 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr John Black", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Anthony John Brodie", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr John Black", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
     "registered_date": "2014-08-07T00:00:00", 
     "postcode": "G84 9BT", 
-    "party_leader": null, 
-    "nominating_officer": null, 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
     "emblems": [], 
     "party_address": "6 Woodhollow House\r\nHelensburgh\r\nG84 9BT\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -16,12 +38,12 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": null, 
+    "treasurer": "None", 
     "party_id": "PerPar2457", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "type": "Point", 
@@ -32,6 +54,8 @@
     }, 
     "register": null, 
     "party_name": "Scottish Jacobite Party", 
-    "alternative_names": [], 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": []
 }

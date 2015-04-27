@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Martin Camden", 
     "registered_date": "2015-03-25T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1097.jpg", 
+            "description": "Britannia is Ready", 
             "primary": false, 
-            "id": "1097", 
-            "description": "Britannia is Ready"
+            "id": "1097"
         }
     ], 
     "party_address": "25 Duppas Hill Lane\r\nCROYDON\r\nCR0 4BE\r\nUnited Kingdom\r\n", 
@@ -42,10 +46,5 @@
     "alternative_names": [
         ""
     ], 
-    "descriptions": [
-        {
-            "translation": "", 
-            "description": "UKPDP"
-        }
-    ]
+    "descriptions": []
 }

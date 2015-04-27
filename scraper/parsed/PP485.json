@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Emma Glanville", 
-    "party_name": "Max Power Party", 
+    "party_id": "PP485", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP485", 
+    "party_name": "Max Power Party", 
     "alternative_names": [
         ""
     ], 

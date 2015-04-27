@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-04-01T00:00:00", 
@@ -35,5 +37,10 @@
     "alternative_names": [
         ""
     ], 
-    "descriptions": []
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Independents Against Social Injustice"
+        }
+    ]
 }

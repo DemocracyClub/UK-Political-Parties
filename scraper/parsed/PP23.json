@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-24T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_18.gif", 
+            "description": "Beauty Surrounds Health Abounds Sailing boat + floral crest", 
             "primary": false, 
-            "id": "18", 
-            "description": "Beauty Surrounds Health Abounds Sailing boat + floral crest"
+            "id": "18"
         }, 
         {
             "image": "Emblem_19.gif", 
+            "description": "People Before Politics Sailing boat + floral crest", 
             "primary": false, 
-            "id": "19", 
-            "description": "People Before Politics Sailing boat + floral crest"
+            "id": "19"
         }, 
         {
             "image": "Emblem_20.gif", 
+            "description": "Black + white rosette", 
             "primary": false, 
-            "id": "20", 
-            "description": "Black + white rosette"
+            "id": "20"
         }
     ], 
     "party_address": "90 Broadway\r\nMorecambe\r\nLancashire\r\nLA4 5XY\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP23", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

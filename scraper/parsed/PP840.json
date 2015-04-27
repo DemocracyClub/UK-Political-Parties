@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Trevor James Eames", 
     "registered_date": "2010-03-15T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_520.gif", 
+            "description": "A representation of a family in a house plus text", 
             "primary": false, 
-            "id": "520", 
-            "description": "A representation of a family in a house plus text"
+            "id": "520"
         }, 
         {
             "image": "Emblem_521.gif", 
+            "description": "A representation of people in triangle plus text", 
             "primary": false, 
-            "id": "521", 
-            "description": "A representation of people in triangle plus text"
+            "id": "521"
         }, 
         {
-            "image": "Emblem_707.gif", 
+            "image": "Emblem_707.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "707", 
-            "description": "Emblem 3"
+            "id": "707"
         }
     ], 
     "party_address": "7 Glascote Close\r\nShirley\r\nSolihull\r\nWest Midlands\r\nB90 2TA\r\nUnited Kingdom\r\n", 
@@ -38,8 +40,8 @@
     "treasurer": "Ms Barbara Mary Rogers", 
     "party_id": "PP840", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -57,51 +59,39 @@
     "descriptions": [
         {
             "translation": "", 
-            "description": "Local Services For Local People"
-        }, 
-        {
-            "translation": "", 
-            "description": "Save Solihull Hospital Maternity Wing"
-        }, 
-        {
-            "translation": "", 
-            "description": "Stop the Sainsburys Traffic Congestion"
-        }, 
-        {
-            "translation": "", 
-            "description": "Say No To Second Runway"
-        }, 
-        {
-            "translation": "", 
-            "description": "Real People, Real Solutions, No Corruption"
-        }, 
-        {
-            "translation": "", 
-            "description": "Cut Council Tax Not The Services"
-        }, 
-        {
-            "translation": "", 
-            "description": "Restore Trust In Politics"
-        }, 
-        {
-            "translation": "", 
-            "description": "Putting People Before Politics"
-        }, 
-        {
-            "translation": "", 
-            "description": "For a fair deal for Shirley"
-        }, 
-        {
-            "translation": "", 
-            "description": "Save Meriden's Green Belt and Countryside"
-        }, 
-        {
-            "translation": "", 
             "description": "Solihull Independent Party"
         }, 
         {
             "translation": "", 
             "description": "Independent Dickens Heath Residents Action Group"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Solihull Ratepayers Association Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Solihull Residents Association Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Solihull Ratepayers and Residents Association"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Solihull and Meriden Residents Association"
+        }, 
+        {
+            "translation": "", 
+            "description": "Solihull Ratepayers Association Protecting Local Services"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Blythe Ward Residents Association Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Shirley Residents Association Candidate"
         }
     ]
 }

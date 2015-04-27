@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_762.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "762", 
-            "description": "Emblem 1"
+            "id": "762"
         }
     ], 
     "party_address": "22 Westfield Drive\r\nMansfield\r\nNottinghamshire\r\nNG19 6EU\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Denise Answer", 
-    "party_name": "Nottinghamshire Independent Forum", 
+    "party_id": "PP1960", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1960", 
+    "party_name": "Nottinghamshire Independent Forum", 
     "alternative_names": [
         ""
     ], 

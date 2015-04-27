@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_888.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "888", 
-            "description": "Emblem 1"
+            "id": "888"
         }
     ], 
     "party_address": "171 Cliftonpark Avenue\r\nBelfast\r\nBT14 6DT\r\nUnited Kingdom\r\n", 

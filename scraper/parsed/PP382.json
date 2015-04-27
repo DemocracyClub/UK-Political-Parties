@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2005-06-13T00:00:00", 
     "campaigns_officer": "Mr Mohan Singh Nayyar", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Piara Singh Aulakh", 
-    "party_name": "Alliance For Diversity In Community", 
+    "party_id": "PP382", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP382", 
+    "party_name": "Alliance For Diversity In Community", 
     "alternative_names": [
         ""
     ], 

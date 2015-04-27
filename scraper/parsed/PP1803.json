@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-08-18T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_679.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "679", 
-            "description": "Emblem 1"
+            "id": "679"
         }, 
         {
             "image": "Emblem_680.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "680", 
-            "description": "Emblem 2"
+            "id": "680"
         }, 
         {
             "image": "Emblem_681.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "681", 
-            "description": "Emblem 3"
+            "id": "681"
         }
     ], 
     "party_address": "7 Craigton Cottages\r\nLower Craigton\r\nMilngavie\r\nG62 7HQ\r\nUnited Kingdom\r\n", 
@@ -39,7 +43,7 @@
     "party_id": "PP1803", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

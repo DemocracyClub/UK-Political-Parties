@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_141.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "141", 
-            "description": "Emblem 1"
+            "id": "141"
         }
     ], 
     "party_address": "6 Springfield Rd\r\nBelfast\r\nBT12 7AG\r\nUnited Kingdom\r\n", 

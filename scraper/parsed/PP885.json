@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_567.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "567", 
-            "description": "Emblem 1"
+            "id": "567"
         }, 
         {
             "image": "Emblem_568.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "568", 
-            "description": "Emblem 2"
+            "id": "568"
         }, 
         {
             "image": "Emblem_569.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "569", 
-            "description": "Emblem 3"
+            "id": "569"
         }
     ], 
     "party_address": "51 Lismore Avenue\r\nBangor\r\nBT20 4XD\r\nUnited Kingdom\r\n", 
@@ -38,7 +38,7 @@
     "treasurer": "Ms Alison Blayney", 
     "party_id": "PP885", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

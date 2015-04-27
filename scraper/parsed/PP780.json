@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Malcom Moss", 
+            "name": "Mr Malcom Moss", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -18,9 +22,9 @@
     "emblems": [
         {
             "image": "Emblem_460.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "460", 
-            "description": "Emblem 1"
+            "id": "460"
         }
     ], 
     "party_address": "39B Marine Parade\r\nBrighton\r\nBN2 1TR\r\nUnited Kingdom\r\n", 
@@ -33,10 +37,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Steven Moss", 
-    "party_name": "Liberators", 
+    "party_id": "PP780", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -47,7 +51,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP780", 
+    "party_name": "Liberators", 
     "alternative_names": [
         ""
     ], 

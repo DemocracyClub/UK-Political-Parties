@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr David Ashley", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-08-04T00:00:00", 
+    "postcode": "SW9 0JJ", 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
+    "emblems": [], 
+    "party_address": "60/62 Clapham Road\r\nno town\r\nLondon\r\nSW9 0JJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Lapsed", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "TP927", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": null, 
+    "party_name": "Musicians' Union", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

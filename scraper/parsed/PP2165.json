@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-11-28T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1167.jpg", 
+            "description": "Britannia 01", 
             "primary": false, 
-            "id": "1167", 
-            "description": "Britannia 01"
+            "id": "1167"
         }
     ], 
     "party_address": "5 Church Street\r\nAlvaston\r\nDerby\r\nDerbyshire\r\nDE24 0PR\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP2165", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

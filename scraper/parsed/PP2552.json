@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-02-27T00:00:00", 
@@ -8,10 +12,10 @@
     "nominating_officer": "Mr Steve Moore", 
     "emblems": [
         {
-            "image": "Emblem_1056.jpeg", 
+            "image": "Emblem_1056.jpg", 
+            "description": "cannabis leaf", 
             "primary": false, 
-            "id": "1056", 
-            "description": "cannabis leaf"
+            "id": "1056"
         }
     ], 
     "party_address": "Runway East, Floor 9\r\n207 Old Street,\r\nLondon\r\nEC1V 9NR\r\nUnited Kingdom\r\n", 
@@ -49,7 +53,7 @@
         }, 
         {
             "translation": "", 
-            "description": "Cannabis is Safer then Alcohol Candidate"
+            "description": "Cannabis is Safer than Alcohol Candidate"
         }
     ]
 }

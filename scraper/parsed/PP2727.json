@@ -1,0 +1,46 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Malcolm Jeffrey Barrett", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-07T00:00:00", 
+    "postcode": "ST14 8JQ", 
+    "party_leader": "Mr Nathan Birnie", 
+    "nominating_officer": "Robert Charles Hardwick", 
+    "emblems": [], 
+    "party_address": "51 Balance Street\r\nUttoxeter\r\nUttoxeter\r\nStaffordshire\r\nST14 8JQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Peter Lloyd Ball", 
+    "party_id": "PP2727", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Independent Party For East Staffordshire", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

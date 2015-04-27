@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-09-18T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_970.jpg", 
+            "description": "Three houses in a circle - black and white", 
             "primary": false, 
-            "id": "970", 
-            "description": "Three houses in a circle - black and white"
+            "id": "970"
         }, 
         {
             "image": "Emblem_971.jpg", 
+            "description": "Three houses in a circle with text: Tower Hamlets First - black and white", 
             "primary": false, 
-            "id": "971", 
-            "description": "Three houses in a circle with text: Tower Hamlets First - black and white"
+            "id": "971"
         }
     ], 
     "party_address": "5 Beaumont Grove\r\nLondon\r\nE1 4NQ\r\nUnited Kingdom\r\n", 
@@ -33,8 +35,8 @@
     "party_id": "PP2155", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
-        "exempt_from_quarterly_donation_returns": false
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
         "type": "Point", 

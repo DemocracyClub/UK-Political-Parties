@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Chris Ready", 
-    "party_name": "The Free England Party", 
+    "party_id": "PP694", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         "type": "Point"
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP694", 
+    "party_name": "The Free England Party", 
     "alternative_names": [
         ""
     ], 

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-24T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_637.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "637", 
-            "description": "Emblem 1"
+            "id": "637"
         }
     ], 
     "party_address": "MAIHOF\r\n22 Boswick Lane\r\nDudswell\r\nBerkhamsted\r\nHP4 3TE\r\nUnited Kingdom\r\n", 
@@ -26,9 +28,9 @@
     "treasurer": "None", 
     "party_id": "PPm1712", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -37,7 +39,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Northchurch Residents Association", 
     "alternative_names": [
         ""

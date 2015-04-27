@@ -1,0 +1,45 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "OX14 4EN", 
+    "party_leader": "Gwendoline McEwen", 
+    "nominating_officer": "Kathleen Fraser", 
+    "emblems": [
+        {
+            "image": "Emblem_1191.jpg", 
+            "description": "Emblem 1", 
+            "primary": false, 
+            "id": "1191"
+        }
+    ], 
+    "party_address": "The Old Brewery\r\nHigh Street\r\nMilton\r\nAbingdon\r\nOxfordshire\r\nOX14 4EN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Anthony Mockler", 
+    "party_id": "PP2716", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Rural Oxfordshire Action Rally - ROAR", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

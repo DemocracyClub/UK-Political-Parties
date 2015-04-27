@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_455.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "455", 
-            "description": "Emblem 1"
+            "id": "455"
         }
     ], 
     "party_address": "13 Westland Avenue\r\nDerry City\r\nLondonderry\r\nBT48 9JE\r\nUnited Kingdom\r\n", 

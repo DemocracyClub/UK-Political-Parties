@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Nicholas Mason", 
     "registered_date": "2015-03-17T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_1061.png", 
+            "description": "The Independents Alliance - Main Logo", 
             "primary": false, 
-            "id": "1061", 
-            "description": "The Independents Alliance - Main Logo"
+            "id": "1061"
         }, 
         {
             "image": "Emblem_1062.png", 
+            "description": "The Local Candidate Representing Local People", 
             "primary": false, 
-            "id": "1062", 
-            "description": "The Local Candidate Representing Local People"
+            "id": "1062"
         }, 
         {
             "image": "Emblem_1063.png", 
+            "description": "Reading Independents Putting People First", 
             "primary": false, 
-            "id": "1063", 
-            "description": "Reading Independents Putting People First"
+            "id": "1063"
         }
     ], 
     "party_address": "21 Gweal Avenue\r\nReading\r\nBerkshire\r\nRG2 0FP\r\nUnited Kingdom\r\n", 

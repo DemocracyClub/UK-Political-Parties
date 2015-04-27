@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_922.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "922", 
-            "description": "Emblem 1"
+            "id": "922"
         }, 
         {
             "image": "Emblem_923.png", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "923", 
-            "description": "Emblem 2"
+            "id": "923"
         }, 
         {
             "image": "Emblem_924.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "924", 
-            "description": "Emblem 3"
+            "id": "924"
         }
     ], 
     "party_address": "5 Robin Drive\r\nIrlam\r\nGreater Manchester\r\nM44 6PA\r\nUnited Kingdom\r\n", 

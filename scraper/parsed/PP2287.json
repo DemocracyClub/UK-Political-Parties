@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-03-17T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_947.jpg", 
+            "description": "MexFirstLogo3", 
             "primary": false, 
-            "id": "947", 
-            "description": "MexFirstLogo3"
+            "id": "947"
         }, 
         {
             "image": "Emblem_1131.jpg", 
+            "description": "MexFirst2015logo", 
             "primary": false, 
-            "id": "1131", 
-            "description": "MexFirst2015logo"
+            "id": "1131"
         }
     ], 
     "party_address": "41 Tennyson Avenue\r\nMexborough\r\nSouth Yorkshire\r\nS64 0AX\r\nUnited Kingdom\r\n", 
@@ -32,8 +34,8 @@
     "treasurer": "Mrs susan pickering", 
     "party_id": "PP2287", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

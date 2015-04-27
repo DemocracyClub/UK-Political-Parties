@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-03-31T00:00:00", 
@@ -9,15 +13,15 @@
     "emblems": [
         {
             "image": "Emblem_640.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "640", 
-            "description": "Emblem 1"
+            "id": "640"
         }, 
         {
             "image": "Emblem_641.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "641", 
-            "description": "Emblem 2"
+            "id": "641"
         }
     ], 
     "party_address": "RSP\r\nPO Box\r\n4123\r\nRugby\r\nCV21 9BJ\r\nUnited Kingdom\r\n", 
@@ -32,8 +36,8 @@
     "treasurer": "Ms Janice Fowler", 
     "party_id": "PP1722", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -71,10 +75,6 @@
         }, 
         {
             "translation": "", 
-            "description": "RSP. SF."
-        }, 
-        {
-            "translation": "", 
             "description": "Republican Socialist (England)"
         }, 
         {
@@ -82,7 +82,7 @@
             "description": "For a Peoples Republic"
         }, 
         {
-            "translation": "", 
+            "translation": "Sosialydd Gweriniaethol (Cymru)", 
             "description": "Republican Socialist (Wales)"
         }
     ]

@@ -1,0 +1,45 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "WV13 2NW", 
+    "party_leader": "Mr rehan afzal", 
+    "nominating_officer": "Adnan Gul", 
+    "emblems": [
+        {
+            "image": "Emblem_1196.png", 
+            "description": "Emblem 1", 
+            "primary": false, 
+            "id": "1196"
+        }
+    ], 
+    "party_address": "50 Gomer Street\r\nflat 58\r\nwillinhall\r\nWV13 2NW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr muhammad munir", 
+    "party_id": "PP2719", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Apni Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

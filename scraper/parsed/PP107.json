@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Elizabeth Anne Moore", 
-    "party_name": "United Kingdom Unionist Party U.K.U.P.", 
+    "party_id": "PP107", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP107", 
+    "party_name": "United Kingdom Unionist Party U.K.U.P.", 
     "alternative_names": [
         ""
     ], 

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-03-05T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_231.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "231", 
-            "description": "Emblem 1"
+            "id": "231"
         }, 
         {
             "image": "Emblem_232.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "232", 
-            "description": "Emblem 2"
+            "id": "232"
         }
     ], 
     "party_address": "17 Eglinton Road\r\nSwanscombe\r\nKent\r\nDA10 0HS\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP290", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

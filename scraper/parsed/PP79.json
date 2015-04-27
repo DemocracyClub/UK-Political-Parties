@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-24T00:00:00", 
@@ -8,22 +12,22 @@
     "nominating_officer": "Mr Stephen Hammond", 
     "emblems": [
         {
-            "image": "Emblem_94.jpg", 
+            "image": "Emblem_94.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "94", 
-            "description": "Emblem 1"
+            "id": "94"
         }, 
         {
             "image": "Emblem_95.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "95", 
-            "description": "Emblem 2"
+            "id": "95"
         }, 
         {
             "image": "Emblem_96.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "96", 
-            "description": "Emblem 3"
+            "id": "96"
         }
     ], 
     "party_address": "4 Ewhurst Road\r\nCrofton Park\r\nLondon\r\nSE4 1AQ\r\nUnited Kingdom\r\n", 
@@ -38,8 +42,8 @@
     "treasurer": "Ashley Dickenson", 
     "party_id": "PP79", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

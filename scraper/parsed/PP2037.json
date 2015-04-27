@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-12T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_815.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "815", 
-            "description": "Emblem 1"
+            "id": "815"
         }
     ], 
     "party_address": "Sycamore\r\nMain Street\r\nKirkwall\r\nOrkney\r\nKW15 1BU\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP2037", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

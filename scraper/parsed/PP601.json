@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-11-02T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_355.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "355", 
-            "description": "Emblem 1"
+            "id": "355"
         }
     ], 
     "party_address": "7 Harding Road\r\nBexleyheath\r\nKent\r\nDA7 4PS\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP601", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

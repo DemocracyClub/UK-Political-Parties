@@ -1,19 +1,35 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Adam Gray", 
-            "deputy_campaigns_officer": true, 
+            "name": "Mr Scott Saunders", 
+            "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }, 
         {
             "deputy_additional_officer": false, 
-            "deputy_nominating_officer": true, 
-            "name": "Scott Saunders", 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Scott Saunders", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Mr Scott Saunders", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Adam Gray", 
+            "deputy_campaigns_officer": true, 
+            "deputy_treasurer": false
         }
     ], 
     "campaigns_officer": "Mr Scott Saunders", 
@@ -24,15 +40,15 @@
     "emblems": [
         {
             "image": "Emblem_906.gif", 
+            "description": "Roehampton Independent", 
             "primary": false, 
-            "id": "906", 
-            "description": "Roehampton Independent"
+            "id": "906"
         }, 
         {
             "image": "Emblem_907.gif", 
+            "description": "For Change", 
             "primary": false, 
-            "id": "907", 
-            "description": "For Change"
+            "id": "907"
         }
     ], 
     "party_address": "25 Roehampton High Street\r\n25 Roehampton High Street\r\nRoehampton\r\nLondon\r\nSW15 4HL\r\nUnited Kingdom\r\n", 
@@ -48,7 +64,7 @@
     "party_id": "PP2086", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

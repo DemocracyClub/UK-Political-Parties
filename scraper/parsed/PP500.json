@@ -4,7 +4,7 @@
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Wayne Knowles", 
+            "name": "Mr Wayne Knowles", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -26,7 +26,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Sheridan", 
-    "party_name": "The United Christian Party", 
+    "party_id": "PP500", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -40,7 +40,7 @@
         "type": "Point"
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP500", 
+    "party_name": "The United Christian Party", 
     "alternative_names": [
         ""
     ], 

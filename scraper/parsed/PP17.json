@@ -1,10 +1,13 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "David Ford Lane", 
+            "name": "Mr David Ford Lane", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +20,21 @@
     "emblems": [
         {
             "image": "Emblem_10.gif", 
+            "description": "English flag with Parliament tick", 
             "primary": false, 
-            "id": "10", 
-            "description": "English flag with Parliament tick"
+            "id": "10"
         }, 
         {
             "image": "Emblem_718.jpg", 
+            "description": "Elect a Mayor 1", 
             "primary": false, 
-            "id": "718", 
-            "description": "Elect a Mayor 1"
+            "id": "718"
         }, 
         {
             "image": "Emblem_719.jpg", 
+            "description": "Elect a Mayor 2", 
             "primary": false, 
-            "id": "719", 
-            "description": "Elect a Mayor 2"
+            "id": "719"
         }
     ], 
     "party_address": "Quires Green\r\nOngar\r\nEssex\r\nCM5 0QP\r\nUnited Kingdom\r\n", 

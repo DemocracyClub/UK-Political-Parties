@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-04-14T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_58.gif", 
+            "description": "The Rose and Shield of England", 
             "primary": false, 
-            "id": "58", 
-            "description": "The Rose and Shield of England"
+            "id": "58"
         }
     ], 
     "party_address": "Blue Abode\r\n43 Suffolk Road\r\nCanterbury\r\nKent\r\nCT1 1SA\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Nicholas Bissenden", 
-    "party_name": "Council Tax Payers Party (England's Own)", 
+    "party_id": "PP56", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP56", 
+    "party_name": "Council Tax Payers Party (England's Own)", 
     "alternative_names": [
         ""
     ], 

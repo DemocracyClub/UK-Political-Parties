@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "David Fishel", 
+            "name": "Mr David Fishel", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -18,9 +20,9 @@
     "emblems": [
         {
             "image": "Emblem_416.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "416", 
-            "description": "Emblem 1"
+            "id": "416"
         }
     ], 
     "party_address": "21 Wyndcote Road\r\nMossley Hill\r\nLiverpool\r\nMerseyside\r\nL18 2EB\r\nUnited Kingdom\r\n", 
@@ -33,10 +35,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jeffrey Berman", 
-    "party_name": "The Liverpool Independent Party", 
+    "party_id": "PP708", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -47,7 +49,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP708", 
+    "party_name": "The Liverpool Independent Party", 
     "alternative_names": [
         ""
     ], 

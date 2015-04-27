@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-11-07T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1047.jpg", 
+            "description": "P4P", 
             "primary": false, 
-            "id": "1047", 
-            "description": "P4P"
+            "id": "1047"
         }
     ], 
     "party_address": "35 Derwent Drive\r\nPetts Wood\r\nOrpington\r\nKent\r\nBR5 1EN\r\nUnited Kingdom\r\n", 
@@ -26,9 +28,9 @@
     "treasurer": "None", 
     "party_id": "PPm2536", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -37,7 +39,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Privatise for Prosperity", 
     "alternative_names": [
         ""

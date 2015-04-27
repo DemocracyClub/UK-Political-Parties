@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Stephen Collins", 
+            "name": "Mr Stephen Collins", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +21,9 @@
     "emblems": [
         {
             "image": "Emblem_529.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "529", 
-            "description": "Emblem 1"
+            "id": "529"
         }
     ], 
     "party_address": "12 Chestnut Road\r\nBirmingham\r\nWest Midlands\r\nB13 9AH\r\nUnited Kingdom\r\n", 
@@ -34,8 +38,8 @@
     "treasurer": "Mr Alex Romane", 
     "party_id": "PP846", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

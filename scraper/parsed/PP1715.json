@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_629.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "629", 
-            "description": "Emblem 1"
+            "id": "629"
         }
     ], 
     "party_address": "325 Ballybough House\r\nPoplar Row\r\nDublin\r\nDublin 3\r\nIreland, The Republic of\r\n", 

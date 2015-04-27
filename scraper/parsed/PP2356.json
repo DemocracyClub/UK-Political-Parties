@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2015-03-26T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_993.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "993", 
-            "description": "Emblem 1"
+            "id": "993"
         }
     ], 
     "party_address": "48 Shaw Street\r\nChesterfield\r\nDerbyshire\r\nS41 9AY\r\nUnited Kingdom\r\n", 
@@ -25,11 +29,11 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Neil Spellacy", 
-    "party_name": "The People's Mandate Party", 
+    "party_id": "PP2356", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
+        "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
         "type": "Point", 
@@ -39,7 +43,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP2356", 
+    "party_name": "The People's Mandate Party", 
     "alternative_names": [
         ""
     ], 

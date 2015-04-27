@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-03-25T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1174.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1174", 
-            "description": "Emblem 1"
+            "id": "1174"
         }
     ], 
     "party_address": "80 - 83 Long Lane\r\nLondon\r\nLondon\r\nEC1A 9ET\r\nUnited Kingdom\r\n", 

@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-05-23T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_831.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "831", 
-            "description": "Emblem 1"
+            "id": "831"
         }, 
         {
             "image": "Emblem_832.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "832", 
-            "description": "Emblem 2"
+            "id": "832"
         }, 
         {
             "image": "Emblem_833.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "833", 
-            "description": "Emblem 3"
+            "id": "833"
         }
     ], 
     "party_address": "P.O. Box 10376\r\nLoughborough\r\nLeicestershire\r\nLE11 9HT\r\nUnited Kingdom\r\n", 
@@ -38,8 +42,8 @@
     "treasurer": "Mr Adrian Davies", 
     "party_id": "PP1765", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-01T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_960.jpg", 
+            "description": "Modern United Europeans", 
             "primary": false, 
-            "id": "960", 
-            "description": "Modern United Europeans"
+            "id": "960"
         }
     ], 
     "party_address": "Flat 7, 18 Acton Street\r\nLondon\r\nWC1X 9ND\r\nUnited Kingdom\r\n", 

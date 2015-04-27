@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_991.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "991", 
-            "description": "Emblem 1"
+            "id": "991"
         }
     ], 
     "party_address": "6 South Groves\r\nStag Hill\r\nChilton Foliat\r\nNr Hungerford\r\nWiltshire\r\nRG17 0TT\r\nUnited Kingdom\r\n", 

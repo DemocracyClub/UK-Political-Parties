@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Dave Kelly", 
     "registered_date": "2008-03-28T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_952.jpg", 
+            "description": "emblem 1", 
             "primary": false, 
-            "id": "952", 
-            "description": "emblem 1"
+            "id": "952"
         }
     ], 
     "party_address": "2 Shirdley Walk\r\nSouthdene\r\nKirkby\r\nMerseyside\r\nL32 7RG\r\nUnited Kingdom\r\n", 
@@ -26,8 +28,8 @@
     "treasurer": "Mr Anthony Gerald Barton", 
     "party_id": "PP704", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

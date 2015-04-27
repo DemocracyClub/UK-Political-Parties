@@ -1,0 +1,70 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "TR3 7EA", 
+    "party_leader": "Mr Geoffrey Stanley Guffogg", 
+    "nominating_officer": "Miss Lucy Chippindale", 
+    "emblems": [
+        {
+            "image": "Emblem_1201.jpg", 
+            "description": "Emblem 1", 
+            "primary": false, 
+            "id": "1201"
+        }, 
+        {
+            "image": "Emblem_1202.jpg", 
+            "description": "Emblem 2", 
+            "primary": false, 
+            "id": "1202"
+        }, 
+        {
+            "image": "Emblem_1203.jpg", 
+            "description": "Emblem 3", 
+            "primary": false, 
+            "id": "1203"
+        }
+    ], 
+    "party_address": "16 St. Michael's Road\r\nPonsanooth\r\nTruro\r\nCornwall\r\nTR3 7EA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Lucy Chippindale", 
+    "party_id": "PP2618", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Principles of Politics Party", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A future worth fighting for."
+        }, 
+        {
+            "translation": "", 
+            "description": "Never mind the buzzwords."
+        }, 
+        {
+            "translation": "", 
+            "description": "Turn on, tune in, pop out."
+        }
+    ]
+}

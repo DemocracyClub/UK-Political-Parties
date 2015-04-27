@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-15T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_138.gif", 
+            "description": "A curved row of terraced houses with the sun rising behind", 
             "primary": false, 
-            "id": "138", 
-            "description": "A curved row of terraced houses with the sun rising behind"
+            "id": "138"
         }, 
         {
             "image": "Emblem_139.gif", 
+            "description": "A curved row of terraced houses with the sun rising behind and the words Hawkwell Residents underneath", 
             "primary": false, 
-            "id": "139", 
-            "description": "A curved row of terraced houses with the sun rising behind and the words Hawkwell Residents underneath"
+            "id": "139"
         }, 
         {
             "image": "Emblem_140.gif", 
+            "description": "A curved row of terraced houses with the sun rising behind and the words Hawkwell Residents over the top", 
             "primary": false, 
-            "id": "140", 
-            "description": "A curved row of terraced houses with the sun rising behind and the words Hawkwell Residents over the top"
+            "id": "140"
         }
     ], 
     "party_address": "2 Englefield Close\r\nHawkwell\r\nEssex\r\nSS5 4LE\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP126", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

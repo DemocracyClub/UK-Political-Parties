@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-10-01T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_459.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "459", 
-            "description": "Emblem 1"
+            "id": "459"
         }
     ], 
     "party_address": "78 Kempts Court\r\nLocks Crescent\r\nPortslade\r\nBrighton\r\nBN41 2AD\r\nUnited Kingdom\r\n", 
@@ -26,8 +30,8 @@
     "treasurer": "Mr John Bailhache", 
     "party_id": "PP778", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

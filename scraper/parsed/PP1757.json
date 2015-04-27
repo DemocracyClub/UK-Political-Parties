@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2013-11-05T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_654.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "654", 
-            "description": "Emblem 1"
+            "id": "654"
         }, 
         {
             "image": "Emblem_655.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "655", 
-            "description": "Emblem 2"
+            "id": "655"
         }, 
         {
             "image": "Emblem_656.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "656", 
-            "description": "Emblem 3"
+            "id": "656"
         }
     ], 
     "party_address": "Flat C\r\n9 Christchurch Terrace\r\nLondon\r\nSW3 4AJ\r\nUnited Kingdom\r\n", 
@@ -37,10 +39,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Erendira Josephine Oldenburg", 
-    "party_name": "UK Champagne Socialist Party", 
+    "party_id": "PP1757", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -51,7 +53,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1757", 
+    "party_name": "UK Champagne Socialist Party", 
     "alternative_names": [
         ""
     ], 

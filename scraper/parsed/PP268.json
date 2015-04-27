@@ -4,7 +4,7 @@
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Rebecca Roseff", 
+            "name": "Dr Rebecca Roseff", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +17,15 @@
     "emblems": [
         {
             "image": "Emblem_218.gif", 
+            "description": "A hand in thumbsup configuration encircled by the words \"Real emocracy Party\"", 
             "primary": false, 
-            "id": "218", 
-            "description": "A hand in thumbsup configuration encircled by the words \"Real emocracy Party\""
+            "id": "218"
         }, 
         {
             "image": "Emblem_219.gif", 
+            "description": "A hand in thumbsup configuration", 
             "primary": false, 
-            "id": "219", 
-            "description": "A hand in thumbsup configuration"
+            "id": "219"
         }
     ], 
     "party_address": "115 Salisbury Tower\r\nBirmingham\r\nB18 7DB\r\nUnited Kingdom\r\n", 

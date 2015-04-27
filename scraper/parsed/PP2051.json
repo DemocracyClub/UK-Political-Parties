@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-02-18T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_828.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "828", 
-            "description": "Emblem 1"
+            "id": "828"
         }
     ], 
     "party_address": "14 Hayfield Avenue\r\nInverness\r\nIV2 5HT\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Thomas Gough", 
-    "party_name": "Alliance Party of Scotland", 
+    "party_id": "PP2051", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP2051", 
+    "party_name": "Alliance Party of Scotland", 
     "alternative_names": [
         ""
     ], 

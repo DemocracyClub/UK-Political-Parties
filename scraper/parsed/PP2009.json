@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,10 +22,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Colin Grant", 
-    "party_name": "Civil Society and Common Wealth", 
+    "party_id": "PP2009", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -32,7 +36,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP2009", 
+    "party_name": "Civil Society and Common Wealth", 
     "alternative_names": [
         ""
     ], 

@@ -1,12 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "John Anthony Tovar", 
-            "deputy_campaigns_officer": null, 
-            "deputy_treasurer": null
+            "name": "Mr John Anthony Tovar", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
         }
     ], 
     "campaigns_officer": "None", 
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_829.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "829", 
-            "description": "Emblem 1"
+            "id": "829"
         }
     ], 
     "party_address": "1 Manley Terrace\r\nLiskeard\r\nCornwall\r\nPL14 4DW\r\nUnited Kingdom\r\n", 
@@ -34,9 +36,9 @@
     "treasurer": "None", 
     "party_id": "PPm2053", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -45,7 +47,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Open Liskeard", 
     "alternative_names": [
         ""

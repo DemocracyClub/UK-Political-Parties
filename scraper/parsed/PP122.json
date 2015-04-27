@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Anne Pepper", 
-    "party_name": "The United Kingdom Peoples Party", 
+    "party_id": "PP122", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP122", 
+    "party_name": "The United Kingdom Peoples Party", 
     "alternative_names": [
         ""
     ], 

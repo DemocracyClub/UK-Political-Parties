@@ -1,50 +1,33 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Leanne Ainsworth", 
+            "name": "Mr Jack Edward Allnutt", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }, 
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Jack Edward Allnutt", 
-            "deputy_campaigns_officer": true, 
-            "deputy_treasurer": false
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Edward John Geraghty", 
+            "name": "Mr Edward John Geraghty", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }, 
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Persephone Cara Hallow", 
+            "name": "Mr James Knott", 
             "deputy_campaigns_officer": false, 
-            "deputy_treasurer": false
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "James Knott", 
-            "deputy_campaigns_officer": true, 
-            "deputy_treasurer": false
-        }, 
-        {
-            "deputy_additional_officer": false, 
-            "deputy_nominating_officer": false, 
-            "name": "Stephen Ogden", 
-            "deputy_campaigns_officer": false, 
-            "deputy_treasurer": false
+            "deputy_treasurer": true
         }
     ], 
-    "campaigns_officer": "Mr Andrew John Edward Halsall", 
+    "campaigns_officer": "None", 
     "registered_date": "2009-07-30T00:00:00", 
     "postcode": "M3 5HW", 
     "party_leader": "Mr Laurence Guthrie Kaye", 
@@ -52,21 +35,21 @@
     "emblems": [
         {
             "image": "Emblem_450.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "450", 
-            "description": "Emblem 1"
+            "id": "450"
         }, 
         {
             "image": "Emblem_451.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "451", 
-            "description": "Emblem 2"
+            "id": "451"
         }, 
         {
             "image": "Emblem_452.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "452", 
-            "description": "Emblem 3"
+            "id": "452"
         }
     ], 
     "party_address": "Studio 202\r\nIslington Mill\r\nJames Street\r\nManchester\r\nM3 5HW\r\nUnited Kingdom\r\n", 
@@ -81,8 +64,8 @@
     "treasurer": "Mr Sam Clark", 
     "party_id": "PP770", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_241.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "241", 
-            "description": "Emblem 1"
+            "id": "241"
         }, 
         {
             "image": "Emblem_242.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "242", 
-            "description": "Emblem 2"
+            "id": "242"
         }, 
         {
             "image": "Emblem_243.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "243", 
-            "description": "Emblem 3"
+            "id": "243"
         }
     ], 
     "party_address": "1st Floor\r\n76 Abbey Street\r\nBangor\r\nDown\r\nBT20 4JB\r\nUnited Kingdom\r\n", 

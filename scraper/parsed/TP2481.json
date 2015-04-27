@@ -1,11 +1,26 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
-    "campaigns_officer": null, 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Nathan Sparkes", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Dr Evan Harris", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
     "registered_date": "2014-09-18T00:00:00", 
     "postcode": "BN42 4FN", 
-    "party_leader": null, 
-    "nominating_officer": null, 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
     "emblems": [], 
     "party_address": "Bank House\r\nSouthwick Square\r\nSouthwick\r\nBrighton\r\nBN42 4FN\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -16,12 +31,12 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": null, 
+    "treasurer": "None", 
     "party_id": "TP2481", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -32,6 +47,8 @@
     }, 
     "register": null, 
     "party_name": "The Hacked Off Campaign", 
-    "alternative_names": [], 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": []
 }

@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-26T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_814.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "814", 
-            "description": "Emblem 1"
+            "id": "814"
         }
     ], 
     "party_address": "56 Beacon Hill\r\nHerne Bay\r\nKent\r\nCT6 6JN\r\nUnited Kingdom\r\n", 
@@ -26,8 +30,8 @@
     "treasurer": "Mr Jason Hollingsworth", 
     "party_id": "PP2036", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

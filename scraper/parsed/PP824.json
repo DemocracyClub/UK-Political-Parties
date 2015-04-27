@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "Mr John Rollins", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_503.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "503", 
-            "description": "Emblem 1"
+            "id": "503"
         }
     ], 
     "party_address": "The Mansion\r\nOttershaw Park\r\nOttershaw\r\nSurrey\r\nKT16 0QG\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Frauke Elisabeth Leon-Smith", 
-    "party_name": "Independents Federation UK", 
+    "party_id": "PP824", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP824", 
+    "party_name": "Independents Federation UK", 
     "alternative_names": [
         ""
     ], 

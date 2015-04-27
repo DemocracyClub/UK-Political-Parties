@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Dr Sean O'Dwyer", 
-    "party_name": "Europe First", 
+    "party_id": "PP385", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         "type": "Point"
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP385", 
+    "party_name": "Europe First", 
     "alternative_names": [
         ""
     ], 

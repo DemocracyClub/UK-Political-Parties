@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-09-27T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_589.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "589", 
-            "description": "Emblem 1"
+            "id": "589"
         }, 
         {
             "image": "Emblem_590.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "590", 
-            "description": "Emblem 2"
+            "id": "590"
         }, 
         {
             "image": "Emblem_591.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "591", 
-            "description": "Emblem 3"
+            "id": "591"
         }
     ], 
     "party_address": "65 Under Knoll\r\nPeasedown St John\r\nBath\r\nSomerset\r\nBA2 8TY\r\nUnited Kingdom\r\n", 
@@ -37,11 +39,11 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_name": "Peasedown 1st", 
+    "party_id": "PPm899", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -50,8 +52,8 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
-    "party_id": "PPm899", 
+    "register": "Great Britain", 
+    "party_name": "Peasedown 1st", 
     "alternative_names": [
         ""
     ], 

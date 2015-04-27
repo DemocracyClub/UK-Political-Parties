@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-11-09T00:00:00", 
@@ -9,15 +13,15 @@
     "emblems": [
         {
             "image": "Emblem_773.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "773", 
-            "description": "Emblem 1"
+            "id": "773"
         }, 
         {
             "image": "Emblem_774.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "774", 
-            "description": "Emblem 2"
+            "id": "774"
         }
     ], 
     "party_address": "64a Cedar Drive\r\nChichester\r\nWest Sussex\r\nPO19 3EJ\r\nUnited Kingdom\r\n", 
@@ -33,7 +37,7 @@
     "party_id": "PP1969", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

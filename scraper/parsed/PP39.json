@@ -8,22 +8,22 @@
     "nominating_officer": "Mr Pat Doherty", 
     "emblems": [
         {
-            "image": "Emblem_31.gif", 
+            "image": "Emblem_32.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "31", 
-            "description": "Emblem 1"
+            "id": "32"
         }, 
         {
-            "image": "Emblem_32.gif", 
+            "image": "Emblem_31.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "32", 
-            "description": "Emblem 2"
+            "id": "31"
         }, 
         {
             "image": "Emblem_33.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "33", 
-            "description": "Emblem 3"
+            "id": "33"
         }
     ], 
     "party_address": "44 Cearn\u00f3g Pharnell\r\nBaile \u00c1tha Cliath\r\n1\r\nIreland, The Republic of\r\n", 
@@ -38,7 +38,7 @@
     "treasurer": "Mr Ted Howell", 
     "party_id": "PP39", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
@@ -49,7 +49,7 @@
     "register": "Northern Ireland", 
     "party_name": "Sinn F\u00e9in", 
     "alternative_names": [
-        "Sinn F\u00e9in"
+        ""
     ], 
     "descriptions": []
 }

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2010-11-02T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,10 +20,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andy Lear", 
-    "party_name": "Best of a Bad Bunch", 
+    "party_id": "PP764", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -32,7 +34,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP764", 
+    "party_name": "Best of a Bad Bunch", 
     "alternative_names": [
         ""
     ], 

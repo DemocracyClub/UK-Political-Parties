@@ -1,0 +1,45 @@
+{
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "CB4 3HR", 
+    "party_leader": "Mr Keith Garrett", 
+    "nominating_officer": "Ms Ayesha Garrett", 
+    "emblems": [], 
+    "party_address": "32 Gilbert Close\r\nCambridge\r\nCB4 3HR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Ayesha Garrett", 
+    "party_id": "PP2674", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Rebooting Democracy", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Removing the politicians"
+        }
+    ]
+}

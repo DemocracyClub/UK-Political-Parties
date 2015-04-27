@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-12-19T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1098.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1098", 
-            "description": "Emblem 1"
+            "id": "1098"
         }
     ], 
     "party_address": "7 Lewis Avenue\r\nDavyhulme\r\nUrmston\r\nManchester\r\nM41 7EQ\r\nUnited Kingdom\r\n", 

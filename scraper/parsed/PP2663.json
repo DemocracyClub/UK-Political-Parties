@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-04-01T00:00:00", 
@@ -8,10 +10,10 @@
     "nominating_officer": "Mr Jerry Hyman", 
     "emblems": [
         {
-            "image": "Emblem_1135.jpg", 
+            "image": "Emblem_1135.png", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1135", 
-            "description": "Balance housing with people & wildlife"
+            "id": "1135"
         }
     ], 
     "party_address": "19 Wessex Place\r\nAlfred Road\r\nFarnham\r\nSurrey\r\nGU9 8NG\r\nUnited Kingdom\r\n", 
@@ -38,7 +40,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_name": "Farham Residents", 
+    "party_name": "Farnham Residents", 
     "alternative_names": [
         ""
     ], 

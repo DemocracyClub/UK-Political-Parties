@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Rebecca Roseff", 
+            "name": "Dr Rebecca Roseff", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +21,15 @@
     "emblems": [
         {
             "image": "Emblem_216.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "216", 
-            "description": "Emblem 1"
+            "id": "216"
         }, 
         {
             "image": "Emblem_217.gif", 
+            "description": "A hand in thumbsup configuration", 
             "primary": false, 
-            "id": "217", 
-            "description": "A hand in thumbsup configuration"
+            "id": "217"
         }
     ], 
     "party_address": "115 Salisbury Tower\r\nBirmingham\r\nB18 7DB\r\nUnited Kingdom\r\n", 
@@ -40,8 +44,8 @@
     "treasurer": "Mr Robin Clarke", 
     "party_id": "PP267", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

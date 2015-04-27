@@ -4,7 +4,7 @@
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Declan McCusker", 
+            "name": "Mr Declan McCusker", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -26,7 +26,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Samuel Charles Smyth", 
-    "party_name": "Procapitalism", 
+    "party_id": "PP540", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -40,7 +40,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP540", 
+    "party_name": "Procapitalism", 
     "alternative_names": [
         ""
     ], 

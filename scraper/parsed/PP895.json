@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-03-22T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_582.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "582", 
-            "description": "Emblem 1"
+            "id": "582"
         }
     ], 
     "party_address": "21 Peascroft Road\r\nNorton\r\nStoke on Trent\r\nStaffordshire\r\nST6 8HQ\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Cllr Mick Salih", 
-    "party_name": "Community Voice", 
+    "party_id": "PP895", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP895", 
+    "party_name": "Community Voice", 
     "alternative_names": [
         ""
     ], 

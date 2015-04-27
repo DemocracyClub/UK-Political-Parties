@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-10-11T00:00:00", 
     "campaigns_officer": "Mr John Telfer", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_291.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "291", 
-            "description": "Emblem 1"
+            "id": "291"
         }
     ], 
     "party_address": "26 Birdston Road\r\nMilton of Campsie\r\nStirlingshire\r\nG66 8BU\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Young", 
-    "party_name": "East Dunbartonshire Independent Alliance", 
+    "party_id": "PP410", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP410", 
+    "party_name": "East Dunbartonshire Independent Alliance", 
     "alternative_names": [
         ""
     ], 

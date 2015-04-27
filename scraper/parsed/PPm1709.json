@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-09-25T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_618.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "618", 
-            "description": "Emblem 1"
+            "id": "618"
         }
     ], 
     "party_address": "9a Woolavington Road\r\nPuriton\r\nBridgwater\r\nSomerset\r\nTA7 8BE\r\nUnited Kingdom\r\n", 
@@ -25,11 +27,11 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_name": "Heart of Puriton", 
+    "party_id": "PPm1709", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -38,8 +40,8 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
-    "party_id": "PPm1709", 
+    "register": "Great Britain", 
+    "party_name": "Heart of Puriton", 
     "alternative_names": [
         ""
     ], 

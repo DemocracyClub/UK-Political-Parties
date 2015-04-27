@@ -1,11 +1,33 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
-    "campaigns_officer": null, 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Iain McNicol", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Ms Margaret Lynch", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "The Rt Hon Ed Miliband", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
     "registered_date": "2014-04-24T00:00:00", 
     "postcode": "SW1H 0RH", 
-    "party_leader": null, 
-    "nominating_officer": null, 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
     "emblems": [], 
     "party_address": "One Brewer's Green\r\nBuckingham Gate\r\nLondon\r\nSW1H 0RH\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -16,12 +38,12 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": null, 
+    "treasurer": "None", 
     "party_id": "PerPar2348", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "type": "Point", 
@@ -32,6 +54,8 @@
     }, 
     "register": null, 
     "party_name": "Labour Party", 
-    "alternative_names": [], 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": []
 }

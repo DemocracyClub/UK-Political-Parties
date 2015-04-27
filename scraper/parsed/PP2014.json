@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-06T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_798.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "798", 
-            "description": "Emblem 1"
+            "id": "798"
         }, 
         {
             "image": "Emblem_799.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "799", 
-            "description": "Emblem 2"
+            "id": "799"
         }, 
         {
-            "image": "Emblem_800.png", 
+            "image": "Emblem_800.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "800", 
-            "description": "Emblem 3"
+            "id": "800"
         }
     ], 
     "party_address": "The Garage\r\n22 Croft Road\r\nCarnlough\r\nBallymena\r\nAntrim\r\nBT44 0EX\r\nUnited Kingdom\r\n", 
@@ -38,8 +42,8 @@
     "treasurer": "Ms Patricia Eastwood", 
     "party_id": "PP2014", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

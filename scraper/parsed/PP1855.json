@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Andrina Morrison", 
+            "name": "Mrs Andrina Morrison", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_717.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "717", 
-            "description": "Emblem 1"
+            "id": "717"
         }
     ], 
     "party_address": "18 Bullwood Drive\r\nGlasgow\r\nLanarkshire\r\nG53 7NW\r\nUnited Kingdom\r\n", 
@@ -35,7 +37,7 @@
     "party_id": "PP1855", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

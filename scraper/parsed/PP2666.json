@@ -1,0 +1,38 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "RG12 7WR", 
+    "party_leader": "Mr David Elford", 
+    "nominating_officer": "Mr Chas Baily", 
+    "emblems": [], 
+    "party_address": "25 Northcott\r\nBracknell\r\nRG12 7WR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Elford", 
+    "party_id": "PP2666", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Hanworth & Birch Hill Residents", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

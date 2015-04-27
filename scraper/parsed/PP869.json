@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-09-07T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,10 +20,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Maria Androsova-Middleton", 
-    "party_name": "Bromsgrove Independent Conservative", 
+    "party_id": "PP869", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -32,7 +34,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP869", 
+    "party_name": "Bromsgrove Independent Conservative", 
     "alternative_names": [
         ""
     ], 

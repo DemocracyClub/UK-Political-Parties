@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mrs Anastasia Papatzikis", 
     "registered_date": "2014-01-10T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_884.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "884", 
-            "description": "Emblem 1"
+            "id": "884"
         }
     ], 
     "party_address": "Flat 24 Granary Court\r\n1 Millstone Close\r\nLondon\r\nE15 1PD\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP2152", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

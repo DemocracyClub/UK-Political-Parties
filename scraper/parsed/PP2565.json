@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-02-18T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1059.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "1059", 
-            "description": "Emblem 2"
+            "id": "1059"
         }
     ], 
     "party_address": "83 Broadway West\r\nLeigh-on-sea\r\nEssex\r\nSS9 2BU\r\nUnited Kingdom\r\n", 

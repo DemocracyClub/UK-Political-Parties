@@ -1,5 +1,8 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-11-12T00:00:00", 
@@ -9,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_775.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "775", 
-            "description": "Emblem 1"
+            "id": "775"
         }, 
         {
             "image": "Emblem_776.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "776", 
-            "description": "Emblem 2"
+            "id": "776"
         }, 
         {
             "image": "Emblem_794.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "794", 
-            "description": "Emblem 3"
+            "id": "794"
         }
     ], 
     "party_address": "Rockside Cttage\r\nOff High Street\r\nFarndon\r\nChester\r\nCheshire\r\nCH3 6PU\r\nUnited Kingdom\r\n", 
@@ -38,9 +41,9 @@
     "treasurer": "Mr Alan Reginald Hardman", 
     "party_id": "PPm1970", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -49,7 +52,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Gift Economy Party", 
     "alternative_names": [
         ""

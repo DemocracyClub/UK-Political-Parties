@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Natalie Michelle Christian", 
+            "name": "Miss Natalie Michelle Christian", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -26,10 +28,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Dawn Smith", 
-    "party_name": "Stop! Durrington's Overdevelopment - Save Titnores' Trees", 
+    "party_id": "PP389", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -40,7 +42,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP389", 
+    "party_name": "Stop! Durrington's Overdevelopment - Save Titnores' Trees", 
     "alternative_names": [
         ""
     ], 

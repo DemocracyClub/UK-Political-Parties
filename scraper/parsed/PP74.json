@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-12-13T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_82.gif", 
+            "description": "Epsom clock tower", 
             "primary": false, 
-            "id": "82", 
-            "description": "Epsom clock tower"
+            "id": "82"
         }, 
         {
             "image": "Emblem_83.gif", 
+            "description": "The dog gate Ewell", 
             "primary": false, 
-            "id": "83", 
-            "description": "The dog gate Ewell"
+            "id": "83"
         }, 
         {
             "image": "Emblem_84.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "84", 
-            "description": "Emblem 3"
+            "id": "84"
         }
     ], 
     "party_address": "49 Harefield Avenue\r\nCheam\r\nSutton\r\nSurrey\r\nSM2 7ND\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP74", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-04-07T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_523.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "523", 
-            "description": "Emblem 1"
+            "id": "523"
         }
     ], 
     "party_address": "11 Martlet Close\r\nWootton\r\nNorthampton\r\nNN4 6EX\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Theresa Costello", 
-    "party_name": "Scrap Members Allowances", 
+    "party_id": "PP842", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP842", 
+    "party_name": "Scrap Members Allowances", 
     "alternative_names": [
         ""
     ], 

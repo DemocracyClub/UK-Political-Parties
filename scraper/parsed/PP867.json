@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Alan Baldwin", 
+            "name": "Mr Alan Baldwin", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_551.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "551", 
-            "description": "Emblem 1"
+            "id": "551"
         }, 
         {
             "image": "Emblem_552.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "552", 
-            "description": "Emblem 2"
+            "id": "552"
         }, 
         {
             "image": "Emblem_553.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "553", 
-            "description": "Emblem 3"
+            "id": "553"
         }
     ], 
     "party_address": "50 Potterdale Drive\r\nLittle Weighton\r\nCottingham\r\nHU20 3UX\r\nUnited Kingdom\r\n", 
@@ -47,7 +51,7 @@
     "party_id": "PP867", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

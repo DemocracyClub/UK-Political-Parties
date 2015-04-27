@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "George Elsom", 
+            "name": "Cllr George Elsom", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": true
         }
@@ -18,9 +20,9 @@
     "emblems": [
         {
             "image": "Emblem_785.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "785", 
-            "description": "Emblem 1"
+            "id": "785"
         }
     ], 
     "party_address": "6 Parkshiel\r\nCleadon Park\r\nSouth Shields\r\nTyne and Wear\r\nNE34 8BU\r\nUnited Kingdom\r\n", 
@@ -33,10 +35,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs June Elsom", 
-    "party_name": "Independent - Putting People First", 
+    "party_id": "PP1987", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -47,7 +49,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1987", 
+    "party_name": "Independent - Putting People First", 
     "alternative_names": [
         ""
     ], 

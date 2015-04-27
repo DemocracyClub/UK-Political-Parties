@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-28T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_827.jpg", 
+            "description": "Marylebone Residents Emblem", 
             "primary": false, 
-            "id": "827", 
-            "description": "Marylebone Residents Emblem"
+            "id": "827"
         }
     ], 
     "party_address": "16 Newcastle House\r\nLuxborough Street\r\nLondon\r\nW1U 5BR\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP2049", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

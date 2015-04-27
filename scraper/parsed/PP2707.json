@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-03-26T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_1175.jpg", 
+            "description": "emblem 1", 
             "primary": false, 
-            "id": "1175", 
-            "description": "emblem 1"
+            "id": "1175"
         }, 
         {
             "image": "Emblem_1204.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "1204", 
-            "description": "Emblem 2"
+            "id": "1204"
         }, 
         {
             "image": "Emblem_1205.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "1205", 
-            "description": "Emblem 3"
+            "id": "1205"
         }
     ], 
     "party_address": "PO Box 495\r\nHull\r\nHU9 9GL\r\nUnited Kingdom\r\n", 

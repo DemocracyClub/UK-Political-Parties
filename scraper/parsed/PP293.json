@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "David Brown", 
+            "name": "Mr David Brown", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +21,15 @@
     "emblems": [
         {
             "image": "Emblem_234.gif", 
+            "description": "Right forearm with clenched hand making a thumbsup sign on a completely black background", 
             "primary": false, 
-            "id": "234", 
-            "description": "Right forearm with clenched hand making a thumbsup sign on a completely black background"
+            "id": "234"
         }, 
         {
             "image": "Emblem_235.gif", 
+            "description": "Right forearm with clenched hand making a thumbsup sign on a striped background with stripes running diagonally from right to left", 
             "primary": false, 
-            "id": "235", 
-            "description": "Right forearm with clenched hand making a thumbsup sign on a striped background with stripes running diagonally from right to left"
+            "id": "235"
         }
     ], 
     "party_address": "268 Bath Street\r\nGlasgow\r\nLanarkshire\r\nG2 4JR\r\nUnited Kingdom\r\n", 
@@ -41,7 +45,7 @@
     "party_id": "PP293", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

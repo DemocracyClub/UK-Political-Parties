@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-06-14T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,15 +12,15 @@
     "emblems": [
         {
             "image": "Emblem_385.gif", 
+            "description": "Owl", 
             "primary": false, 
-            "id": "385", 
-            "description": "Owl"
+            "id": "385"
         }, 
         {
             "image": "Emblem_386.gif", 
+            "description": "Badge", 
             "primary": false, 
-            "id": "386", 
-            "description": "Badge"
+            "id": "386"
         }
     ], 
     "party_address": "41 Castle Street\r\nDover\r\nKent\r\nCT16 1PT\r\nUnited Kingdom\r\n", 
@@ -31,10 +33,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Ronald Francis Ford", 
-    "party_name": "The Dover Alliance", 
+    "party_id": "PP653", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -45,7 +47,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP653", 
+    "party_name": "The Dover Alliance", 
     "alternative_names": [
         ""
     ], 

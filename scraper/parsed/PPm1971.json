@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-11-12T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_777.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "777", 
-            "description": "Emblem 1"
+            "id": "777"
         }, 
         {
             "image": "Emblem_778.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "778", 
-            "description": "Emblem 2"
+            "id": "778"
         }
     ], 
     "party_address": "6 Clos Peris\r\nNew Broughton\r\nWrecsam\r\nLL11 6QD\r\nUnited Kingdom\r\n", 
@@ -32,9 +34,9 @@
     "treasurer": "None", 
     "party_id": "PPm1971", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -43,7 +45,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Plaid Glyndwr", 
     "alternative_names": [
         "Glyndwr Party"

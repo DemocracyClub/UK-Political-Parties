@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-13T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_806.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "806", 
-            "description": "Emblem 1"
+            "id": "806"
         }
     ], 
     "party_address": "109 Mayfields\r\nGreenways Estate\r\nSpennymoor\r\nDurham\r\nDL16 6TT\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP2028", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

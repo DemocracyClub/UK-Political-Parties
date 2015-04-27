@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2013-11-05T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_171.gif", 
+            "description": "WORLD written beneath planet Earth tilted to show the hemisphere with most land area", 
             "primary": false, 
-            "id": "171", 
-            "description": "WORLD written beneath planet Earth tilted to show the hemisphere with most land area"
+            "id": "171"
         }
     ], 
     "party_address": "c/o Nigel harris\r\nTrinity College\r\nCambridge University\r\nCambridge\r\nCambridgeshire\r\nCB2 1TQ\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Harris", 
-    "party_name": "World", 
+    "party_id": "PP172", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP172", 
+    "party_name": "World", 
     "alternative_names": [
         ""
     ], 

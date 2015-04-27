@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Aaron D'Souza", 
+            "name": "Mr Aaron D'Souza", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_940.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "940", 
-            "description": "Emblem 1"
+            "id": "940"
         }
     ], 
     "party_address": "30 Anchor Brewhouse\r\n50 Shad Thames\r\nLondon\r\nSE1 2LY\r\nUnited Kingdom\r\n", 
@@ -35,7 +37,7 @@
     "party_id": "PP2137", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

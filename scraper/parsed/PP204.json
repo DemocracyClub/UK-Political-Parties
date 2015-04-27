@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-09-25T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_186.gif", 
+            "description": "The word IWCA in black in a black outline oval with a white background IWCA in lower case", 
             "primary": false, 
-            "id": "186", 
-            "description": "The word IWCA in black in a black outline oval with a white background IWCA in lower case"
+            "id": "186"
         }, 
         {
             "image": "Emblem_187.gif", 
+            "description": "The word IWCA in white on a black background in an oval", 
             "primary": false, 
-            "id": "187", 
-            "description": "The word IWCA in white on a black background in an oval"
+            "id": "187"
         }, 
         {
             "image": "Emblem_188.gif", 
+            "description": "The word IWCA in white in a white outline oval with a black background IWCA in lower case", 
             "primary": false, 
-            "id": "188", 
-            "description": "The word IWCA in white in a white outline oval with a black background IWCA in lower case"
+            "id": "188"
         }
     ], 
     "party_address": "BM Box IWCA\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
@@ -38,8 +42,8 @@
     "treasurer": "Mr Ross Baptie", 
     "party_id": "PP204", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

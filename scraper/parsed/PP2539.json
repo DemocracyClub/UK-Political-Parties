@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-03-18T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1049.png", 
+            "description": "The emblem is a letter T with the horizontal line converted to a wavy line representing the undulating land of an island. There are three short lines radiating outwards and upwards above the letter representing a beacon of light", 
             "primary": false, 
-            "id": "1049", 
-            "description": "The emblem is a letter T with the horizontal line converted to a wavy line representing the undulating land of an island. There are three short lines radiating outwards and upwards above the letter representing a beacon of light"
+            "id": "1049"
         }
     ], 
     "party_address": "6 LONDON RD\r\nRAMSGATE\r\nCT11 0DA\r\nUnited Kingdom\r\n", 

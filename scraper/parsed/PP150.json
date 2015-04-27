@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2002-05-21T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Beard", 
-    "party_name": "Independent Electors Association", 
+    "party_id": "PP150", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP150", 
+    "party_name": "Independent Electors Association", 
     "alternative_names": [
         ""
     ], 

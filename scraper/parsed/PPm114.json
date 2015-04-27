@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2010-04-20T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,11 +22,11 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_name": "The Doncaster First Party", 
+    "party_id": "PPm114", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -31,8 +35,8 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
-    "party_id": "PPm114", 
+    "register": "Great Britain", 
+    "party_name": "The Doncaster First Party", 
     "alternative_names": [
         ""
     ], 

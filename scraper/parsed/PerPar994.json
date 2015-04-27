@@ -1,11 +1,33 @@
 {
     "fielding_in": [], 
-    "other_officers": [], 
-    "campaigns_officer": null, 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Owen Glyndwr Erasmus", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mrs Rhuanedd Richards", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Ms Leanne Wood", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
     "registered_date": "2010-12-24T00:00:00", 
     "postcode": "CF10 4AL", 
-    "party_leader": null, 
-    "nominating_officer": null, 
+    "party_leader": "None", 
+    "nominating_officer": "None", 
     "emblems": [], 
     "party_address": "Ty Gwynfor\r\nMarine Chambers\r\nAnson Court\r\nAtlantic Wharf\r\nCaerdydd\r\nCF10 4AL\r\nUnited Kingdom\r\n", 
     "email": "", 
@@ -16,12 +38,12 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": null, 
+    "treasurer": "None", 
     "party_id": "PerPar994", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "type": "Point", 
@@ -32,6 +54,8 @@
     }, 
     "register": null, 
     "party_name": "Plaid Cymru - The Party of Wales", 
-    "alternative_names": [], 
+    "alternative_names": [
+        ""
+    ], 
     "descriptions": []
 }

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-05-09T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_374.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "374", 
-            "description": "Emblem 1"
+            "id": "374"
         }
     ], 
     "party_address": "Sunnylawns\r\nDensole Lane\r\nDensole\r\nFolkestone\r\nKent\r\nCT18 7BL\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Callahan", 
-    "party_name": "Shepway Independents", 
+    "party_id": "PP637", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP637", 
+    "party_name": "Shepway Independents", 
     "alternative_names": [
         ""
     ], 

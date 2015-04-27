@@ -1,0 +1,55 @@
+{
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mrs Alexandra Scott-Hayward", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "KY15 5TP", 
+    "party_leader": "Mr Michael Scott-Hayward", 
+    "nominating_officer": "Mr Michael Scott-Hayward", 
+    "emblems": [
+        {
+            "image": "Emblem_1154.jpg", 
+            "description": "ISDB EMBLEM 1", 
+            "primary": false, 
+            "id": "1154"
+        }
+    ], 
+    "party_address": "Sawmill House\r\nKemback Bridge\r\nCUPAR\r\nFife\r\nKY15 5TP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael Scott-Hayward", 
+    "party_id": "PP2575", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Sovereign Democratic Britain", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

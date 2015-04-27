@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mrs Enid Catherine Hetherington", 
     "registered_date": "2002-03-25T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_185.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "185", 
-            "description": "Emblem 1"
+            "id": "185"
         }
     ], 
     "party_address": "51 Stanhope Road\r\nSouth Shields\r\nTyne and Wear\r\nNE33 4BQ\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP203", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

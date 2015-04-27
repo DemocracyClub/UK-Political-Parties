@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-12-18T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_357.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "357", 
-            "description": "Emblem 1"
+            "id": "357"
         }, 
         {
             "image": "Emblem_358.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "358", 
-            "description": "Emblem 2"
+            "id": "358"
         }
     ], 
     "party_address": "PO Box 7565\r\nGlasgow\r\nG42 2DN\r\nUnited Kingdom\r\n", 
@@ -32,8 +34,8 @@
     "treasurer": "Mr Gordon Morgan", 
     "party_id": "PP604", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

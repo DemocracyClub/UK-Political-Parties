@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-07-24T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1009.jpg", 
+            "description": "For Russia", 
             "primary": false, 
-            "id": "1009", 
-            "description": "For Russia"
+            "id": "1009"
         }
     ], 
     "party_address": "6A Chapel Lane\r\nBranton\r\nDoncaster\r\nDN3 3NG\r\nUnited Kingdom\r\n", 

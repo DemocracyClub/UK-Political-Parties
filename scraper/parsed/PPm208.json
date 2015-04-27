@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2008-02-11T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,11 +20,11 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_name": "Iranian Civil Rights Committee", 
+    "party_id": "PPm208", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -31,8 +33,8 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
-    "party_id": "PPm208", 
+    "register": "Great Britain", 
+    "party_name": "Iranian Civil Rights Committee", 
     "alternative_names": [
         ""
     ], 

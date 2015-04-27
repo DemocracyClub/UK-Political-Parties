@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2015-02-11T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,11 +20,11 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Diana Lucia Cottrell", 
-    "party_name": "Campaign West Independent", 
+    "party_id": "PP2338", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
+        "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
         "type": "Point", 
@@ -32,7 +34,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP2338", 
+    "party_name": "Campaign West Independent", 
     "alternative_names": [
         ""
     ], 

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Christopher Sadler", 
     "registered_date": "1999-12-29T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_85.gif", 
+            "description": "swan in circle with lettering 1", 
             "primary": false, 
-            "id": "85", 
-            "description": "swan in circle with lettering 1"
+            "id": "85"
         }, 
         {
             "image": "Emblem_86.gif", 
+            "description": "swan in circle with lettering 2", 
             "primary": false, 
-            "id": "86", 
-            "description": "swan in circle with lettering 2"
+            "id": "86"
         }, 
         {
             "image": "Emblem_87.gif", 
+            "description": "swan in circle with lettering 3", 
             "primary": false, 
-            "id": "87", 
-            "description": "swan in circle with lettering 3"
+            "id": "87"
         }
     ], 
     "party_address": "29 Rivermount\r\nWalton on Thames\r\nSurrey\r\nKT12 2PR\r\nUnited Kingdom\r\n", 
@@ -38,8 +40,8 @@
     "treasurer": "Mr John Lisle", 
     "party_id": "PP75", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

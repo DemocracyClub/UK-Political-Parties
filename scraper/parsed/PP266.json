@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Michelle Boyle", 
-    "party_name": "Community Awareness Party/ Protecting Children", 
+    "party_id": "PP266", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP266", 
+    "party_name": "Community Awareness Party/ Protecting Children", 
     "alternative_names": [
         "An P\u00e0irt\u00ec um Eolas Sa Phobal/ Ag Cosaint P\u00e0ist\u00ec"
     ], 

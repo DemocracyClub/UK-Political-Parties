@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2004-06-16T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_287.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "287", 
-            "description": "Emblem 1"
+            "id": "287"
         }, 
         {
             "image": "Emblem_288.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "288", 
-            "description": "Emblem 2"
+            "id": "288"
         }, 
         {
             "image": "Emblem_1115.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "1115", 
-            "description": "Emblem 3"
+            "id": "1115"
         }
     ], 
     "party_address": "14 Uplands Ave\r\nChell\r\nStoke on Trent\r\nST6 6SN\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP396", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

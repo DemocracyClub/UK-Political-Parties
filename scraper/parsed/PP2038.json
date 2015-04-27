@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Ms Christine Charlotte Townsend", 
     "registered_date": "2013-03-26T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_818.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "818", 
-            "description": "Emblem 1"
+            "id": "818"
         }
     ], 
     "party_address": "20 Southernhay Avenue\r\nBristol\r\nAvon\r\nBS8 4TJ\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP2038", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

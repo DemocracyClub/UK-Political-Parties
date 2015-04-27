@@ -1,0 +1,38 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Trevor Locke", 
+    "registered_date": "2015-04-07T00:00:00", 
+    "postcode": "NG157AE", 
+    "party_leader": "Cllr John Wilmott", 
+    "nominating_officer": "Cllr John Wilmott", 
+    "emblems": [], 
+    "party_address": "87,\r\nCarlingford Road\r\nHucknall,\r\nNottingham\r\nNottingham\r\nNottinghamshire\r\nNG157AE\r\nEngland\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robert Gow", 
+    "party_id": "PP2681", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Hucknall First Community Forum", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

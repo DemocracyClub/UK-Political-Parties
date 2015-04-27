@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-18T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_927.jpg", 
+            "description": "Old Swan against the Cuts", 
             "primary": false, 
-            "id": "927", 
-            "description": "Old Swan against the Cuts"
+            "id": "927"
         }
     ], 
     "party_address": "News From Nowhere Book shop\r\n96 Bold Street\r\nLiverpool\r\nMerseyside\r\nL13 4DQ\r\nUnited Kingdom\r\n", 
@@ -26,8 +28,8 @@
     "treasurer": "Mrs Sue Ferguson", 
     "party_id": "PP2242", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

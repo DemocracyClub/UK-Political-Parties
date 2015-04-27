@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-03-15T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_146.gif", 
+            "description": "The word \"PEACE\" in bold type with a double ruling above and below the word", 
             "primary": false, 
-            "id": "146", 
-            "description": "The word \"PEACE\" in bold type with a double ruling above and below the word"
+            "id": "146"
         }
     ], 
     "party_address": "39 Sheepfold Road\r\nGuildford\r\nSurrey\r\nGU2 9TT\r\nUnited Kingdom\r\n", 
@@ -26,8 +30,8 @@
     "treasurer": "Mr Jeffrey Bolam", 
     "party_id": "PP133", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

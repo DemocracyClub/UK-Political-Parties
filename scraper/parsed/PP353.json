@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert Wilson Durward", 
-    "party_name": "The New Party", 
+    "party_id": "PP353", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP353", 
+    "party_name": "The New Party", 
     "alternative_names": [
         "An P\u00e0irt\u00ec Nua"
     ], 

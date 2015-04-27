@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_443.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "443", 
-            "description": "Emblem 1"
+            "id": "443"
         }, 
         {
             "image": "Emblem_444.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "444", 
-            "description": "Emblem 2"
+            "id": "444"
         }, 
         {
             "image": "Emblem_445.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "445", 
-            "description": "Emblem 3"
+            "id": "445"
         }
     ], 
     "party_address": "9 Yr Ardd Fawr\r\nMynytho\r\nPwllheli\r\nLL53 7RY\r\nUnited Kingdom\r\n", 
@@ -37,10 +39,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mohammad Rafiq Kawaja", 
-    "party_name": "Newid", 
+    "party_id": "PP763", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -51,7 +53,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP763", 
+    "party_name": "Newid", 
     "alternative_names": [
         ""
     ], 

@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-01-20T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_908.jpg", 
+            "description": "Raising the shire", 
             "primary": false, 
-            "id": "908", 
-            "description": "Raising the shire"
+            "id": "908"
         }
     ], 
     "party_address": "Waylands\r\nEast Hanney\r\nOxfordshire\r\nOX12 0JE\r\nUnited Kingdom\r\n", 

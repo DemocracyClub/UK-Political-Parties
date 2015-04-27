@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-09-29T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_859.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "859", 
-            "description": "Emblem 1"
+            "id": "859"
         }
     ], 
     "party_address": "104 Mortlake Road\r\nIlford\r\nEssex\r\nIG1 2SY\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Cllr Virendra K Tewari", 
-    "party_name": "Independent Loxford", 
+    "party_id": "PP2108", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP2108", 
+    "party_name": "Independent Loxford", 
     "alternative_names": [
         ""
     ], 

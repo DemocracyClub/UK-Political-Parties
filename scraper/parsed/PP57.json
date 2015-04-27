@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-01-27T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_59.gif", 
+            "description": "Extended family group with the name Peoples Party", 
             "primary": false, 
-            "id": "59", 
-            "description": "Extended family group with the name Peoples Party"
+            "id": "59"
         }
     ], 
     "party_address": "190 Devon Street\r\nBarrow-in-Furness\r\nCumbria\r\nLA13 9PZ\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP57", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

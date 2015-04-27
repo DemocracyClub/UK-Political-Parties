@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-09-12T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1039.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1039", 
-            "description": "Emblem 1"
+            "id": "1039"
         }
     ], 
     "party_address": "6 Wye Green\r\nHerne Bay\r\nKent\r\nCT6 5UF\r\nUnited Kingdom\r\n", 

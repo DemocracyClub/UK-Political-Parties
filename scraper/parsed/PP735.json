@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-01-26T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_425.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "425", 
-            "description": "Emblem 1"
+            "id": "425"
         }
     ], 
     "party_address": "3 Flockton House\r\nWhittets Ait\r\nWeybridge\r\nSurrey\r\nKT13 8BJ\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP735", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

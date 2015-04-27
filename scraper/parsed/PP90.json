@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Tim Gordon", 
     "registered_date": "1999-01-14T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_106.jpg", 
+            "description": "A bird in flight above the words Liberal Democrats", 
             "primary": false, 
-            "id": "106", 
-            "description": "A bird in flight above the words Liberal Democrats"
+            "id": "106"
         }, 
         {
             "image": "Emblem_107.png", 
+            "description": "A bird in flight above the words Welsh Lib Dems", 
             "primary": false, 
-            "id": "107", 
-            "description": "A bird in flight above the words Welsh Lib Dems"
+            "id": "107"
         }, 
         {
             "image": "Emblem_108.png", 
+            "description": "A bird in flight above the words Scottish Liberal Democrats", 
             "primary": false, 
-            "id": "108", 
-            "description": "A bird in flight above the words Scottish Liberal Democrats"
+            "id": "108"
         }
     ], 
     "party_address": "8-10 Great George Street\r\nLondon\r\nSW1P 3AE\r\nUnited Kingdom\r\n", 

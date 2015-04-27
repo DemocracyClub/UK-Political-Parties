@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-06-07T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_505.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "505", 
-            "description": "Emblem 1"
+            "id": "505"
         }
     ], 
     "party_address": "7 Summerleaze Road\r\nMaidenhead\r\nBerkshire\r\nSL6 8SP\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jeremy Malkinson", 
-    "party_name": "Freedom and Responsibility", 
+    "party_id": "PP827", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP827", 
+    "party_name": "Freedom and Responsibility", 
     "alternative_names": [
         ""
     ], 

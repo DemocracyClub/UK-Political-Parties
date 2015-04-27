@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-07-11T00:00:00", 
@@ -9,15 +13,15 @@
     "emblems": [
         {
             "image": "Emblem_920.jpg", 
+            "description": "NHA Party main emblem", 
             "primary": false, 
-            "id": "920", 
-            "description": "NHA Party main emblem"
+            "id": "920"
         }, 
         {
             "image": "Emblem_921.bmp", 
+            "description": "NHA Party secondary emblem", 
             "primary": false, 
-            "id": "921", 
-            "description": "NHA Party secondary emblem"
+            "id": "921"
         }
     ], 
     "party_address": "ICHC Offices\r\nStation Approach\r\nComberton Hill\r\nKidderminster\r\nWorcestershire\r\nDY10 1QX\r\nUnited Kingdom\r\n", 
@@ -33,7 +37,7 @@
     "party_id": "PP1931", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Jill Mary Perkins", 
-    "party_name": "The Democratic Party", 
+    "party_id": "PP68", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         "type": "Point"
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP68", 
+    "party_name": "The Democratic Party", 
     "alternative_names": [
         ""
     ], 

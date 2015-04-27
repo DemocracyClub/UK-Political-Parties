@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2002-06-19T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_209.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "209", 
-            "description": "Emblem 1"
+            "id": "209"
         }, 
         {
             "image": "Emblem_210.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "210", 
-            "description": "Emblem 2"
+            "id": "210"
         }
     ], 
     "party_address": "75 Nursteed Road\r\nDevizes\r\nWiltshire\r\nSN10 3AJ\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP249", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

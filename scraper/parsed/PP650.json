@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,15 +12,15 @@
     "emblems": [
         {
             "image": "Emblem_382.gif", 
+            "description": "Box containing the words \"SOUTHAMPTON FIRST\" and a tick in a box", 
             "primary": false, 
-            "id": "382", 
-            "description": "Box containing the words \"SOUTHAMPTON FIRST\" and a tick in a box"
+            "id": "382"
         }, 
         {
             "image": "Emblem_383.gif", 
+            "description": "Box containing the words \"SOUTHAMPTON FIRST\" and a tick", 
             "primary": false, 
-            "id": "383", 
-            "description": "Box containing the words \"SOUTHAMPTON FIRST\" and a tick"
+            "id": "383"
         }
     ], 
     "party_address": "5 Hartley Avenue\r\nHighfield\r\nSouthampton\r\nHampshire\r\nSO17 3QY\r\nUnited Kingdom\r\n", 
@@ -31,10 +33,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Peter Ronald Knight", 
-    "party_name": "Southampton First", 
+    "party_id": "PP650", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -45,7 +47,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP650", 
+    "party_name": "Southampton First", 
     "alternative_names": [
         ""
     ], 

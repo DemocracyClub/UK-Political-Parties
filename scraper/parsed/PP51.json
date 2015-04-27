@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_45.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "45", 
-            "description": "Emblem 1"
+            "id": "45"
         }, 
         {
             "image": "Emblem_46.gif", 
+            "description": "the Now for Change emblem", 
             "primary": false, 
-            "id": "46", 
-            "description": "the Now for Change emblem"
+            "id": "46"
         }, 
         {
             "image": "Emblem_930.jpg", 
+            "description": "NI Conservatives emblem 2", 
             "primary": false, 
-            "id": "930", 
-            "description": "NI Conservatives emblem 2"
+            "id": "930"
         }
     ], 
     "party_address": "4 Matthew Parker Street\r\nLondon\r\nSW1H 9HQ\r\nUnited Kingdom\r\n", 

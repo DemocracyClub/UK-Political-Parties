@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_403.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "403", 
-            "description": "Emblem 1"
+            "id": "403"
         }, 
         {
             "image": "Emblem_1109.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "1109", 
-            "description": "Emblem 2"
+            "id": "1109"
         }, 
         {
             "image": "Emblem_1110.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "1110", 
-            "description": "Emblem 3"
+            "id": "1110"
         }
     ], 
     "party_address": "38 Henry Street\r\nBallymena\r\nAntrim\r\nBT41 1LT\r\nUnited Kingdom\r\n", 
@@ -38,7 +38,7 @@
     "treasurer": "Mr Robert James Kenneth Loughrin", 
     "party_id": "PP680", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

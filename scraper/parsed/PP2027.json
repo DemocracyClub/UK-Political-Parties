@@ -1,7 +1,8 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
-    "deregistered_date": "2015-03-06T00:00:00", 
     "campaigns_officer": "None", 
     "registered_date": "2013-02-13T00:00:00", 
     "postcode": "SO30 4AZ", 
@@ -12,16 +13,16 @@
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
-    "status": "Statutorily Deregistered", 
+    "status": "Authorised", 
     "fax": "", 
     "end_date": "2015-12-31T00:00:00", 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Raymond Hall", 
-    "party_name": "Beer, Baccy and Crumpet Party", 
+    "party_id": "PP2027", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -32,7 +33,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP2027", 
+    "party_name": "Beer, Baccy and Scratchings", 
     "alternative_names": [
         ""
     ], 

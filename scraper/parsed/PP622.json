@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mark Hewitt", 
-    "party_name": "People Before Profit Alliance", 
+    "party_id": "PP622", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         "type": "Point"
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP622", 
+    "party_name": "People Before Profit Alliance", 
     "alternative_names": [
         ""
     ], 

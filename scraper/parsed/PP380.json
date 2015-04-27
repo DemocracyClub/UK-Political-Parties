@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Mercer", 
-    "party_name": "Party for True Democracy", 
+    "party_id": "PP380", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP380", 
+    "party_name": "Party for True Democracy", 
     "alternative_names": [
         ""
     ], 

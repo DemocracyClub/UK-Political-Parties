@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-10-29T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1050.gif", 
+            "description": "Mono Logo", 
             "primary": false, 
-            "id": "1050", 
-            "description": "Mono Logo"
+            "id": "1050"
         }
     ], 
     "party_address": "3 London Road\r\nSaffron Walden\r\nCB11 4ED\r\nUnited Kingdom\r\n", 
@@ -26,7 +28,7 @@
     "treasurer": "Mr Eryl Stafford", 
     "party_id": "PP2468", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

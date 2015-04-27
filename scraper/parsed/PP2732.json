@@ -1,0 +1,45 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-07T00:00:00", 
+    "postcode": "BR8 7JY", 
+    "party_leader": "Mrs Janet Sargeant", 
+    "nominating_officer": "Brian Sargeant", 
+    "emblems": [
+        {
+            "image": "Emblem_1223.png", 
+            "description": "emblem 1", 
+            "primary": false, 
+            "id": "1223"
+        }
+    ], 
+    "party_address": "39 Haven Close\r\nSwanley\r\nKent\r\nBR8 7JY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Janet Sargeant", 
+    "party_id": "PP2732", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Voice-Community Focus", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": []
+}

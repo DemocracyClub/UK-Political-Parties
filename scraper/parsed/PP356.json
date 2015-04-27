@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Robert Finnigan", 
     "registered_date": "2004-01-07T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_262.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "262", 
-            "description": "Emblem 1"
+            "id": "262"
         }, 
         {
             "image": "Emblem_263.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "263", 
-            "description": "Emblem 2"
+            "id": "263"
         }
     ], 
     "party_address": "Springfield House\r\n1 Church Street\r\nGildersome\r\nLeeds\r\nLS27 7AE\r\nUnited Kingdom\r\n", 
@@ -32,8 +34,8 @@
     "treasurer": "Ms Lisa Drake", 
     "party_id": "PP356", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

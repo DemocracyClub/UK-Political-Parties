@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_101.gif", 
+            "description": "a pound sterling sign with the letters UKIP through the middle", 
             "primary": false, 
-            "id": "101", 
-            "description": "a pound sterling sign with the letters UKIP through the middle"
+            "id": "101"
         }, 
         {
             "image": "Emblem_102.gif", 
+            "description": "a pound sterling sign with the letters UKIP Scotland through the middle", 
             "primary": false, 
-            "id": "102", 
-            "description": "a pound sterling sign with the letters UKIP Scotland through the middle"
+            "id": "102"
         }, 
         {
             "image": "Emblem_103.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "103", 
-            "description": "Emblem 3"
+            "id": "103"
         }
     ], 
     "party_address": "Lexdrum House\r\nUnit 1 King Charles Business Park\r\nOld Newton Road\r\nNewton Abbot\r\nDevon\r\nTQ12 6UT\r\nUnited Kingdom\r\n", 

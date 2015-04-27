@@ -1,0 +1,54 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Kay Barrett", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "LN6 9TP", 
+    "party_leader": "Mr John Bishop", 
+    "nominating_officer": "Mrs Trudi Bishop", 
+    "emblems": [
+        {
+            "image": "Emblem_1217.png", 
+            "description": "Hykeham Independents", 
+            "primary": false, 
+            "id": "1217"
+        }
+    ], 
+    "party_address": "16 Sharp Walk\r\nNorth Hykeham\r\nLincoln\r\nLincolnshire\r\nLN6 9TP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Francis Wallace Lee", 
+    "party_id": "PP2667", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Hykeham Independents", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Hykeham First"
+        }, 
+        {
+            "translation": "", 
+            "description": "North Hykeham First"
+        }
+    ]
+}

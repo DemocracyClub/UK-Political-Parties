@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-03-14T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_530.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "530", 
-            "description": "Emblem 1"
+            "id": "530"
         }
     ], 
     "party_address": "6 Woodhollow House\r\nMaclachlan Road\r\nHelensburgh\r\nG84 9BT\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John A. Black", 
-    "party_name": "The Scottish Jacobite Party", 
+    "party_id": "PP847", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP847", 
+    "party_name": "The Scottish Jacobite Party", 
     "alternative_names": [
         ""
     ], 

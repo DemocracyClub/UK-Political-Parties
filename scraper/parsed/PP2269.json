@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-25T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_939.jpg", 
+            "description": "class war1", 
             "primary": false, 
-            "id": "939", 
-            "description": "class war1"
+            "id": "939"
         }
     ], 
     "party_address": "Suite 34\r\n67-68 Hatton Garden\r\nLondon\r\nEC1 8JY\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP2269", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

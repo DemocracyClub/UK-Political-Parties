@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_76.gif", 
+            "description": "DUP Crest SWORD", 
             "primary": false, 
-            "id": "76", 
-            "description": "DUP Crest SWORD"
+            "id": "76"
         }, 
         {
             "image": "Emblem_77.gif", 
+            "description": "Heartshaped UNION FLAG with United Unionists written in bold underneath", 
             "primary": false, 
-            "id": "77", 
-            "description": "Heartshaped UNION FLAG with United Unionists written in bold underneath"
+            "id": "77"
         }, 
         {
             "image": "Emblem_78.gif", 
+            "description": "DUP Logo LION", 
             "primary": false, 
-            "id": "78", 
-            "description": "DUP Logo LION"
+            "id": "78"
         }
     ], 
     "party_address": "91 Dundela Avenue\r\nBelfast\r\nAntrim\r\nBT4 3BU\r\nUnited Kingdom\r\n", 

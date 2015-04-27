@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Richard Cole", 
     "registered_date": "1999-02-25T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_60.gif", 
+            "description": "Cornwall map with with a white cross over it", 
             "primary": false, 
-            "id": "60", 
-            "description": "Cornwall map with with a white cross over it"
+            "id": "60"
         }, 
         {
             "image": "Emblem_61.gif", 
+            "description": "Round logo with Mebyon Kernow placed around a white cross on black background", 
             "primary": false, 
-            "id": "61", 
-            "description": "Round logo with Mebyon Kernow placed around a white cross on black background"
+            "id": "61"
         }, 
         {
             "image": "Emblem_62.gif", 
+            "description": "Outline of Cornwall with MK superimposed on it", 
             "primary": false, 
-            "id": "62", 
-            "description": "Outline of Cornwall with MK superimposed on it"
+            "id": "62"
         }
     ], 
     "party_address": "Lanhainsworth\r\nFraddon Hill\r\nFraddon\r\nSt Columb\r\nCornwall\r\nTR9 6PQ\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP58", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -52,7 +54,7 @@
     "register": "Great Britain", 
     "party_name": "Mebyon Kernow - The Party for Cornwall", 
     "alternative_names": [
-        "Mebyon Kernow is Sons of Cornwall"
+        ""
     ], 
     "descriptions": []
 }

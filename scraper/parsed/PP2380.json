@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-09-15T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_1040.jpg", 
+            "description": "Whig Fox", 
             "primary": false, 
-            "id": "1040", 
-            "description": "Whig Fox"
+            "id": "1040"
         }
     ], 
     "party_address": "Flat 5\r\nBergen House\r\nCarew Street\r\nLondon\r\nSE5 9ED\r\nUnited Kingdom\r\n", 

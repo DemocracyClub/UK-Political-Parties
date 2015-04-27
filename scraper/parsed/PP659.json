@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-26T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_390.gif", 
+            "description": "A stylized AngloSaxon \"M\"", 
             "primary": false, 
-            "id": "390", 
-            "description": "A stylized AngloSaxon \"M\""
+            "id": "390"
         }, 
         {
             "image": "Emblem_391.gif", 
+            "description": "A stylized AngloSaxon \"M\" surrounded by the words \"MERCIAN PARTY\"", 
             "primary": false, 
-            "id": "391", 
-            "description": "A stylized AngloSaxon \"M\" surrounded by the words \"MERCIAN PARTY\""
+            "id": "391"
         }, 
         {
             "image": "Emblem_392.gif", 
+            "description": "An AngloSaxon crown surmounting the words \"MERCIAN PARTY\"", 
             "primary": false, 
-            "id": "392", 
-            "description": "An AngloSaxon crown surmounting the words \"MERCIAN PARTY\""
+            "id": "392"
         }
     ], 
     "party_address": "53 Uplands Croft\r\nWerrington\r\nStoke on Trent\r\nStaffordshire\r\nST9 0LF\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP659", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

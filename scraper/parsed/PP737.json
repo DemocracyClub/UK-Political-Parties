@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-02-17T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_688.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "688", 
-            "description": "Emblem 1"
-        }, 
-        {
-            "image": "Emblem_1179.png", 
-            "primary": false, 
-            "id": "1179", 
-            "description": "Emblem 3"
+            "id": "688"
         }, 
         {
             "image": "Emblem_824.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "824", 
-            "description": "Emblem 2"
+            "id": "824"
+        }, 
+        {
+            "image": "Emblem_1179.png", 
+            "description": "Emblem 3", 
+            "primary": false, 
+            "id": "1179"
         }
     ], 
     "party_address": "Cloverlea\r\n90 Brookfields Road\r\nIpstones\r\nSTOKE-ON-TRENT\r\nStaffordshire\r\nST10 2NH\r\nUnited Kingdom\r\n", 
@@ -38,8 +40,8 @@
     "treasurer": "Ms Janet CL Adams", 
     "party_id": "PP737", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

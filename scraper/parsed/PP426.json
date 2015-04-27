@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-02-07T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_296.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "296", 
-            "description": "Emblem 1"
+            "id": "296"
         }
     ], 
     "party_address": "44 Gifford Terrace Road\r\nPeverell\r\nPlymouth\r\nDevon\r\nPL3 4JE\r\nUnited Kingdom\r\n", 
@@ -26,8 +30,8 @@
     "treasurer": "Mrs Elizabeth Toolan", 
     "party_id": "PP426", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -40,7 +44,7 @@
     "register": "Great Britain", 
     "party_name": "Vivamus", 
     "alternative_names": [
-        "Let Us Live"
+        ""
     ], 
     "descriptions": []
 }

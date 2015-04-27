@@ -1,12 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Amanda O'Riordan", 
-            "deputy_campaigns_officer": null, 
-            "deputy_treasurer": null
+            "name": "Mrs Amanda O'Riordan", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
         }
     ], 
     "campaigns_officer": "None", 
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_871.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "871", 
-            "description": "Emblem 1"
+            "id": "871"
         }
     ], 
     "party_address": "5 Guardian Court\r\nBrookside Avenue\r\nPolegate\r\nEast Sussex\r\nBN26 6DW\r\nUnited Kingdom\r\n", 
@@ -34,9 +36,9 @@
     "treasurer": "None", 
     "party_id": "PPm2142", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -45,7 +47,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Polegate Independent", 
     "alternative_names": [
         ""

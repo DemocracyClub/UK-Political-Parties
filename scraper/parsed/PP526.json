@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2006-02-22T00:00:00", 
@@ -8,16 +12,16 @@
     "nominating_officer": "Mr Paul Rubert", 
     "emblems": [
         {
-            "image": "Emblem_322.gif", 
+            "image": "Emblem_323.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "322", 
-            "description": "Emblem 1"
+            "id": "323"
         }, 
         {
-            "image": "Emblem_323.gif", 
+            "image": "Emblem_322.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "323", 
-            "description": "Emblem 2"
+            "id": "322"
         }
     ], 
     "party_address": "27 School Grove\r\nWithington\r\nManchester\r\nM20 4RY\r\nUnited Kingdom\r\n", 
@@ -33,7 +37,7 @@
     "party_id": "PP526", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

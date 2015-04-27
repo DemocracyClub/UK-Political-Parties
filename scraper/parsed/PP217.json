@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2010-04-12T00:00:00", 
     "campaigns_officer": "Mr Lee Wanger", 
@@ -18,10 +20,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert Cooper", 
-    "party_name": "Stoke-on-Trent INDEPENDENT Group", 
+    "party_id": "PP217", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -32,7 +34,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP217", 
+    "party_name": "Stoke-on-Trent INDEPENDENT Group", 
     "alternative_names": [
         ""
     ], 

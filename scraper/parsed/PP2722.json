@@ -1,0 +1,46 @@
+{
+    "fielding_in": [
+        "Wales"
+    ], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Sharon Ingram", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-02T00:00:00", 
+    "postcode": "CF14 2FD", 
+    "party_leader": "Mr Martin Moore", 
+    "nominating_officer": "lawrence roper", 
+    "emblems": [], 
+    "party_address": "79a Station Road\r\nLlandaff North\r\nCardiff\r\nCF14 2FD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "michael morgan", 
+    "party_id": "PP2722", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Cardiff North Party", 
+    "alternative_names": [
+        "Plaid Gogledd Caerdydd"
+    ], 
+    "descriptions": []
+}

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mrs Sheila Tibby", 
     "registered_date": "2003-03-05T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_236.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "236", 
-            "description": "Emblem 1"
+            "id": "236"
         }, 
         {
             "image": "Emblem_237.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "237", 
-            "description": "Emblem 2"
+            "id": "237"
         }, 
         {
             "image": "Emblem_238.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "238", 
-            "description": "Emblem 3"
+            "id": "238"
         }
     ], 
     "party_address": "71 Fleetwood Avenue\r\nHerne Bay\r\nKent\r\nCT6 8QS\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP295", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

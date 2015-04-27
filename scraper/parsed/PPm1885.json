@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-03-21T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_711.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "711", 
-            "description": "Emblem 1"
+            "id": "711"
         }
     ], 
     "party_address": "11 St James's Mews\r\nMonmouth\r\nMonmouthshire\r\nNP25 3BW\r\nUnited Kingdom\r\n", 
@@ -26,9 +28,9 @@
     "treasurer": "None", 
     "party_id": "PPm1885", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -37,7 +39,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "The Monmouth Party", 
     "alternative_names": [
         "Plaid Trefynwy"

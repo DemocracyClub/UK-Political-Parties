@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-07-03T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_447.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "447", 
-            "description": "Emblem 1"
+            "id": "447"
         }, 
         {
             "image": "Emblem_448.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "448", 
-            "description": "Emblem 2"
+            "id": "448"
         }, 
         {
             "image": "Emblem_449.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "449", 
-            "description": "Emblem 3"
+            "id": "449"
         }
     ], 
     "party_address": "88 North Deeside Road\r\nPeterculter\r\nAberdeen City\r\nAB14 0QN\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP768", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

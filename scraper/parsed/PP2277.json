@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_969.jpg", 
+            "description": "Emblem1", 
             "primary": false, 
-            "id": "969", 
-            "description": "Emblem1"
+            "id": "969"
         }
     ], 
     "party_address": "23 Hillsborough Road\r\nDromore\r\nDown\r\nBT25 1DE\r\nUnited Kingdom\r\n", 
@@ -26,7 +26,7 @@
     "treasurer": "Mr Alan Wilson", 
     "party_id": "PP2277", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

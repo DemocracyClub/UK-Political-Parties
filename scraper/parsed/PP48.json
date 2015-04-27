@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-07-27T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_41.gif", 
+            "description": "War of Roses", 
             "primary": false, 
-            "id": "41", 
-            "description": "War of Roses"
+            "id": "41"
         }, 
         {
             "image": "Emblem_42.gif", 
+            "description": "Tewkesbury Abbey", 
             "primary": false, 
-            "id": "42", 
-            "description": "Tewkesbury Abbey"
+            "id": "42"
         }
     ], 
     "party_address": "Woodend Farm\r\nTewkesbury\r\nGloucestershire\r\nGL20 6EE\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP48", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

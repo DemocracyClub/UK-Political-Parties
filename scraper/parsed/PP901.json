@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2011-01-25T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_595.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "595", 
-            "description": "Emblem 1"
+            "id": "595"
         }
     ], 
     "party_address": "20 The Square\r\nEston\r\nMiddlesbrough\r\nYorkshire\r\nTS6 9JU\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP901", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

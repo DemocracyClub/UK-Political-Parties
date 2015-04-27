@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Frances Holman", 
+            "name": "Mrs Frances Holman", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +21,9 @@
     "emblems": [
         {
             "image": "Emblem_557.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "557", 
-            "description": "Emblem 1"
+            "id": "557"
         }
     ], 
     "party_address": "PO Box 324\r\nGreat Yarmouth\r\nNorfolk\r\nNR30 9EW\r\nUnited Kingdom\r\n", 
@@ -35,7 +39,7 @@
     "party_id": "PP876", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

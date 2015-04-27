@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-09-23T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_260.gif", 
+            "description": "Ligali Party Shield emblem with the words A voice for the African British community", 
             "primary": false, 
-            "id": "260", 
-            "description": "Ligali Party Shield emblem with the words A voice for the African British community"
+            "id": "260"
         }
     ], 
     "party_address": "PO Box 1257\r\nLondon\r\nE5 0UD\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP348", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Ioan Merritt Richard", 
     "registered_date": "1999-02-25T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_128.gif", 
+            "description": "Outline map of Wales", 
             "primary": false, 
-            "id": "128", 
-            "description": "Outline map of Wales"
+            "id": "128"
         }, 
         {
             "image": "Emblem_129.gif", 
+            "description": "Dragon in box outline with shaded lower", 
             "primary": false, 
-            "id": "129", 
-            "description": "Dragon in box outline with shaded lower"
+            "id": "129"
         }, 
         {
             "image": "Emblem_130.gif", 
+            "description": "Rampant dragon", 
             "primary": false, 
-            "id": "130", 
-            "description": "Rampant dragon"
+            "id": "130"
         }
     ], 
     "party_address": "23 Mountain Road\r\nCraigcefnparc\r\nSwansea\r\nSA6 5RH\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP112", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

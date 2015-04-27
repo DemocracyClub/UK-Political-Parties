@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-06-14T00:00:00", 
     "campaigns_officer": "Mr Simon Bennett", 
@@ -10,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_257.gif", 
+            "description": "Black Celtic cross with three white lions over it", 
             "primary": false, 
-            "id": "257", 
-            "description": "Black Celtic cross with three white lions over it"
+            "id": "257"
         }, 
         {
             "image": "Emblem_258.gif", 
+            "description": "St George cross with three white lions over it", 
             "primary": false, 
-            "id": "258", 
-            "description": "St George cross with three white lions over it"
+            "id": "258"
         }, 
         {
             "image": "Emblem_259.gif", 
+            "description": "St George cross with three black lions over it with the words England First Party in the outercircle", 
             "primary": false, 
-            "id": "259", 
-            "description": "St George cross with three black lions over it with the words England First Party in the outercircle"
+            "id": "259"
         }
     ], 
     "party_address": "40 Birkett Drive\r\nRibbleton\r\nPreston\r\nLancashire\r\nPR2 6HE\r\nUnited Kingdom\r\n", 
@@ -37,10 +39,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Mark Adrian Cotterill", 
-    "party_name": "England First Party", 
+    "party_id": "PP345", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -51,7 +53,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP345", 
+    "party_name": "England First Party", 
     "alternative_names": [
         ""
     ], 

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-02-15T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_603.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "603", 
-            "description": "Emblem 1"
+            "id": "603"
         }
     ], 
     "party_address": "369 Blackburn Road\r\nBolton\r\nBL1 8DY\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Melanie Lever", 
-    "party_name": "Astley Bridge First", 
+    "party_id": "PP1694", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1694", 
+    "party_name": "Astley Bridge First", 
     "alternative_names": [
         ""
     ], 

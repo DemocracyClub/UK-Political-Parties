@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-17T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_983.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "983", 
-            "description": "Emblem 1"
+            "id": "983"
         }
     ], 
     "party_address": "2 Joshua Pedley Mews\r\nBow\r\nLondon\r\nE3 2ZE\r\nUnited Kingdom\r\n", 
@@ -28,7 +30,7 @@
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
+        "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
         "type": "Point", 

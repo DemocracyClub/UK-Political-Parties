@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-04-01T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1099.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1099", 
-            "description": "Emblem 1"
+            "id": "1099"
         }
     ], 
     "party_address": "Abbotsley Golf Hotel\r\nEynesbury Hardwicke Manor\r\nSt Neots\r\nCambridgeshire\r\nPE19 6XN\r\nUnited Kingdom\r\n", 

@@ -3,30 +3,30 @@
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-24T00:00:00", 
-    "postcode": "BT5 4FS", 
+    "postcode": "BT13 2BH", 
     "party_leader": "Mr William Hutchinson", 
     "nominating_officer": "Mr Brian Lacey", 
     "emblems": [
         {
             "image": "Emblem_113.gif", 
+            "description": "Map of United Kingdom with respective national flags", 
             "primary": false, 
-            "id": "113", 
-            "description": "Map of United Kingdom with respective national flags"
+            "id": "113"
         }, 
         {
             "image": "Emblem_114.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "114", 
-            "description": "Emblem 2"
+            "id": "114"
         }, 
         {
             "image": "Emblem_977.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "977", 
-            "description": "Emblem 1"
+            "id": "977"
         }
     ], 
-    "party_address": "215 Templemore Avenue\r\nBelfast\r\nBT5 4FS\r\nUnited Kingdom\r\n", 
+    "party_address": "182 Shankill Road\r\nBelfast\r\nBT13 2BH\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 
     "financial_year_end": "31/12", 
@@ -38,7 +38,7 @@
     "treasurer": "Mr William James Ennis", 
     "party_id": "PP101", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

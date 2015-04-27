@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Alan Troy Tray", 
+            "name": "Mr Alan Troy Tray", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_743.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "743", 
-            "description": "Emblem 1"
+            "id": "743"
         }, 
         {
             "image": "Emblem_744.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "744", 
-            "description": "Emblem 2"
+            "id": "744"
         }, 
         {
             "image": "Emblem_745.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "745", 
-            "description": "Emblem 3"
+            "id": "745"
         }
     ], 
     "party_address": "9 Wardley Court\r\nWardley\r\nGateshead\r\nNE10 8AJ\r\nUnited Kingdom\r\n", 
@@ -46,8 +50,8 @@
     "treasurer": "Mr Lee Robert Holmes", 
     "party_id": "PP1934", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

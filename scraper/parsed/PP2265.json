@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "David Ash", 
+            "name": "Mr David Ash", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +19,15 @@
     "emblems": [
         {
             "image": "Emblem_941.jpg", 
+            "description": "Initials KOSHH in Ariel Black with asterisks between each letter", 
             "primary": false, 
-            "id": "941", 
-            "description": "Initials KOSHH in Ariel Black with asterisks between each letter"
+            "id": "941"
         }, 
         {
             "image": "Emblem_973.jpg", 
+            "description": "KOSHH party roundel", 
             "primary": false, 
-            "id": "973", 
-            "description": "KOSHH party roundel"
+            "id": "973"
         }
     ], 
     "party_address": "17 Camberley Court\r\nBlackbush Close\r\nSutton\r\nSurrey\r\nSM2 6BB\r\nUnited Kingdom\r\n", 
@@ -40,8 +42,8 @@
     "treasurer": "Ms Frances Cornford", 
     "party_id": "PP2265", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

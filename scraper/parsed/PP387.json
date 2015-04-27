@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2007-05-29T00:00:00", 
     "campaigns_officer": "Ms Louise Russell", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jonathan Cockburn", 
-    "party_name": "The Blair Must Go Party", 
+    "party_id": "PP387", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP387", 
+    "party_name": "The Blair Must Go Party", 
     "alternative_names": [
         ""
     ], 

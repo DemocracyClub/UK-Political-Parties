@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-11-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,15 +12,15 @@
     "emblems": [
         {
             "image": "Emblem_757.jpg", 
+            "description": "Bristol 1st - People Pride Passion", 
             "primary": false, 
-            "id": "757", 
-            "description": "Bristol 1st - People Pride Passion"
+            "id": "757"
         }, 
         {
             "image": "Emblem_758.jpg", 
+            "description": "Bristol 1st", 
             "primary": false, 
-            "id": "758", 
-            "description": "Bristol 1st"
+            "id": "758"
         }
     ], 
     "party_address": "18 Great George Street\r\nBristol\r\nBS1 5RH\r\nUnited Kingdom\r\n", 
@@ -31,10 +33,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Robert Porter", 
-    "party_name": "Bristol 1st", 
+    "party_id": "PP1957", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -45,7 +47,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1957", 
+    "party_name": "Bristol 1st", 
     "alternative_names": [
         ""
     ], 

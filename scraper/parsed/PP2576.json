@@ -1,12 +1,21 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
-            "deputy_nominating_officer": true, 
-            "name": "dave pearson", 
+            "deputy_nominating_officer": false, 
+            "name": "Mr dave pearson", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Mr dave pearson", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
         }
     ], 
     "campaigns_officer": "None", 
@@ -17,9 +26,9 @@
     "emblems": [
         {
             "image": "Emblem_1198.png", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1198", 
-            "description": "Emblem 1"
+            "id": "1198"
         }
     ], 
     "party_address": "42 CHURCH STREET\r\nSTAPLEFORD\r\nNG9 8DJ\r\nUnited Kingdom\r\n", 

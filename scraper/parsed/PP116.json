@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Luzita Fereday", 
+            "name": "Mrs Luzita Fereday", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -18,9 +22,9 @@
     "emblems": [
         {
             "image": "Emblem_131.gif", 
+            "description": "A flag with the words \"More Democracy\" on it", 
             "primary": false, 
-            "id": "131", 
-            "description": "A flag with the words \"More Democracy\" on it"
+            "id": "131"
         }
     ], 
     "party_address": "12 Manor Drive\r\nMill Hill\r\nLondon\r\nNW7 3NE\r\nUnited Kingdom\r\n", 
@@ -33,10 +37,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Michael Mashud Stewart", 
-    "party_name": "The Progressive Democratic Party", 
+    "party_id": "PP116", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -47,7 +51,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP116", 
+    "party_name": "The Progressive Democratic Party", 
     "alternative_names": [
         ""
     ], 

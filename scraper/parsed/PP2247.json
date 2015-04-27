@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Glenn Croston", 
     "registered_date": "2014-02-20T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_917.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "917", 
-            "description": "Emblem 1"
+            "id": "917"
         }, 
         {
             "image": "Emblem_918.png", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "918", 
-            "description": "Emblem 2"
+            "id": "918"
         }, 
         {
             "image": "Emblem_919.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "919", 
-            "description": "Emblem 3"
+            "id": "919"
         }
     ], 
     "party_address": "5 Robin Drive\r\nIrlam\r\nGreater Manchester\r\nM44 6PA\r\nUnited Kingdom\r\n", 

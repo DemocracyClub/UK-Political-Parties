@@ -1,5 +1,8 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-11-21T00:00:00", 
@@ -9,15 +12,15 @@
     "emblems": [
         {
             "image": "Emblem_1019.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1019", 
-            "description": "Emblem 1"
+            "id": "1019"
         }, 
         {
             "image": "Emblem_1087.jpg", 
+            "description": "Emblem 2015-2", 
             "primary": false, 
-            "id": "1087", 
-            "description": "Emblem 2015-2"
+            "id": "1087"
         }
     ], 
     "party_address": "6 South Groves\r\nStag Hill\r\nChilton Foliat\r\nNr Hungerford\r\nWiltshire\r\nRG17 0TT\r\nUnited Kingdom\r\n", 
@@ -33,7 +36,7 @@
     "party_id": "PP684", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

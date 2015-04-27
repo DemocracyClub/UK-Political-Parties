@@ -9,15 +9,15 @@
     "emblems": [
         {
             "image": "Emblem_852.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "852", 
-            "description": "Emblem 1"
+            "id": "852"
         }, 
         {
             "image": "Emblem_853.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "853", 
-            "description": "Emblem 2"
+            "id": "853"
         }
     ], 
     "party_address": "19 Market Square\r\nDromore\r\nDown\r\nBT25 1AW\r\nUnited Kingdom\r\n", 
@@ -32,7 +32,7 @@
     "treasurer": "Ms Wendy Elizabeth Burke", 
     "party_id": "PP2090", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

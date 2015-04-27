@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-05-15T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_956.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "956", 
-            "description": "Emblem 1"
+            "id": "956"
         }
     ], 
     "party_address": "36 Morwick Road\r\nWarkworth\r\nNorthumberland\r\nNE65 0TD\r\nUnited Kingdom\r\n", 

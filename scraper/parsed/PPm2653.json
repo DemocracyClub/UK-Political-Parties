@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-02-23T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1118.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1118", 
-            "description": "Emblem 1"
+            "id": "1118"
         }
     ], 
     "party_address": "1 Gunn Grove\r\nNeston\r\nCheshire\r\nCH64 9PU\r\nUnited Kingdom\r\n", 
@@ -26,9 +28,9 @@
     "treasurer": "None", 
     "party_id": "PPm2653", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -37,7 +39,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Neston Action", 
     "alternative_names": [
         ""

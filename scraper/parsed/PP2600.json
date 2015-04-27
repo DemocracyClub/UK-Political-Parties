@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Vincent Ward", 
+            "name": "Mr Vincent Ward", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_1075.jpg", 
+            "description": "Vox Pop", 
             "primary": false, 
-            "id": "1075", 
-            "description": "Vox Pop"
+            "id": "1075"
         }, 
         {
             "image": "Emblem_1076.jpg", 
+            "description": "Vox Pop line", 
             "primary": false, 
-            "id": "1076", 
-            "description": "Vox Pop line"
+            "id": "1076"
         }, 
         {
             "image": "Emblem_1077.jpg", 
+            "description": "Vox Pop Box", 
             "primary": false, 
-            "id": "1077", 
-            "description": "Vox Pop Box"
+            "id": "1077"
         }
     ], 
     "party_address": "PO BOX 3049\r\nEASTBOURNE\r\nEast Sussex\r\nBN21 9EX\r\nUnited Kingdom\r\n", 

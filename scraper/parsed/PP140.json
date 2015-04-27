@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-04-11T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_860.png", 
+            "description": "New emblem of Port Talbot Residents Association", 
             "primary": false, 
-            "id": "860", 
-            "description": "New emblem of Port Talbot Residents Association"
+            "id": "860"
         }
     ], 
     "party_address": "25 Baglan Heights\r\nBaglan\r\nPort Talbot\r\nNeath Port Talbot\r\nSA12 8UF\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP140", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

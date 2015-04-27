@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Hannah Michael", 
+            "name": "Ms Hannah Michael", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -26,10 +28,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Michael", 
-    "party_name": "Fair Pay Fair Trade Party", 
+    "party_id": "PP750", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
@@ -40,7 +42,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP750", 
+    "party_name": "Fair Pay Fair Trade Party", 
     "alternative_names": [
         ""
     ], 

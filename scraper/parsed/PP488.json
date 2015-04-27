@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-12T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_312.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "312", 
-            "description": "Emblem 1"
+            "id": "312"
         }
     ], 
     "party_address": "The Chaplaincy\r\n54 Burscough Road\r\nOrmskirk\r\nLancashire\r\nL39 2XF\r\nUnited Kingdom\r\n", 
@@ -26,8 +30,8 @@
     "treasurer": "Mrs Patricia Rosemary Franklin-Braid", 
     "party_id": "PP488", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -49,7 +53,7 @@
         }, 
         {
             "translation": "", 
-            "description": "The Anti-Corruption Pro-Family Christian Alliance"
+            "description": "Anti-Corruption Pro-Family Christian Alliance"
         }
     ]
 }

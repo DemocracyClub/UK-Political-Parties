@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-26T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_535.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "535", 
-            "description": "Emblem 1"
+            "id": "535"
         }, 
         {
             "image": "Emblem_536.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "536", 
-            "description": "Emblem 2"
+            "id": "536"
         }, 
         {
             "image": "Emblem_537.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "537", 
-            "description": "Emblem 3"
+            "id": "537"
         }
     ], 
     "party_address": "1 Symondscliffe Way\r\nCaldicot\r\nNP26 5PW\r\nUnited Kingdom\r\n", 
@@ -39,7 +43,7 @@
     "party_id": "PP851", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

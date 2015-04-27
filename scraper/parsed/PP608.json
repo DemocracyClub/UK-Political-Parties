@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-07-25T00:00:00", 
     "campaigns_officer": "Mr Hugh Warwick Dinsdale", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_359.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "359", 
-            "description": "Emblem 1"
+            "id": "359"
         }
     ], 
     "party_address": "Box 148\r\nNewport\r\nIsle of Wight\r\nPO30 9AE\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul St John Martin", 
-    "party_name": "Middle England Party", 
+    "party_id": "PP608", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP608", 
+    "party_name": "Middle England Party", 
     "alternative_names": [
         ""
     ], 

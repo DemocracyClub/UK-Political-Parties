@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-11-23T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_543.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "543", 
-            "description": "Emblem 1"
+            "id": "543"
         }
     ], 
     "party_address": "26 Primrose Gardens\r\nHatch Warren\r\nBasingstoke\r\nRG22 4UZ\r\nUnited Kingdom\r\n", 
@@ -25,7 +27,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Alexander John Macdonald", 
-    "party_name": "Basingstoke Community Party", 
+    "party_id": "PP855", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP855", 
+    "party_name": "Basingstoke Community Party", 
     "alternative_names": [
         ""
     ], 

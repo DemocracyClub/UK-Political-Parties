@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-03-08T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_300.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "300", 
-            "description": "Emblem 1"
+            "id": "300"
         }, 
         {
             "image": "Emblem_301.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "301", 
-            "description": "Emblem 2"
+            "id": "301"
         }
     ], 
     "party_address": "65 Linden Crescent\r\nFolkestone\r\nKent\r\nCT19 5SB\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP437", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -83,7 +85,7 @@
         }, 
         {
             "translation": "", 
-            "description": "People First - Wotking For Local People"
+            "description": "People First - Working For Local People"
         }, 
         {
             "translation": "", 

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2015-04-01T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_736.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "736", 
-            "description": "Emblem 1"
+            "id": "736"
         }
     ], 
     "party_address": "Kirklea\r\nDurie Street\r\nLeven\r\nFife\r\nKY8 4HA\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Anderson", 
-    "party_name": "The Scottish Reformists' Party", 
+    "party_id": "PP1917", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1917", 
+    "party_name": "The Scottish Reformists' Party", 
     "alternative_names": [
         ""
     ], 

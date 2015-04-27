@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Anton Hoenderkamp", 
-    "party_name": "PFRC", 
+    "party_id": "PP522", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP522", 
+    "party_name": "PFRC", 
     "alternative_names": [
         ""
     ], 

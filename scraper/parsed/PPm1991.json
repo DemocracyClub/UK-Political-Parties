@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2012-12-14T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_788.jpg", 
+            "description": "Emblem house double lined", 
             "primary": false, 
-            "id": "788", 
-            "description": "Emblem house double lined"
+            "id": "788"
         }
     ], 
     "party_address": "115 Havering Road\r\nRomford\r\nEssex\r\nRM1 4RB\r\nUnited Kingdom\r\n", 
@@ -26,9 +28,9 @@
     "treasurer": "None", 
     "party_id": "PPm1991", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -37,7 +39,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Pettits Residents Association", 
     "alternative_names": [
         ""

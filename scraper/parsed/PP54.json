@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-02-25T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_53.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "53", 
-            "description": "Emblem 1"
+            "id": "53"
         }, 
         {
             "image": "Emblem_54.gif", 
+            "description": "Sunburst logo", 
             "primary": false, 
-            "id": "54", 
-            "description": "Sunburst logo"
+            "id": "54"
         }, 
         {
             "image": "Emblem_55.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "55", 
-            "description": "Emblem 3"
+            "id": "55"
         }
     ], 
     "party_address": "41 Sutton Street\r\nTuebrook\r\nLiverpool\r\nMerseyside\r\nL13 7ES\r\nUnited Kingdom\r\n", 
@@ -38,8 +42,8 @@
     "treasurer": "Mr Dave Prakash Damhar", 
     "party_id": "PP54", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

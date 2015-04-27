@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-11T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_168.gif", 
+            "description": "West Ewell Emblem", 
             "primary": false, 
-            "id": "168", 
-            "description": "West Ewell Emblem"
+            "id": "168"
         }, 
         {
             "image": "Emblem_169.gif", 
+            "description": "Ruxley Emblem", 
             "primary": false, 
-            "id": "169", 
-            "description": "Ruxley Emblem"
+            "id": "169"
         }
     ], 
     "party_address": "3 Green Lanes\r\nWest Ewell\r\nEpsom\r\nSurrey\r\nKT19 9TW\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP163", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

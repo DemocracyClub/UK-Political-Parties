@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2005-04-12T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_311.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "311", 
-            "description": "Emblem 2"
+            "id": "311"
         }
     ], 
     "party_address": "The Swanage Pitch and Putt\r\nKirkwood Park\r\nVictoria Avenue\r\nSwanage\r\nDorset\r\nBH19 1AR\r\nUnited Kingdom\r\n", 
@@ -27,7 +31,7 @@
     "party_id": "PP481", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

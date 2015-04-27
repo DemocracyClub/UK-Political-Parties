@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2007-03-05T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_366.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "366", 
-            "description": "Emblem 1"
+            "id": "366"
         }, 
         {
             "image": "Emblem_367.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "367", 
-            "description": "Emblem 2"
+            "id": "367"
         }, 
         {
             "image": "Emblem_368.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "368", 
-            "description": "Emblem 3"
+            "id": "368"
         }
     ], 
     "party_address": "23 West Farm Avenue\r\nAshtead\r\nSurrey\r\nKT21 2LD\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP625", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

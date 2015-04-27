@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Nicola Guagliardo", 
+            "name": "Mr Nicola Guagliardo", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +21,15 @@
     "emblems": [
         {
             "image": "Emblem_622.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "622", 
-            "description": "Emblem 2"
+            "id": "622"
         }, 
         {
             "image": "Emblem_623.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "623", 
-            "description": "Emblem 1"
+            "id": "623"
         }
     ], 
     "party_address": "94 Briar Crescent\r\nExeter\r\nDevon\r\nEX2 6DR\r\nUnited Kingdom\r\n", 
@@ -41,7 +45,7 @@
     "party_id": "PP734", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2007-07-19T00:00:00", 
     "campaigns_officer": "Mrs Audrey Mary Wheeler", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Miss Patricia Manthorpe", 
-    "party_name": "Epping Community Action Group", 
+    "party_id": "PP528", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP528", 
+    "party_name": "Epping Community Action Group", 
     "alternative_names": [
         ""
     ], 

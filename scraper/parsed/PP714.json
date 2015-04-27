@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2010-11-18T00:00:00", 
     "campaigns_officer": "Mrs Anthea Vivienne Lacey", 
@@ -18,10 +22,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Shaw Gore", 
-    "party_name": "Campaign for Independent Politicians", 
+    "party_id": "PP714", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -32,7 +36,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP714", 
+    "party_name": "Campaign for Independent Politicians", 
     "alternative_names": [
         ""
     ], 

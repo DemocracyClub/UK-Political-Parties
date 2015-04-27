@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Thomas Mellor", 
+            "name": "Mr Thomas Mellor", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -26,10 +28,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Jon Joshua Perera", 
-    "party_name": "Social Governance", 
+    "party_id": "PP875", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -40,7 +42,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP875", 
+    "party_name": "Social Governance", 
     "alternative_names": [
         ""
     ], 

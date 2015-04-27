@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-22T00:00:00", 
@@ -9,9 +13,9 @@
     "emblems": [
         {
             "image": "Emblem_984.jpg", 
+            "description": "TLC emblem 1", 
             "primary": false, 
-            "id": "984", 
-            "description": "TLC emblem 1"
+            "id": "984"
         }
     ], 
     "party_address": "3 Bishops Crescent\r\nShepton Mallet\r\nSomerset\r\nBA4 5XX\r\nUnited Kingdom\r\n", 

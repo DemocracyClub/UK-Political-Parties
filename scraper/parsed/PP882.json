@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-07-12T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_562.jpg", 
+            "description": "A representation of a flag and text", 
             "primary": false, 
-            "id": "562", 
-            "description": "A representation of a flag and text"
+            "id": "562"
         }, 
         {
             "image": "Emblem_563.gif", 
+            "description": "I on Union Flag D with dot and text", 
             "primary": false, 
-            "id": "563", 
-            "description": "I on Union Flag D with dot and text"
+            "id": "563"
         }, 
         {
             "image": "Emblem_564.gif", 
+            "description": "Text with ID highlighted", 
             "primary": false, 
-            "id": "564", 
-            "description": "Text with ID highlighted"
+            "id": "564"
         }
     ], 
     "party_address": "123 New John Street\r\nBirmingham\r\nWest Midlands\r\nB6 4LD\r\nUnited Kingdom\r\n", 
@@ -38,8 +42,8 @@
     "treasurer": "Ms Nikki Sinclaire", 
     "party_id": "PP882", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {

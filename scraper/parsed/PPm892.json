@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2012-07-20T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_579.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "579", 
-            "description": "Emblem 1"
+            "id": "579"
         }
     ], 
     "party_address": "Mayfield House\r\n112 Newcastle Road\r\nStone\r\nStaffordshire\r\nST15 8LG\r\nUnited Kingdom\r\n", 
@@ -25,11 +27,11 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "None", 
-    "party_name": "Stone's Independent Voice", 
+    "party_id": "PPm892", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -38,8 +40,8 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
-    "party_id": "PPm892", 
+    "register": "Great Britain", 
+    "party_name": "Stone's Independent Voice", 
     "alternative_names": [
         ""
     ], 

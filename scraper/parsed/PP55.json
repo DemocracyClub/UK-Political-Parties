@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_57.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "57", 
-            "description": "Emblem 2"
+            "id": "57"
         }
     ], 
     "party_address": "121 Ormeau Road\r\nBelfast\r\nBT7 1SH\r\nUnited Kingdom\r\n", 

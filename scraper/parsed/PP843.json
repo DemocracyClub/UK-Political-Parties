@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2010-03-17T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_524.gif", 
+            "description": "Hound Dog", 
             "primary": false, 
-            "id": "524", 
-            "description": "Hound Dog"
+            "id": "524"
         }, 
         {
             "image": "Emblem_525.gif", 
+            "description": "Red Geranium", 
             "primary": false, 
-            "id": "525", 
-            "description": "Red Geranium"
+            "id": "525"
         }, 
         {
             "image": "Emblem_526.gif", 
+            "description": "Buspass Elvis", 
             "primary": false, 
-            "id": "526", 
-            "description": "Buspass Elvis"
+            "id": "526"
         }
     ], 
     "party_address": "26 Falcon Grove\r\nSherwood Rise\r\nNottingham\r\nNG7 7NB\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP843", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

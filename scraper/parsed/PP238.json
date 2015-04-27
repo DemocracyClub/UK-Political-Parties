@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mrs Angkhana Tucker", 
     "registered_date": "2002-03-25T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_200.gif", 
+            "description": "Rainham clock towermemorial", 
             "primary": false, 
-            "id": "200", 
-            "description": "Rainham clock towermemorial"
+            "id": "200"
         }, 
         {
             "image": "Emblem_201.gif", 
+            "description": "The three letters are the initials of the Rainham Residents Association", 
             "primary": false, 
-            "id": "201", 
-            "description": "The three letters are the initials of the Rainham Residents Association"
+            "id": "201"
         }
     ], 
     "party_address": "6 Upminster Road South\r\nRainham\r\nEssex\r\nRM13 9YX\r\nUnited Kingdom\r\n", 
@@ -32,8 +34,8 @@
     "treasurer": "Mr Jeffrey Tucker", 
     "party_id": "PP238", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

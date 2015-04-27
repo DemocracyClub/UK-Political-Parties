@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Sara Ward-Bartlett", 
-    "party_name": "Mums' Army", 
+    "party_id": "PP533", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP533", 
+    "party_name": "Mums' Army", 
     "alternative_names": [
         ""
     ], 

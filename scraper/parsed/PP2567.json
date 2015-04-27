@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Meghan Brown", 
+            "name": "Ms Meghan Brown", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +21,9 @@
     "emblems": [
         {
             "image": "Emblem_1060.jpg", 
+            "description": "spin logo 5cm square", 
             "primary": false, 
-            "id": "1060", 
-            "description": "spin logo 5cm square"
+            "id": "1060"
         }
     ], 
     "party_address": "Emstrey House NORTH\r\nShrewsbury Business Park\r\nShrewsbury\r\nSY2 6LG\r\nUnited Kingdom\r\n", 

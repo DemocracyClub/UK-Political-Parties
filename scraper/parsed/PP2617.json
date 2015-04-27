@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2015-04-01T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_1083.jpg", 
+            "description": "PEOPLE BEFORE PARTY\nLOGO 2 TOWN HALL", 
             "primary": false, 
-            "id": "1083", 
-            "description": "PEOPLE BEFORE PARTY\nLOGO 2 TOWN HALL"
+            "id": "1083"
         }
     ], 
     "party_address": "6 Hilton Road\r\nDisley\r\nCheshire\r\nSK12 2JU\r\nUnited Kingdom\r\n", 
@@ -70,6 +72,10 @@
         {
             "translation": "", 
             "description": "Alsager First"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Macclesfield Independents"
         }
     ]
 }

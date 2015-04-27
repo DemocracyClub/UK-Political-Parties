@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-05-17T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_176.gif", 
+            "description": "A hand placing a voting slip into a ballot box made up of two faces one happy one sad: one holding an empty glass one full", 
             "primary": false, 
-            "id": "176", 
-            "description": "A hand placing a voting slip into a ballot box made up of two faces one happy one sad: one holding an empty glass one full"
+            "id": "176"
         }
     ], 
     "party_address": "48A High Road\r\nWilmington\r\nDartford\r\nKent\r\nDA2 7BN\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP188", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

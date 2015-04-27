@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2000-02-17T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_70.gif", 
+            "description": "Swan on river in front of house with a tree behind", 
             "primary": false, 
-            "id": "70", 
-            "description": "Swan on river in front of house with a tree behind"
+            "id": "70"
         }
     ], 
     "party_address": "11 Riversdale Road\r\nThames Ditton\r\nSurrey\r\nKT7 0QL\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP64", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

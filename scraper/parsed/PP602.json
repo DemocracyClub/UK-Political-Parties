@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_356.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "356", 
-            "description": "Emblem 1"
+            "id": "356"
         }
     ], 
     "party_address": "7 Harding Road\r\nBexleyheath\r\nKent\r\nDA7 4PS\r\nUnited Kingdom\r\n", 

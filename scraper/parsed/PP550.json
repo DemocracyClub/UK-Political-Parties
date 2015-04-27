@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "The Reverend Ceiteach Michl Marschl", 
-    "party_name": "Space Navies Party", 
+    "party_id": "PP550", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP550", 
+    "party_name": "Space Navies Party", 
     "alternative_names": [
         ""
     ], 

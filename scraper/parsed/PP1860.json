@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Paul Bean", 
     "registered_date": "2012-02-01T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_693.png", 
+            "description": "Astraea", 
             "primary": false, 
-            "id": "693", 
-            "description": "Astraea"
+            "id": "693"
         }, 
         {
             "image": "Emblem_694.png", 
+            "description": "Celtic Pentaskel", 
             "primary": false, 
-            "id": "694", 
-            "description": "Celtic Pentaskel"
+            "id": "694"
         }, 
         {
             "image": "Emblem_695.png", 
+            "description": "United Republic Flag", 
             "primary": false, 
-            "id": "695", 
-            "description": "United Republic Flag"
+            "id": "695"
         }
     ], 
     "party_address": "4 Ventura Drive\r\nColchester\r\nEssex\r\nCO1 2FG\r\nUnited Kingdom\r\n", 
@@ -39,7 +43,7 @@
     "party_id": "PP1860", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

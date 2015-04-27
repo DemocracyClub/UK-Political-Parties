@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Andrew Bell", 
-    "party_name": "Liberal Unionist Party", 
+    "party_id": "PP8", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP8", 
+    "party_name": "Liberal Unionist Party", 
     "alternative_names": [
         ""
     ], 

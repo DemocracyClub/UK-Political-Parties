@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "William Arthur Lowe", 
+            "name": "Cllr William Arthur Lowe", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_610.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "610", 
-            "description": "Emblem 1"
+            "id": "610"
         }
     ], 
     "party_address": "28 FEATHERBED LANE\r\nCHERINGTON\r\nShipston on Stour\r\nWarwickshire\r\nCV36 5HP\r\nUnited Kingdom\r\n", 
@@ -34,8 +36,8 @@
     "treasurer": "Mr Jonathan William Packard", 
     "party_id": "PP1701", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

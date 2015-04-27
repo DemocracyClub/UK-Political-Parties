@@ -9,21 +9,21 @@
     "emblems": [
         {
             "image": "Emblem_118.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "118", 
-            "description": "Emblem 1"
+            "id": "118"
         }, 
         {
             "image": "Emblem_119.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "119", 
-            "description": "Emblem 2"
+            "id": "119"
         }, 
         {
             "image": "Emblem_619.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "619", 
-            "description": "Emblem 3"
+            "id": "619"
         }
     ], 
     "party_address": "88 University Street\r\nBelfast\r\nBT7 1HE\r\nUnited Kingdom\r\n", 
@@ -35,10 +35,10 @@
     "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
-    "treasurer": "Mr Daniel McGuinness", 
+    "treasurer": "Mr Mervyn Jones", 
     "party_id": "PP103", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

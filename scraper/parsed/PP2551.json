@@ -1,17 +1,21 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Mark Flanagan", 
     "registered_date": "2015-03-18T00:00:00", 
     "postcode": "LS20 9LH", 
     "party_leader": "Mr Mark Flanagan", 
-    "nominating_officer": "Mr Mark Flanagan", 
+    "nominating_officer": "Mr Michael Ross", 
     "emblems": [
         {
             "image": "Emblem_1071.jpg", 
+            "description": "it is an ancient symbol for resilience", 
             "primary": false, 
-            "id": "1071", 
-            "description": "it is an ancient symbol for resilience"
+            "id": "1071"
         }
     ], 
     "party_address": "5 Bacon Street\r\nGuiseley\r\nLS20 9LH\r\nUnited Kingdom\r\n", 
@@ -45,7 +49,15 @@
     "descriptions": [
         {
             "translation": "", 
-            "description": "single-issue party demanding the none of the above option on all UK ballot papers"
+            "description": "Demanding a new vision for politics"
+        }, 
+        {
+            "translation": "", 
+            "description": "Trying to fix a broken system"
+        }, 
+        {
+            "translation": "", 
+            "description": "Time to widen the voting options"
         }
     ]
 }

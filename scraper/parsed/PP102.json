@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Peter Tierney Murrell", 
     "registered_date": "1999-01-14T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_116.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "116", 
-            "description": "Emblem 1"
+            "id": "116"
         }
     ], 
     "party_address": "Gordon Lamb House\r\n3 Jackson's Entry\r\nEdinburgh\r\nEH8 8PJ\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP102", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {

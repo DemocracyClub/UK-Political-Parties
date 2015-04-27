@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Peter Berry", 
+            "name": "Mr Peter Berry", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_71.gif", 
+            "description": "A black top hat with vote loony printed", 
             "primary": false, 
-            "id": "71", 
-            "description": "A black top hat with vote loony printed"
+            "id": "71"
         }, 
         {
             "image": "Emblem_72.gif", 
+            "description": "A megaphone with vote loony printed", 
             "primary": false, 
-            "id": "72", 
-            "description": "A megaphone with vote loony printed"
+            "id": "72"
         }, 
         {
             "image": "Emblem_73.gif", 
+            "description": "A shield with top hat", 
             "primary": false, 
-            "id": "73", 
-            "description": "A shield with top hat"
+            "id": "73"
         }
     ], 
     "party_address": "Hillside Farm\r\nField Lane\r\nKirk Ireton\r\nAshbourne\r\nDerbyshire\r\nDE6 3JT\r\nUnited Kingdom\r\n", 
@@ -47,7 +51,7 @@
     "party_id": "PP66", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

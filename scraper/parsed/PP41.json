@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-07-05T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_34.gif", 
+            "description": "Design incorporating the letters Dlp", 
             "primary": false, 
-            "id": "34", 
-            "description": "Design incorporating the letters Dlp"
+            "id": "34"
         }
     ], 
     "party_address": "65 Harden Road\r\nLeamore\r\nWalsall\r\nWest Midlands\r\nWS3 1EL\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David John Church", 
-    "party_name": "Democratic Labour Party", 
+    "party_id": "PP41", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP41", 
+    "party_name": "Democratic Labour Party", 
     "alternative_names": [
         ""
     ], 

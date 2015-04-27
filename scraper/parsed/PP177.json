@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Kathleen Brett", 
-    "party_name": "The Renaissance Independent Party of Europe", 
+    "party_id": "PP177", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP177", 
+    "party_name": "The Renaissance Independent Party of Europe", 
     "alternative_names": [
         "Parti Neamhspleach Athbheochana na L Eropa"
     ], 

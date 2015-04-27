@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mr Brian John Relph", 
     "registered_date": "2001-10-29T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_189.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "189", 
-            "description": "Emblem 1"
+            "id": "189"
         }
     ], 
     "party_address": "Ty Newydd\r\n35 Egham Hill\r\nEgham\r\nSurrey\r\nTW20 0ER\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP205", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

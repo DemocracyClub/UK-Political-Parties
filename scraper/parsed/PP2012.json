@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Stavros Panayi", 
+            "name": "Mr Stavros Panayi", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -16,10 +20,10 @@
     "nominating_officer": "Mr Thomas Fox", 
     "emblems": [
         {
-            "image": "Emblem_796.png", 
+            "image": "Emblem_796.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "796", 
-            "description": "Emblem 1"
+            "id": "796"
         }
     ], 
     "party_address": "The Rookery\r\nDonyatt\r\nIlminster\r\nTA19 0RN\r\nUnited Kingdom\r\n", 
@@ -35,7 +39,7 @@
     "party_id": "PP2012", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

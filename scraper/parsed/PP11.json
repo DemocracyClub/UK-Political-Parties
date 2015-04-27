@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2001-07-13T00:00:00", 
     "campaigns_officer": "Mr Roy Morrish", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr John Taylor", 
-    "party_name": "North Devon Independent Group", 
+    "party_id": "PP11", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP11", 
+    "party_name": "North Devon Independent Group", 
     "alternative_names": [
         ""
     ], 

@@ -1,5 +1,8 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-03-25T00:00:00", 
@@ -9,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_125.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "125", 
-            "description": "Emblem 1"
+            "id": "125"
         }, 
         {
             "image": "Emblem_126.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "126", 
-            "description": "Emblem 2"
+            "id": "126"
         }, 
         {
             "image": "Emblem_945.jpg", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "945", 
-            "description": "Emblem 3"
+            "id": "945"
         }
     ], 
     "party_address": "PO Box 24697\r\nLondon\r\nE11 1YD\r\nUnited Kingdom\r\n", 
@@ -39,7 +42,7 @@
     "party_id": "PP108", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

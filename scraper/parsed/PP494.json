@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Mary Hayes", 
-    "party_name": "Workers' Union of Ireland", 
+    "party_id": "PP494", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         "type": "Point"
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP494", 
+    "party_name": "Workers' Union of Ireland", 
     "alternative_names": [
         ""
     ], 

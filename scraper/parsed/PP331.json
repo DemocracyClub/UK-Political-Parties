@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2010-03-16T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,10 +20,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Paul Evans", 
-    "party_name": "Forward Wales", 
+    "party_id": "PP331", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -32,7 +34,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP331", 
+    "party_name": "Forward Wales", 
     "alternative_names": [
         "Cymru Ymlaen"
     ], 

@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Roderick Reed", 
+            "name": "Mr Roderick Reed", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,21 +21,21 @@
     "emblems": [
         {
             "image": "Emblem_782.jpg", 
+            "description": "LIFE Circles (UK)", 
             "primary": false, 
-            "id": "782", 
-            "description": "LIFE Circles (UK)"
+            "id": "782"
         }, 
         {
             "image": "Emblem_783.jpg", 
+            "description": "UK LIFE Splash", 
             "primary": false, 
-            "id": "783", 
-            "description": "UK LIFE Splash"
+            "id": "783"
         }, 
         {
             "image": "Emblem_784.jpg", 
+            "description": "UK LIFE Text", 
             "primary": false, 
-            "id": "784", 
-            "description": "UK LIFE Text"
+            "id": "784"
         }
     ], 
     "party_address": "31 Reading House\r\nLondon\r\nLondon\r\nW2 6HD\r\nUnited Kingdom\r\n", 
@@ -46,8 +50,8 @@
     "treasurer": "Mr Andrew Percy", 
     "party_id": "PP1986", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

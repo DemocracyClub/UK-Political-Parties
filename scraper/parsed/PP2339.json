@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-04-15T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_975.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "975", 
-            "description": "Emblem 1"
+            "id": "975"
         }
     ], 
     "party_address": "11 Victoria Crescent\r\nDoncaster\r\nDN2 5BW\r\nUnited Kingdom\r\n", 
@@ -26,9 +28,9 @@
     "treasurer": "Mrs Joyce Hunt", 
     "party_id": "PP2339", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
-        "exempt_from_quarterly_donation_returns": false
+        "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
         "type": "Point", 

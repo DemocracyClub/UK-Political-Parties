@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-01T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_433.gif", 
+            "description": "Emblem 1 community first", 
             "primary": false, 
-            "id": "433", 
-            "description": "Emblem 1 community first"
+            "id": "433"
         }, 
         {
             "image": "Emblem_1111.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "1111", 
-            "description": "Emblem 2"
+            "id": "1111"
         }
     ], 
     "party_address": "3 Meadow Head Avenue\r\nTonacliffe\r\nWhitworth\r\nLancashire\r\nOL12 8TH\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP751", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

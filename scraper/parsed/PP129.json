@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Cllr Anthony Heath", 
     "registered_date": "2001-03-30T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_143.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "143", 
-            "description": "Emblem 1"
+            "id": "143"
         }, 
         {
             "image": "Emblem_144.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "144", 
-            "description": "Emblem 2"
+            "id": "144"
         }
     ], 
     "party_address": "39 Henley Road\r\nLeamingston Spa\r\nWarwickshire\r\nCV31 2NZ\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP129", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

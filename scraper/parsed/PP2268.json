@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2014-02-25T00:00:00", 
@@ -9,21 +13,21 @@
     "emblems": [
         {
             "image": "Emblem_936.jpg", 
+            "description": "i-dems1", 
             "primary": false, 
-            "id": "936", 
-            "description": "i-dems1"
+            "id": "936"
         }, 
         {
             "image": "Emblem_937.jpg", 
+            "description": "i-dems2", 
             "primary": false, 
-            "id": "937", 
-            "description": "i-dems2"
+            "id": "937"
         }, 
         {
             "image": "Emblem_938.jpg", 
+            "description": "i-dems3", 
             "primary": false, 
-            "id": "938", 
-            "description": "i-dems3"
+            "id": "938"
         }
     ], 
     "party_address": "31 Loveday Road\r\nLondon\r\nW13 9JT\r\nUnited Kingdom\r\n", 
@@ -38,7 +42,7 @@
     "treasurer": "Mr Richard Philip Wadhams", 
     "party_id": "PP2268", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_parliamentary_election_returns": true, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 

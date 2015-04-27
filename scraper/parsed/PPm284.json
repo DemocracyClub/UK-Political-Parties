@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2003-02-19T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_225.gif", 
+            "description": "Rosette", 
             "primary": false, 
-            "id": "225", 
-            "description": "Rosette"
+            "id": "225"
         }, 
         {
             "image": "Emblem_226.gif", 
+            "description": "H+LRA Rosette", 
             "primary": false, 
-            "id": "226", 
-            "description": "H+LRA Rosette"
+            "id": "226"
         }, 
         {
             "image": "Emblem_227.gif", 
+            "description": "Residents Rosette", 
             "primary": false, 
-            "id": "227", 
-            "description": "Residents Rosette"
+            "id": "227"
         }
     ], 
     "party_address": "37 Church Street\r\nHadley\r\nTelford\r\nShropshire\r\nTF1 5RQ\r\nUnited Kingdom\r\n", 
@@ -38,9 +40,9 @@
     "treasurer": "Mr John Smart", 
     "party_id": "PPm284", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": null, 
-        "exempt_from_quarterly_transaction_returns": null, 
-        "exempt_from_quarterly_donation_returns": null
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
     }, 
     "geometry": {
         "coordinates ": [
@@ -49,7 +51,7 @@
         ], 
         "type": "Point"
     }, 
-    "register": "Great Britain (minor party)", 
+    "register": "Great Britain", 
     "party_name": "Hadley & Leegomery Residents Association", 
     "alternative_names": [
         ""

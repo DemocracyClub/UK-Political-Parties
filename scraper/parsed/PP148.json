@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Patricia Webb", 
-    "party_name": "Newtownabbey Ratepayers Association", 
+    "party_id": "PP148", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP148", 
+    "party_name": "Newtownabbey Ratepayers Association", 
     "alternative_names": [
         ""
     ], 

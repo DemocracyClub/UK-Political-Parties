@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2001-10-30T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_190.gif", 
+            "description": "A circle enclosing the words Hornchurch Residents Association with an inner circle enclosing the words FOCUS", 
             "primary": false, 
-            "id": "190", 
-            "description": "A circle enclosing the words Hornchurch Residents Association with an inner circle enclosing the words FOCUS"
+            "id": "190"
         }
     ], 
     "party_address": "63 Parkland Avenue\r\nUpminster\r\nEssex\r\nRM14 2EU\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP207", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

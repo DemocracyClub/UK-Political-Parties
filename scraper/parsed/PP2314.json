@@ -1,12 +1,21 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Stuart Morrison", 
+            "name": "Mr Stuart Morrison", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mr Alan Hutchings", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
         }
     ], 
     "campaigns_officer": "None", 
@@ -14,7 +23,14 @@
     "postcode": "CR4 4ER", 
     "party_leader": "Mr Alan Hutchings", 
     "nominating_officer": "Mrs Beth Morrison", 
-    "emblems": [], 
+    "emblems": [
+        {
+            "image": "Emblem_987.jpg", 
+            "description": "Mitcham Independent Party", 
+            "primary": false, 
+            "id": "987"
+        }
+    ], 
     "party_address": "19 Fenning Court\r\nLondon Road\r\nMitcham\r\nSurrey\r\nCR4 4ER\r\nUnited Kingdom\r\n", 
     "email": "", 
     "gibraltar_party": false, 

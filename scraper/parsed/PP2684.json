@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mrs Cathy Gardner", 
     "registered_date": "2015-03-12T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_1147.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1147", 
-            "description": "Emblem 1"
+            "id": "1147"
         }, 
         {
             "image": "Emblem_1148.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "1148", 
-            "description": "Emblem 2"
+            "id": "1148"
         }
     ], 
     "party_address": "Minton House\r\nChurch Street\r\nColyton\r\nDevon\r\nEX24 6JY\r\nUnited Kingdom\r\n", 

@@ -1,0 +1,55 @@
+{
+    "fielding_in": [
+        "England"
+    ], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2015-04-01T00:00:00", 
+    "postcode": "SG2 0LW", 
+    "party_leader": "Mr Bobby Smith", 
+    "nominating_officer": "Mrs Sheila Doyle", 
+    "emblems": [], 
+    "party_address": "17\r\nanderson road\r\nstevenage\r\nHertfordshire\r\nSG2 0LW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Bobby Smith", 
+    "party_id": "PP2641", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "geometry": {
+        "type": "Point", 
+        "coordinates": null
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Give Me Back Elmo", 
+    "alternative_names": [
+        ""
+    ], 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Vote for Family this time"
+        }, 
+        {
+            "translation": "", 
+            "description": "Hold on Girls, Justice is coming"
+        }, 
+        {
+            "translation": "", 
+            "description": "Stop emotional child abuse, Vote Elmo"
+        }, 
+        {
+            "translation": "", 
+            "description": "Equal rights for Fathers"
+        }
+    ]
+}

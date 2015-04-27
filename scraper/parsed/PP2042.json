@@ -1,10 +1,12 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Cathy Wright", 
+            "name": "Ms Cathy Wright", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +19,9 @@
     "emblems": [
         {
             "image": "Emblem_819.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "819", 
-            "description": "Emblem 1"
+            "id": "819"
         }
     ], 
     "party_address": "105 Perowne Way\r\nSandown\r\nIsle of Wight\r\nPO36 9DT\r\nUnited Kingdom\r\n", 
@@ -35,7 +37,7 @@
     "party_id": "PP2042", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

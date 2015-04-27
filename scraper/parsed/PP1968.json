@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-05-12T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,15 +14,15 @@
     "emblems": [
         {
             "image": "Emblem_769.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "769", 
-            "description": "Emblem 1"
+            "id": "769"
         }, 
         {
             "image": "Emblem_770.jpg", 
+            "description": "Circle words", 
             "primary": false, 
-            "id": "770", 
-            "description": "Circle words"
+            "id": "770"
         }
     ], 
     "party_address": "c/o 53 Church Street\r\nTorquay\r\nDevon\r\nTQ2 5SQ\r\nUnited Kingdom\r\n", 
@@ -31,10 +35,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr James Bohan", 
-    "party_name": "THE ETHICAL GOVERNANCE PARTY", 
+    "party_id": "PP1968", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -45,7 +49,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1968", 
+    "party_name": "THE ETHICAL GOVERNANCE PARTY", 
     "alternative_names": [
         ""
     ], 

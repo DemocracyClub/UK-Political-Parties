@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Hugh Stuart Robertson", 
-    "party_name": "Legalise Cannabis Alliance", 
+    "party_id": "PP18", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP18", 
+    "party_name": "Legalise Cannabis Alliance", 
     "alternative_names": [
         ""
     ], 

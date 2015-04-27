@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Francis Xavier Byrne", 
-    "party_name": "The Flauntit.Net Internet Party", 
+    "party_id": "PP161", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP161", 
+    "party_name": "The Flauntit.Net Internet Party", 
     "alternative_names": [
         ""
     ], 

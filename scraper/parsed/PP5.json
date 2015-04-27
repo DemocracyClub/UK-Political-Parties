@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Albert Edward Leech", 
+            "name": "Mr Albert Edward Leech", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,15 +21,15 @@
     "emblems": [
         {
             "image": "Emblem_3.gif", 
+            "description": "St George and the Dragon", 
             "primary": false, 
-            "id": "3", 
-            "description": "St George and the Dragon"
+            "id": "3"
         }, 
         {
             "image": "Emblem_4.gif", 
+            "description": "Symbol of English Independence", 
             "primary": false, 
-            "id": "4", 
-            "description": "Symbol of English Independence"
+            "id": "4"
         }
     ], 
     "party_address": "116 Ember Lane\r\nEsher\r\nSurrey\r\nKT10 8EL\r\nUnited Kingdom\r\n", 
@@ -41,7 +45,7 @@
     "party_id": "PP5", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

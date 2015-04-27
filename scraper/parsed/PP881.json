@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2013-11-05T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_561.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "561", 
-            "description": "Emblem 1"
+            "id": "561"
         }
     ], 
     "party_address": "Glenmore\r\n82 Darlington Road\r\nHartburn\r\nStockton on Tees\r\nTS18 5EY\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Deborah Leng", 
-    "party_name": "Stockton Independents Association", 
+    "party_id": "PP881", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP881", 
+    "party_name": "Stockton Independents Association", 
     "alternative_names": [
         ""
     ], 

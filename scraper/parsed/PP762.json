@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2011-07-25T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +12,9 @@
     "emblems": [
         {
             "image": "Emblem_442.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "442", 
-            "description": "Emblem 1"
+            "id": "442"
         }
     ], 
     "party_address": "67 Searby Road\r\nSutton in Ashfield\r\nNottinghamshire\r\nNG17 5JQ\r\nUnited Kingdom\r\n", 
@@ -25,10 +27,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Leslie Matthews", 
-    "party_name": "The Sutton Independent Group", 
+    "party_id": "PP762", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +41,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP762", 
+    "party_name": "The Sutton Independent Group", 
     "alternative_names": [
         ""
     ], 

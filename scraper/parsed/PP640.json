@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "Scotland"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2014-07-18T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,15 +12,15 @@
     "emblems": [
         {
             "image": "Emblem_376.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "376", 
-            "description": "Emblem 1"
+            "id": "376"
         }, 
         {
             "image": "Emblem_377.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "377", 
-            "description": "Emblem 2"
+            "id": "377"
         }
     ], 
     "party_address": "6B Lochlea Road\r\nKildrum\r\nCumbernauld\r\nNorth Lanarkshire\r\nG67 2ES\r\nUnited Kingdom\r\n", 
@@ -31,10 +33,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Anne MacDonald", 
-    "party_name": "Cumbernauld Independent Councillors Alliance", 
+    "party_id": "PP640", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -45,7 +47,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP640", 
+    "party_name": "Cumbernauld Independent Councillors Alliance", 
     "alternative_names": [
         ""
     ], 

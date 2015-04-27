@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "1999-06-25T00:00:00", 
@@ -9,21 +11,21 @@
     "emblems": [
         {
             "image": "Emblem_109.gif", 
+            "description": "A crouching two legged Wyvern facing to the left: surrounded by a spiral gothic script bearing the legend \"Westeaxe Landricestaefa\": all in white on a black background", 
             "primary": false, 
-            "id": "109", 
-            "description": "A crouching two legged Wyvern facing to the left: surrounded by a spiral gothic script bearing the legend \"Westeaxe Landricestaefa\": all in white on a black background"
+            "id": "109"
         }, 
         {
             "image": "Emblem_110.gif", 
+            "description": "A crouching two legged Wyvern facing left: standing on a plinth that bears the word \"Wessex\": Wyvern outlined in black and white infill lettering in black", 
             "primary": false, 
-            "id": "110", 
-            "description": "A crouching two legged Wyvern facing left: standing on a plinth that bears the word \"Wessex\": Wyvern outlined in black and white infill lettering in black"
+            "id": "110"
         }, 
         {
             "image": "Emblem_111.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "111", 
-            "description": "Emblem 3"
+            "id": "111"
         }
     ], 
     "party_address": "55 Brookside\r\nWokingham\r\nBerkshire\r\nRG41 2ST\r\nUnited Kingdom\r\n", 
@@ -39,7 +41,7 @@
     "party_id": "PP95", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

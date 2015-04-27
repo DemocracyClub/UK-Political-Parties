@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Mrs Helen Simpson-Storey", 
     "registered_date": "2005-03-05T00:00:00", 
@@ -9,9 +11,9 @@
     "emblems": [
         {
             "image": "Emblem_302.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "302", 
-            "description": "Emblem 1"
+            "id": "302"
         }
     ], 
     "party_address": "15 Mayes Walk\r\nYarm\r\nStockton on Tees\r\nTS15 9TU\r\nUnited Kingdom\r\n", 
@@ -27,7 +29,7 @@
     "party_id": "PP440", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

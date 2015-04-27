@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2008-01-17T00:00:00", 
     "campaigns_officer": "None", 
@@ -18,7 +20,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Steven Hudson", 
-    "party_name": "Local Independent Save Swaffham Community Hospital", 
+    "party_id": "PP674", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +34,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP674", 
+    "party_name": "Local Independent Save Swaffham Community Hospital", 
     "alternative_names": [
         ""
     ], 

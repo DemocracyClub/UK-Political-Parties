@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2013-08-13T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,21 +12,21 @@
     "emblems": [
         {
             "image": "Emblem_633.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "633", 
-            "description": "Emblem 1"
+            "id": "633"
         }, 
         {
             "image": "Emblem_634.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "634", 
-            "description": "Emblem 2"
+            "id": "634"
         }, 
         {
             "image": "Emblem_635.gif", 
+            "description": "Emblem 3", 
             "primary": false, 
-            "id": "635", 
-            "description": "Emblem 3"
+            "id": "635"
         }
     ], 
     "party_address": "41 Tennyson Road\r\nEastleigh\r\nHANTS\r\nSO50 5DZ\r\nUnited Kingdom\r\n", 
@@ -37,10 +39,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Ms Joan Margaret Pragnell", 
-    "party_name": "Independent Party of Eastleigh Councillors", 
+    "party_id": "PP1719", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -51,7 +53,7 @@
         ]
     }, 
     "register": "Great Britain", 
-    "party_id": "PP1719", 
+    "party_name": "Independent Party of Eastleigh Councillors", 
     "alternative_names": [
         ""
     ], 

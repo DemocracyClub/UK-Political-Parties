@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2013-03-05T00:00:00", 
@@ -9,15 +13,15 @@
     "emblems": [
         {
             "image": "Emblem_1150.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "1150", 
-            "description": "Emblem 1"
+            "id": "1150"
         }, 
         {
             "image": "Emblem_1151.jpg", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "1151", 
-            "description": "Emblem 2"
+            "id": "1151"
         }
     ], 
     "party_address": "Liberty GB\r\n3rd Floor\r\n207 Regent Street\r\nLONDON\r\nLondon\r\nW1B 3HH\r\nUnited Kingdom\r\n", 
@@ -32,8 +36,8 @@
     "treasurer": "Dr George Whale", 
     "party_id": "PP2032", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

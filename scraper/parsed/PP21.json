@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "Ms Irene Southern", 
     "registered_date": "2000-03-24T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_16.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "16", 
-            "description": "Emblem 1"
+            "id": "16"
         }, 
         {
             "image": "Emblem_17.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "17", 
-            "description": "Emblem 2"
+            "id": "17"
         }
     ], 
     "party_address": "17 Charlton Close\r\nPalace Fields\r\nRuncorn\r\nCheshire\r\nWA7 2UN\r\nUnited Kingdom\r\n", 
@@ -33,7 +35,7 @@
     "party_id": "PP21", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

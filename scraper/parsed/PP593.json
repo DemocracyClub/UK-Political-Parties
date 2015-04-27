@@ -18,7 +18,7 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Norman Scarth", 
-    "party_name": "Anti-Crime Party", 
+    "party_id": "PP593", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
@@ -32,7 +32,7 @@
         ]
     }, 
     "register": "Northern Ireland", 
-    "party_id": "PP593", 
+    "party_name": "Anti-Crime Party", 
     "alternative_names": [
         ""
     ], 

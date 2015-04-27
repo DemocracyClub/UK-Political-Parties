@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "deregistered_date": "2013-11-05T00:00:00", 
     "campaigns_officer": "None", 
@@ -10,9 +14,9 @@
     "emblems": [
         {
             "image": "Emblem_611.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "611", 
-            "description": "Emblem 1"
+            "id": "611"
         }
     ], 
     "party_address": "31 Chapmangate\r\nPocklington\r\nYork\r\nYO42 2BQ\r\nUnited Kingdom\r\n", 
@@ -25,10 +29,10 @@
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Malcolm James Lindley", 
-    "party_name": "The East Yorkshire Independents Party", 
+    "party_id": "PP850", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
@@ -39,7 +43,7 @@
         "type": "Point"
     }, 
     "register": "Great Britain", 
-    "party_id": "PP850", 
+    "party_name": "The East Yorkshire Independents Party", 
     "alternative_names": [
         ""
     ], 

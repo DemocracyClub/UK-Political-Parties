@@ -9,15 +9,15 @@
     "emblems": [
         {
             "image": "Emblem_121.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "121", 
-            "description": "Emblem 2"
+            "id": "121"
         }, 
         {
             "image": "Emblem_652.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "652", 
-            "description": "Emblem 1"
+            "id": "652"
         }
     ], 
     "party_address": "PO Box 14\r\nWelshpool\r\nPowys\r\nSY21 0WE\r\nUnited Kingdom\r\n", 
@@ -32,7 +32,7 @@
     "treasurer": "Mr Clive Jefferson", 
     "party_id": "PP105", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
         "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": false
     }, 

@@ -1,10 +1,14 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [
         {
             "deputy_additional_officer": false, 
             "deputy_nominating_officer": false, 
-            "name": "Paul Armstrong", 
+            "name": "Mr Paul Armstrong", 
             "deputy_campaigns_officer": false, 
             "deputy_treasurer": false
         }
@@ -17,9 +21,15 @@
     "emblems": [
         {
             "image": "Emblem_547.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "547", 
-            "description": "Emblem 1"
+            "id": "547"
+        }, 
+        {
+            "image": "Emblem_1220.png", 
+            "description": "Emblem 2", 
+            "primary": false, 
+            "id": "1220"
         }
     ], 
     "party_address": "21 The Barons\r\nTwickenham\r\nMiddlesex\r\nTW1 2AP\r\nUnited Kingdom\r\n", 
@@ -34,8 +44,8 @@
     "treasurer": "Mr David D. Wedgwood", 
     "party_id": "PP863", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

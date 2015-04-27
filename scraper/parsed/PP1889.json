@@ -9,9 +9,9 @@
     "emblems": [
         {
             "image": "Emblem_721.jpg", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "721", 
-            "description": "Emblem 1"
+            "id": "721"
         }
     ], 
     "party_address": "48 Cathedral Road\r\nRiverside\r\nCardiff\r\nCF11 9LL\r\nUnited Kingdom\r\n", 

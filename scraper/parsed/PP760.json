@@ -1,5 +1,7 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-04-22T00:00:00", 
@@ -9,15 +11,15 @@
     "emblems": [
         {
             "image": "Emblem_438.gif", 
+            "description": "Emblem 1", 
             "primary": false, 
-            "id": "438", 
-            "description": "Emblem 1"
+            "id": "438"
         }, 
         {
             "image": "Emblem_625.gif", 
+            "description": "Emblem 2", 
             "primary": false, 
-            "id": "625", 
-            "description": "Emblem 2"
+            "id": "625"
         }
     ], 
     "party_address": "31 Littleton Grove\r\nStandish\r\nWigan\r\nLancashire\r\nWN6 0LL\r\nUnited Kingdom\r\n", 
@@ -32,8 +34,8 @@
     "treasurer": "Mr George Fairhurst", 
     "party_id": "PP760", 
     "accounting_units": {
-        "exempt_from_parliamentary_election_returns": true, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {

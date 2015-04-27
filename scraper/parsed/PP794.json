@@ -1,5 +1,9 @@
 {
-    "fielding_in": [], 
+    "fielding_in": [
+        "England", 
+        "Scotland", 
+        "Wales"
+    ], 
     "other_officers": [], 
     "campaigns_officer": "None", 
     "registered_date": "2009-12-21T00:00:00", 
@@ -9,15 +13,15 @@
     "emblems": [
         {
             "image": "Emblem_476.gif", 
+            "description": "Land", 
             "primary": false, 
-            "id": "476", 
-            "description": "Land"
+            "id": "476"
         }, 
         {
             "image": "Emblem_477.gif", 
+            "description": "Leaf", 
             "primary": false, 
-            "id": "477", 
-            "description": "Leaf"
+            "id": "477"
         }
     ], 
     "party_address": "149 Wedderburn Crescent\r\nDunfermline\r\nFife\r\nKY11 4RY\r\nUnited Kingdom\r\n", 
@@ -33,7 +37,7 @@
     "party_id": "PP794", 
     "accounting_units": {
         "exempt_from_parliamentary_election_returns": false, 
-        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
         "exempt_from_quarterly_donation_returns": true
     }, 
     "geometry": {
